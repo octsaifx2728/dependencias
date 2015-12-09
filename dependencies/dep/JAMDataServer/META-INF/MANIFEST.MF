@@ -1,0 +1,150 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: localhost/axis/services/JAMSendDbWS/JAMSendDbWSServiceLocator.cl
+ ass
+SHA-256-Digest: NB7rfILSKiyCrWjjzhUiSQbHUWAvhVfpbfkZZ45wP2Y=
+
+Name: mx/com/jammexico/jamdrivers/JAMLeeTXT$JAMLeeTextRst.class
+SHA-256-Digest: NMgvU8FVFhglXRTHtDjaEKogr1/Qp1YLNCuxNQ5ExUw=
+
+Name: mx/com/jammexico/jamservlets/verificaserver$1.class
+SHA-256-Digest: nUGryKhDePmfmNm4vTMLSgrj7swlk7gRC0ud4+z5L9U=
+
+Name: mx/com/jammexico/jamsrv/JAMRowsetChild.class
+SHA-256-Digest: sXrWQAMp9XSfKI1f6fK/t75tL8L8IEWXseHsqA3CUog=
+
+Name: mx/com/jammexico/jamservlets/JAMServeletCopiaArchivos.class
+SHA-256-Digest: GpcjbAL/4rBpQEWlRjRFNjD70irfq0wFsRPO0L0ydFk=
+
+Name: mx/com/jammexico/jamsrv/JAMResultSetDbf.class
+SHA-256-Digest: pjhne/ZMScTJQqU9BQs3CJLDmCZUDL6QeH7KfdA3uCE=
+
+Name: mx/com/jammexico/jamservlets/JAMLoadFileServlet.class
+SHA-256-Digest: DWb+GZd7BdR0s+LkojB1LIF79P2OMf2EiWfctMYstkA=
+
+Name: mx/com/jammexico/jamservlets/JAMServeletFecha.class
+SHA-256-Digest: pNq0B2tJhVUQ/WB12KsPKY0XyEvOOYJWaPoeA3IfzwY=
+
+Name: mx/com/jammexico/jamsrv/JAMUtil.class
+SHA-256-Digest: yG7nZeHHC3rphu2bnpWBLdXs7LfpIH3Cnv9M+cncAiA=
+
+Name: mx/com/jammexico/jamsrv/JAMUtil$1.class
+SHA-256-Digest: xO0JhZDUWgvxSpiMX66w92oH4pVXc6hCdGBZpYCJ7Vk=
+
+Name: mx/com/jammexico/jamdrivers/JAMSendLogon.class
+SHA-256-Digest: QdVn/OhSNp0cJnbGIweiNKsUoLgUoicACV2LOh5RSOc=
+
+Name: mx/com/jammexico/jamservlets/JAMServletPrint.class
+SHA-256-Digest: EEZONhzgHlELu0Mpl0aQRNNxuBMY9aSUYWPTego4GhY=
+
+Name: localhost/axis/services/JAMSendDbWS/JAMSendDbWS.class
+SHA-256-Digest: /KTjG66jv+2dTJrvZB2CTAv4+MaSoZmAbQ8hpSgX/YE=
+
+Name: mx/com/jammexico/jamservlets/JAMServeletHDigital.class
+SHA-256-Digest: GZPWibplQFNVt6tqFO6OLYjg+Mj5KBHKYpaVRHPJHEE=
+
+Name: localhost/axis/services/JAMSendDbWS/JAMSendDbWSSoapBindingStub.c
+ lass
+SHA-256-Digest: +wuHLdSEKCjEjJzSGUQwz9qjB8ea03ZGIElRuy+Cpng=
+
+Name: mx/com/jammexico/jamdb/JAMDataConn.class
+SHA-256-Digest: yCSxQogUGiguF5Dn5IliNu2pfMN7YBuQYyVICD1qg2g=
+
+Name: mx/com/jammexico/jamdrivers/JAMCopiaInstancias.class
+SHA-256-Digest: IQPIeLB4ErORoR0z6uA64v1lvtEGSB/3DLLCH2zvexo=
+
+Name: mx/com/jammexico/jamservlets/JAMServeletLogon.class
+SHA-256-Digest: XZmmSqR6LPp1luopFxKaYOwW7HOlmx3RjwsJwkfyThA=
+
+Name: mx/com/jammexico/jamdb/JAMServeletDB.class
+SHA-256-Digest: cTaL9UXxqOJlyhYx+sngLHeSo4nBy67KqT/9Mb7D5hQ=
+
+Name: mx/com/jammexico/jamdb/JAMDataBase$1TimeOutComparator.class
+SHA-256-Digest: HngskqaItWVPQAcYAxkxkCTPZLSiI+4tGG3Ygs30XMk=
+
+Name: mx/com/jammexico/jamdrivers/JAMLeeTXT.class
+SHA-256-Digest: Cu8IWklNqHuSjryER714jZWFrpUlgnXvtJY7c3P8U8k=
+
+Name: mx/com/jammexico/jamservlets/JAMIReportCSV.class
+SHA-256-Digest: 3WSW/gBGCZhFp2Dtu/KejLMy8RkOOZoDy+OaL2QICWg=
+
+Name: mx/com/jammexico/jamservlets/JAMServeletChat.class
+SHA-256-Digest: qdYnHVWB/xkT3MQgmXnFoXFmQaS0kWc3Xwmo18DwQjw=
+
+Name: mx/com/jammexico/jamsrv/JAMRowSet.class
+SHA-256-Digest: eUZm47uiMJYMISTEOH6Z4T7furWrFrhoPfFK7P/P48I=
+
+Name: mx/com/jammexico/jamdb/JAMClienteDB.class
+SHA-256-Digest: nWRIHy0j8Gry52xn7KCJ4FrR6yJ9cCmk06jbNajh6nI=
+
+Name: mx/com/jammexico/jamsrv/JAMNewId.class
+SHA-256-Digest: k/Ja+q6sBggFb6BO6cuQTDq54g5sfYzBlcRT1jjC2oA=
+
+Name: mx/com/jammexico/jamdb/JAMMensajes$doMensaje.class
+SHA-256-Digest: Ozyjvs+eo/as/bGSOdWC6qPbCeVnidEvQmsYMYImqik=
+
+Name: localhost/axis/services/JAMSendDbWS/JAMSendDbWSService.class
+SHA-256-Digest: qOHTkE2muh8YUe5FZUlcN6GKTjfqDlPu+MhH+YUMl2E=
+
+Name: mx/com/jammexico/jamdrivers/JAMLeeCSV.class
+SHA-256-Digest: ZGUJsnRyxonlzbTJV/cP1sjNQPkCjdEjyubPc9CO4zw=
+
+Name: mx/com/jammexico/jamservlets/JAMServeletCreaInstancias.class
+SHA-256-Digest: DWbjEI9ZSWyTW28vgPz62nRTSiHAuDwJVNTDehQvyH4=
+
+Name: mx/com/jammexico/jamservlets/JAMIReportXLS.class
+SHA-256-Digest: Be7s7lX7Dxoljznr88igjeBfuBSkvreK4XN25I+lTSM=
+
+Name: mx/com/jammexico/jamsrv/JAMDataAction.class
+SHA-256-Digest: vS7gamyRwHPehxmanQOHAdKlfkTrMj98tUySe9A7DXc=
+
+Name: mx/com/jammexico/jamdrivers/JAMLeeDOC.class
+SHA-256-Digest: i4vonYpc8esvCuV1ye2mEc1/cxTI8CkDLe9f4YL94Ew=
+
+Name: mx/com/jammexico/jamdb/JAMMensajes.class
+SHA-256-Digest: TnunLJpKqcpOXD3Acx2WcWpqVnhhYNGwPrmdVDIYcuk=
+
+Name: mx/com/jammexico/jamservlets/verificaserver.class
+SHA-256-Digest: 0xMorxqFbgaFO8KP4QdTCbisJfun5UtMBjNgChe6QgQ=
+
+Name: mx/com/jammexico/jamsrv/JAMDataActionsGroup.class
+SHA-256-Digest: mdcyo07wSf2bGrSoc/MJwdAkSZsB0tZ2c1kK/d7hjeo=
+
+Name: mx/com/jammexico/jamdrivers/JAMLeeXLS.class
+SHA-256-Digest: zMgri1Bf0pS9kVh8XxzH7L9AKQrx4gVcAJjQ6Yt+DOI=
+
+Name: mx/com/jammexico/jamservlets/JAMServLet.class
+SHA-256-Digest: EteeQOZ9qSFe7AGtTQ6E8yR4p+5xRhgrjfor8qa3Md0=
+
+Name: mx/com/jammexico/jamdb/JAMDataConexionesInfo.class
+SHA-256-Digest: i+0dCdhB2mFZjUhflk561OEFKL64d6BVcFQEySvyIb4=
+
+Name: mx/com/jammexico/jamsrv/JAMParsingString.class
+SHA-256-Digest: pmO5dcg+DhCIcfiB9Fcy6lFE8qb/8XsYLF9R9ZA/I1I=
+
+Name: mx/com/jammexico/jamservlets/JAMIReportPDF.class
+SHA-256-Digest: uGSnlYIliFGNeBCwwTbRdoUqOH+6xKXrH67Vn+AH9Mw=
+
+Name: mx/com/jammexico/jamdrivers/JAMLeeDOC$leeDoc.class
+SHA-256-Digest: 5oIlOuiC5YRxs2G3AKWpU0yDW0csJ7SBcOZVBbWGs8s=
+
+Name: mx/com/jammexico/jamservlets/JAMServeletSeguridadEnlace.class
+SHA-256-Digest: HQsyAmeptFZ8nI1LqTmJORWMh6df6kQ6msHaYWeskdA=
+
+Name: mx/com/jammexico/jamdb/JAMDataBase.class
+SHA-256-Digest: bW1/9IA5CvN3G9JO3bjTHfp71IL1PuZ1DOXonUTRnvo=
+
+Name: mx/com/jammexico/jamdb/JAMSendDbWS.class
+SHA-256-Digest: pC1SNzIJMXZ14HFDHPFjS6l8tkNiDfDrK0MLMXFU+bI=
+
+Name: mx/com/jammexico/jamdrivers/JAMLeeDOC$MyPOIFSReaderListener.clas
+ s
+SHA-256-Digest: DlRGWlRnq8UuuEIA9vw2QPCkUWafgVH3gYpMmLh6cjM=
+
+Name: mx/com/jammexico/jamdb/JAMSendSql.class
+SHA-256-Digest: NC9R8wcguljuVWqA/y4sDOXzms2zbKcMFSiuNyMxDKw=
+

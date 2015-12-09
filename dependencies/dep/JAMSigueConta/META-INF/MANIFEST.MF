@@ -1,0 +1,559 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$3.class
+SHA-256-Digest: Ziu3jl0iXzN659ZMUmZvIGrK+QMy6i9yMw+zkG14c7g=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$10.class
+SHA-256-Digest: 76b/vafFnYtEahPHYD3Uz3JTuzPj0VO7bj3QrYhwcBM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$5.class
+SHA-256-Digest: ZqlRii3pclBwNcYYLkJ1pe711pO8AcAopVdN3OPLBFg=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamhon.class
+SHA-256-Digest: GQCouaYNnK5uBmWHUc4jWDM9nO/R64kaPk+Sz1aMzbk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$12.class
+SHA-256-Digest: wP331d8mWCALDiXoV9yH4LW81vbV88SCSVb/nk64DiQ=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$8.class
+SHA-256-Digest: mOPbfz/pDeMx3rhwvUCmk0ubzs1NDdC+t4zIUPUhm3s=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamhosp.class
+SHA-256-Digest: aAUSoMwUQolTKEm8DE3S/xqPi4bkBjqUc27D5c9xAL0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$2.class
+SHA-256-Digest: mwOqoB5I3qoo7GU8cP1LTDT2tLZ0qZSlFvV78/Tpal8=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$7.class
+SHA-256-Digest: hf6h/NkJxQvCE2KxgjOlQNFkgRocG5OPdggKIe7hz28=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$1.class
+SHA-256-Digest: rt4V/BaUUsCjCfdoiiWpZ/9wlVZ1NjG1NStOOQNet3k=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$19.class
+SHA-256-Digest: Nqati5Iv45LpA2mCamMCdKhNq6JBh3YIX6pgdVIVL9Y=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$13.class
+SHA-256-Digest: BU/K+x6Srx70LAWJz42N6RBK40ph6LDIr+gxDUV/0KY=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09FiltroImpuesto$3.class
+SHA-256-Digest: gC5K0k4Fj3WOc/iUmGiTOZ2IsPQdacMVXFvYKFVOGIw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$6.class
+SHA-256-Digest: eAsYCGyNivyETURXTiGePTg3MvYmu3uEysOSGzDAGtI=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$4.class
+SHA-256-Digest: rjbDafsrp4yJHn+Ry/5Rw/m3QspnTxDFfK9zZ2Qk3u8=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$1.class
+SHA-256-Digest: m9um6oOpzASPiZXnh5MLER86v2UCx6H6aYsCJEp27ic=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$5.class
+SHA-256-Digest: +lgC+vP2Lw8jVhY2W4v/0qzU2yS/t3E8hMvfiW7y7VU=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$MsgPoli30BarraDeProceso
+ .class
+SHA-256-Digest: 5/xW0hO4rw99X/+w3FN1vgULPN4kh4xlYhdrfGD6tEo=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamiva.class
+SHA-256-Digest: w3ylSk8e0o6toCemL5VLz3gstdfM3car4GwATwul1cQ=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli28$2.class
+SHA-256-Digest: SDjmcP0S+yba48Sjvn4VC2qYClTSvdBjuFDMhzBajc8=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$5.class
+SHA-256-Digest: XJaGyhlm7FSAJF1f3ZBmicKvwNdy4+R+I79m4o1mzLs=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$13.class
+SHA-256-Digest: RAgly/ykvGQthxOQvWcnN5UJWccUUU/mCJ3/uAh8qKw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$8.class
+SHA-256-Digest: li5vxjUHVv2iXHYkOENiF7KhZqLmAYiGBW1sQK4Vgy4=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$29.class
+SHA-256-Digest: oXgDPOuVGNl26mOd1Jgq0mrD/H3lbP4ANkKvl0Q5qQE=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$16.class
+SHA-256-Digest: i8+o0Wv8Fj1S1GRRFrh5PxIe2rHYhikPJVNE4f4uY7A=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$26.class
+SHA-256-Digest: DvH5F4E3fB/cnme+/OJOzbVJDVspR46N3zTFCpnqRGg=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$16.class
+SHA-256-Digest: lwRX9Ut5B9ywzVcVEW1qWIqc62UTIEJglELkXakZnQ8=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01Impresion$2.class
+SHA-256-Digest: dOQX4MMKUfiNuIH/uHEANQakDG35BSNXl70O4uym15Q=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09$2.class
+SHA-256-Digest: 7Y9qVfY1RsVWBCkiGNHVW+MNZE3s06Pbe67i9zhYWYI=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$9.class
+SHA-256-Digest: QeHz0kuMftiX3oUopVLvtadb02AMsTOR9MT9/pwcZKY=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23Input$2.class
+SHA-256-Digest: PgyHVWRgOzShS5F1cnBO6vBJ7nXYcalA4QE+1KCcRT4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$1.class
+SHA-256-Digest: 5Uj3RNZtnWCPikz90OBUtTk//FFM7I5bVzcQ/6k0IUM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli28.class
+SHA-256-Digest: AFydJf+m5en49AQ6pv/lNfh8Ejo+L6XC8mgJb3JL30w=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$19.class
+SHA-256-Digest: jpp+KhvTDFtBkLfMs++vvirK3bMrVRhF+gs1oxuEGJk=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$13.class
+SHA-256-Digest: nG2CH8fDmNUosFpwMdIo7v7XlCIFrDelt+WiXg1lSRk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli20$4.class
+SHA-256-Digest: f8K94hUndvRo+ClLK02lhQ6UBPCACgQLjWXreYtwdg4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$8.class
+SHA-256-Digest: Lt1TNuGNBt09Qct/W99zOMXdsRLwcSweI51F4W5qZLQ=
+
+Name: mx/com/jammexico/jamimpuestos/MsgPoli23Model.class
+SHA-256-Digest: zowTzXVq9RbbnwWSb69v8sO9T2GgFP1NznnkS5qK4kg=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli23InputPressedListe
+ ner.class
+SHA-256-Digest: /ByLbpDY394v5r6hg5d/5k+HyWRDn11aXjx/5V2oprk=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamietuimms.class
+SHA-256-Digest: iXKw+j03cKFVTnLATdyyBYHdsmr5YNclxEmBLWYz8c4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli26$3.class
+SHA-256-Digest: 7dedh6w5WS7scLO2G3Uz2l6/Dbsj+3JSq9He6dEkXSE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30.class
+SHA-256-Digest: Yy7bxsRO5SRw56YuEFyiaDQ1uIVUdpIgSGjJTMgc+xY=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$4.class
+SHA-256-Digest: 0IcZ2jc4BFF+h90yFk3FLnfT6fYqAU2INyCKIillm1M=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$MsgPoli30BarraDeProceso
+ $1.class
+SHA-256-Digest: 1/UyV/wKmiBn5Zs6t/SqZFjdxKf8ysgTLcWpkpe0QNM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$18.class
+SHA-256-Digest: /JXfNBmmcEVWz1Rf95W9y4LotyKCHpe+p/lqP/SJCLk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04Facturas$3.class
+SHA-256-Digest: XyO3DQ1oRlkhbEoWvIJ0LxJIqiRdKAzUBwEfETcMvw8=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli24$1.class
+SHA-256-Digest: IYP7C4xaJqDhFKTlK5LPJzBWtZ5Bdj4RaRYT0T+6ICw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$7.class
+SHA-256-Digest: p4wvk8KrQDNa+ELrxOpjxd374a/G31+20J1YX/UkkM0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09FiltroImpuesto$5.class
+SHA-256-Digest: gnUqkkI3L1iCO1EuTjjqQ6Nuwcq4gCinbAf2Jo/d8rk=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$17.class
+SHA-256-Digest: hTqjCsf0D3pvxeOJNFRne1ZE7lARfSInIwVfD7+rxRw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$15.class
+SHA-256-Digest: QfTqWHAR2J0T9QLmrbIG+VbV48nOKVBbUnmGxijVF8k=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$6.class
+SHA-256-Digest: WcRlAEkSWfJp2JjUuZYanNqYg+5rCdoiBez2urxj95U=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$3.class
+SHA-256-Digest: jH7Fmi/Lom7cSXYfDQyR8CJgqUSz24WNE5eRLogdxPY=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamietu.class
+SHA-256-Digest: Peu8vs2DcVXP/tpHR2DIHvRaOX2kR2xIqoYzuXZ3qTI=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$1.class
+SHA-256-Digest: Uk6g/SeqGnfJQ2REVi9bmcr6Ffuq+iPUYGQSaioaVtc=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamisrArre.class
+SHA-256-Digest: hayWag4l3HUPuCNysFrkejN06vnIDvs4h5SwHhYR0uw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09$4.class
+SHA-256-Digest: zaPf8E+gtkKjfjrVx4Ry67PngTKJL7iuuY/t6qhKxYA=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09$5.class
+SHA-256-Digest: OjWgAMNxIbaur3BQEK1QqBMvqKLogpScZQ3iu277Qfk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$10.class
+SHA-256-Digest: mHnhaLogDGkwGeMHMw99KXohsiZN4hGNAqS7/Z/bM+E=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$24.class
+SHA-256-Digest: eC4kUlYta0YtERuvLStGD6NwncgTe3piOnFM9bB6SDE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli20$1.class
+SHA-256-Digest: sKHJzneykza5KC08gVNB+DW2dt6v+8RRbPCAFRvot9w=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst21$1.class
+SHA-256-Digest: qFmqQvVMZQmZp63klLqZJsWP62f4PeApP28OsVWKy2o=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$5.class
+SHA-256-Digest: L5Dut3JCGw4S4oSicUGuNYJwWDqFdUZbqay6QIaXv70=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$9.class
+SHA-256-Digest: aE7gkSfHDdlcCRQDvUw4UExjDEEq9fSeArzF9+dEldc=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$11.class
+SHA-256-Digest: MyhepWcP3/3LMhDPCRMYLzjq4jhJXBBpsg7v6hSaSXw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09.class
+SHA-256-Digest: ZIduG/RX9fmWMt9cPBcqllGJ93QnQpU9WWzrGCrzTD4=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$11.class
+SHA-256-Digest: lj53SLjJgWrNzm1rhAkzdU3WS6ezesZ9LqNACECMxk0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$6.class
+SHA-256-Digest: T+kZdh0YV3h0IX0a86t64WZ8ErKEzhhg0aPwY1evCsM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09FiltroImpuesto$4.class
+SHA-256-Digest: VM7sE4J8AH7LrZ0PlqWqcO0MpGBRCtHyypVZVp2Jjbw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$16.class
+SHA-256-Digest: 4r0hrOimMGa+iK6vkqd5ug0OLQH6aaX6880hsrwaNW4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23Input.class
+SHA-256-Digest: ftT7G/eytlMB5uPwVWNXlmr3i9afHmyYgcNPwr0aT5Y=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01Impresion$1.class
+SHA-256-Digest: zARqBKxY6CrRC/2oNHWsJ1QlONJmpyIgxSDd39MSlL0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$17.class
+SHA-256-Digest: 9b+npW3kbvlm0ysXqGBgOSCa/nom+2E9SToqllIKKOA=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$6.class
+SHA-256-Digest: FuKerBOgKRmoj3pUbTOLC6BM4PmZxQraTcDETBo4pFU=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli26.class
+SHA-256-Digest: H9v9ESivw8gx0Wse7CkyJAFa6itR5b9x93kmfBvO0WM=
+
+Name: mx/com/jammexico/jamimpuestos/MsgPoli23Datos.class
+SHA-256-Digest: acNAsrQGpSH6Vte1WgTNWATYzL1a5K01fxqXRzgk86k=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$23.class
+SHA-256-Digest: eRWKQo6K90WFyOVBLJ9RA+A4Oh1fKTvE3fOPH4V/SBo=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli24$2.class
+SHA-256-Digest: pM9LHdIquMya1CTsXzDSLbtZBMTRRbdBL5wFCtEK/ok=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$2.class
+SHA-256-Digest: TgBxF2B2rAZHW9/VUmkaQ2GQ+QX1YGIqlNVvpHK3a4U=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$18.class
+SHA-256-Digest: eNahBKCeCFVieeKBLwkU0x5DRKaaDCTCil6ecUBMjtc=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamisr.class
+SHA-256-Digest: yHJKexUfOw61i5zGupFKNGJReHNfN2JmqwYR85x1J7w=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$6.class
+SHA-256-Digest: 93xPfFrTG6QnHcVFb+cf4usJOOgR+gszPrWXjAWozPk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli28$1.class
+SHA-256-Digest: tYBW9WvDV0TuhMiMA/nkbFMD6B+2P+CuJmCw3uF/Pcs=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli04FacturasPressedLi
+ stener.class
+SHA-256-Digest: YE3tfjcx46/kg6srZohhubE8IbGwJj5VWoa3V3VtMHU=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$7.class
+SHA-256-Digest: jxg0uW3sldA7Mw2ynueWk3DTGhRcWVvjMljn93Z2Ohw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09FiltroImpuesto.class
+SHA-256-Digest: aE2G/CsAgc5GNfzYv0gedWIEZok3kIUaSZ1pecsiW2U=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$10.class
+SHA-256-Digest: 335NoeYsIaFXPHY0hT5luuc8ph+GDpFmVcy3kxEb54s=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$6.class
+SHA-256-Digest: jGlTPcoey/377IdBJF/dIGzxJLkO9KAv5CSSHumXxRY=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli20$2.class
+SHA-256-Digest: kIpgH8phWZoIMhJS7TZbX4aIRodFERgySsRpbb50taU=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli20.class
+SHA-256-Digest: GWkiEFAR67TA7bujXuo6zpYjnxnM37+w2x0GhK9N/wg=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04Facturas$2.class
+SHA-256-Digest: ckg3l+pPEyKHLGxB8zlHYX2/wkWqpsiLa7WqvoGwT6g=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$8.class
+SHA-256-Digest: PgemysX41nv5frsQsFTfdnSrzoGOO53BxWqjMgSvitk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli20$3.class
+SHA-256-Digest: 8StVZgfDwbtERdADWGka9twG9qTapW8q5vDAd8pCmoY=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$12.class
+SHA-256-Digest: crIFCqpVSsgl22oxuB1aT/L/7e/B2ka8pI5ijld4hx4=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$22.class
+SHA-256-Digest: k32Som856oP/jEcqA/6BkeGLDkpzeuwrvMh5ptRGV/M=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$8.class
+SHA-256-Digest: gdK8yQagt60Qfn61KG7dM1BTy1JPab53Ze9XSQ+HjGQ=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$5.class
+SHA-256-Digest: hu977brvUIZ2HESrBUmveKq+qdnVoK1Ics4iqPHiXAU=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$1.class
+SHA-256-Digest: BPUXGkCQnFPXsx1BKUlwLUyXgBjPPQ0Q1QJ0vVASW4A=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07.class
+SHA-256-Digest: KWH1OJo/nERUIfD8yJp+TDfw4xHUkvRLheB9Ja5/Hl8=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli24$6.class
+SHA-256-Digest: vJv0hQnz+J24vslTUgrd0cLnr5IaThrGMt6LukmX9wY=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli04FacturasPressedEv
+ ent.class
+SHA-256-Digest: X2MzSvI8u/hnVmk2rSKHDZbCl4/ApHbtriRPprzkF8k=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34.class
+SHA-256-Digest: mB/2nivasa/3PusO86Q69aXML+9xGSPmDeDYag63EBM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$8.class
+SHA-256-Digest: 5oM02jOazL2XBXxFKFEYs7Mv4ZYW+dOt5SYOnz9lRw4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$1.class
+SHA-256-Digest: QQ7tHNoV/E/Ga9zz1U4yK6j7mCZg3+1hZZxr53cxIQ4=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli23InputPressedEvent
+ .class
+SHA-256-Digest: ztLQOTCK5RFxTzdheVhnGcx+vKkikIy1pvZEjb1iwXE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$3.class
+SHA-256-Digest: qUTRcXTFpiqKLSqhmvJJCoaFC2rwdt+rI/Iz5Pk0Jv0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$7.class
+SHA-256-Digest: U1geenIPLEPMu0gQGO3cehDM+IjphzBdRfGI6OQ+MIM=
+
+Name: mx/com/jammexico/jamimpuestos/MsgPoli23Impuestos$doMsgPoli20Find
+ Code.class
+SHA-256-Digest: KdsqA7T7xcfOHYrSDNkfR3+wpXrj+Si/f2pHpHOtOKE=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamieps.class
+SHA-256-Digest: 6SFThypxQEoErrgqA6IBOP4qplfll3pBDM3z++31WoM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04Facturas$1.class
+SHA-256-Digest: FseIMEogctp99X6AXdkmXM4CK76cqy6Z9+JIodJA5y0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04.class
+SHA-256-Digest: Kc8XyX+azvDJNplQ5DVk8xt8znEHzNH3/3nwB7zSo4E=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli24.class
+SHA-256-Digest: 6MJNuYsqzVO3xM9abT6tK1TSUVzzcrMbv+NXFR0pxmw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli26$2.class
+SHA-256-Digest: Lo73WQstTu2rN/QxtxsyFKBRaTfBoFTy6TG1Jl7RlYs=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$12.class
+SHA-256-Digest: IyJIepAlK36MIu2jcgm9ObLmcBp4BnSH4k3YO7BMjrQ=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$12.class
+SHA-256-Digest: jeHOB0sjLonhykdvZ6sak0mxTCmxTNit9U8zBEbyHkQ=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01.class
+SHA-256-Digest: 2yuYY/vc03di41YUlSoEqHWWNLUg7UAlFX6gSaK4LNs=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$7.class
+SHA-256-Digest: xefrjwtUX+5ddzP8rxh6C11Do7PNMrBqGRY/0gNdfX0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$4.class
+SHA-256-Digest: y4fpDILf2W471lzeBLTUcRl77XWEttu76FggOhC20Qk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01.class
+SHA-256-Digest: khemQbL4VYu9F0vPKQMDNuv+LJMZwSx9eMuSq9fTUCY=
+
+Name: mx/com/jammexico/jamimpuestos/MsgPoli23Rst.class
+SHA-256-Digest: T4ulU/V/CtA7JYmjYZfIS7i3j3sl+VZbF5v+AFChSNQ=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01Impresion.class
+SHA-256-Digest: fmvvxDdMjce4zfrcA0M6/MMFvgjfp5Z9I+WQ9gK6CQE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04Facturas$4.class
+SHA-256-Digest: 3uedo9qd19NAhBAC91rGDe9NQZS4xtdRsVCAwDwh4wk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$11.class
+SHA-256-Digest: AJG2tvrD2UXrnew1USzWWTnm9hmfIJzMZn2QVYBaes0=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$28.class
+SHA-256-Digest: 6v20j2H7ryasMo9JsKY+9TqEP+5GIzBmm38OPaOHduw=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$2.class
+SHA-256-Digest: kHvaxeEXzQT9SqIhj4jfbZ6qsuE9q6hkKTkVR3y4tL0=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst21.class
+SHA-256-Digest: SEFxHLquZqT1EwAQ/hsV5P39xqPO5Z7KwfMxLjGd6Kg=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli28$3.class
+SHA-256-Digest: kD209juaiu+NCUiROTyah94xplji69xK+RtNif29nAM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$2.class
+SHA-256-Digest: Sbh4uDsj87C0ErXcTSioHRSbQiCM7+2PrFgX9jXN3RY=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$4.class
+SHA-256-Digest: RBtTh71mNamlE1olzzDmlMbrLu3k1+74pC8Cki90+hQ=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamietunom.class
+SHA-256-Digest: GrvkpFpqGu/8YXPgv6pKh4/38S7vPwsUI6CsU5hO1+w=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$15.class
+SHA-256-Digest: +8r2dQ2b1hp5f3pac09e1MDFTD0AHM2BRK/XpusmX1o=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$5.class
+SHA-256-Digest: c7WfPeoJAySV1bVAMfDRux6R1iJ+QktRmauVgBym2x0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli24$3.class
+SHA-256-Digest: 3fLeMe9B3Yy2JGVyqX1O4JRwuZ4gIitu/7VIHvkAlKE=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$25.class
+SHA-256-Digest: /WJMWU3n6SvFxInihI9eix3h7SYhGXq/vvJRFSJtK08=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09$3.class
+SHA-256-Digest: Lm5cNUz8w8z0NPmhALU9gQk75pV9Me3RTgPOt8sGyzE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$11.class
+SHA-256-Digest: UDr/LYaQYIFYNBcDTm55k+y05A+WfbSxm7zfI7lxhrg=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst21$2.class
+SHA-256-Digest: cr/JmVTkk7ONurxriqAf1fXEFEmBRF1ZBXkFCwzcQLE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09FiltroImpuesto$2.class
+SHA-256-Digest: sN8CiY4v5qXZISxX1VcumomOkUMMDLzX3mLoshX81+c=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$1.class
+SHA-256-Digest: zHj9TX56RGNNiAVbd71v45498LN1laYMfemqud4DTDI=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$14.class
+SHA-256-Digest: qkmrVBTKQR0htqtk72Jr3AF26CYES9IluRzDEEiOPgI=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$4.class
+SHA-256-Digest: BguRl5/GJO8g750ZTJFA77m0m2USVRF4XlkMQpghaaM=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$7.class
+SHA-256-Digest: qQ9CReFrr7X+9FIC13zaMxCTNMJynpEm5uavClNsoTY=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09$1.class
+SHA-256-Digest: +bwDTjvTCEWtuEBqdWNemLuMyUpSN1UkRs9/yjMbIuc=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$20.class
+SHA-256-Digest: cmqXX/mUp069zWdrk6DX0JPSvM/1KSOfLreHUaZTWlg=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$27.class
+SHA-256-Digest: ThSRM/R8B3hhuVT/m7imp/7z6RDunD43A6/a7TLzwTU=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$2.class
+SHA-256-Digest: gyWSg9hDCKxmWSADN0bhbX9Tj3zoYnkbvEv7jakk+P0=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$6.class
+SHA-256-Digest: 3dplK0xN0PUBYTgKx3gVLq4ntnJmC6fVtiw7doHKxSI=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli26$1.class
+SHA-256-Digest: 9VTA2aAaUUD5sgqsl1hSp0BPxlhLSEYsSerN2TSiM3k=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$10.class
+SHA-256-Digest: jKqpwXIbYJVZHC4t0JAWjBB3L/o3aqU7d5cREtpeIPs=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$3.class
+SHA-256-Digest: y/FMDEVGcEA+3dFA3Vjt8r183+/cY75BrYZ629VgaNg=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli20$5.class
+SHA-256-Digest: aXpLFxRZyNQOtjyUZhNE+L5HnhLySCuybEdgNRBXAkg=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$12.class
+SHA-256-Digest: tdsCEfW9jUO9hBiCAXuMNvSFkRK90XdTnRDBjl+mIyI=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$11.class
+SHA-256-Digest: Gze8lviAhOG3EdjdEn1KnYLYpewtn5eWpgq7uXVmELc=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli24$4.class
+SHA-256-Digest: /nqHX6+mvjKm/IdWGmk4K5NI3WguMRpPQiu9SLvuE/U=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09FiltroImpuesto$1.class
+SHA-256-Digest: TOB8RYZp7UkYQPpf/PPtJtfEBBsrprKbsgBO05MJdC4=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$14.class
+SHA-256-Digest: wL+U7rcFh/hFD6T7oO4xXggwq1t4WwEn8CTcGQ1Vkfc=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$14.class
+SHA-256-Digest: 8FMgopWtv15EV6EnUZO15el2qNgQtuvPAuN3idp/y9s=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$3.class
+SHA-256-Digest: XpxUZG8wTFD1SiTNIdNEnNFW9v/0GS8bK5/qe0Lz9Ho=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$8.class
+SHA-256-Digest: vbbTQ/Y8ynLmmWqF/0HefIZ2DA1JdecpCHkIQ56mnZg=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04Facturas.class
+SHA-256-Digest: c7kg2v1SttjCmSkFHAtq5hJUYPy1IG9RWQ9iHx33A18=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$4.class
+SHA-256-Digest: vOQ7FGxg7k6NQfiEMLPRw/99qViTy7lzkEOOui68b9Y=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$3.class
+SHA-256-Digest: 9IeKHra4wKsYiy+kbckRGBjosvGwgm4BKesdRDDasYI=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04Facturas$6.class
+SHA-256-Digest: zG6NWsUpxwjae6FAyWZXmye/uVMhI9abXVULo7omZb4=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamint.class
+SHA-256-Digest: mfAy+p8c8KhfhTCKxnqtjVVt2kBUMEgsDMwlEVsfDSc=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$21.class
+SHA-256-Digest: Qbh+iaPtjHhzpbre8iO85ZuIjiG/YdAZGgoEZhvERp4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23$7.class
+SHA-256-Digest: AB+jFzUJcIBCeU1A2n/tIIMgZwiSOSnbqu6YaKsVllY=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli24$5.class
+SHA-256-Digest: lV10VDXO3ZBcS7tsucguJ+sQeVWf0ms3tfHpz6VArFc=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli30$3.class
+SHA-256-Digest: gwdGx22npQ5AdX9dK6rsfc2sUki35Z8hS3LN+H5qziQ=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$10.class
+SHA-256-Digest: ihNPNl0adRBXwTvFzbgB9IGXTUqLGGfdG6XBZJ57xNc=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04$4.class
+SHA-256-Digest: sKWQrdmtRM5qSgGx7J8XRNHJ9MbVwv3fjqh+SGC7BpI=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$2.class
+SHA-256-Digest: 1xKMpLs7wR0lYAbBZ9kWiRANbyI6zbxoo6wns7+Lh/4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$9.class
+SHA-256-Digest: Pt1mT9JI2dw4Qsm80I7xy7SUVyKyoKmZL4dO3kaHLPg=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$15.class
+SHA-256-Digest: k5luijpJd3gU2nk3kG9/CUWZwR62AElfOyM6WL4az7s=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli34$2.class
+SHA-256-Digest: gvMAlNZQe3ShZ2L6ZuYqnTC6+nSCZilGzcHaoqANUwg=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01$9.class
+SHA-256-Digest: akUZG7BSQw8udxjxju2i5I3yknUQzWAz9Mq8P/IzsxE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04Facturas$5.class
+SHA-256-Digest: 02Dx9F7CwTaizay9CUBSm1vjmlAMGlunH0Tj044LI9w=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli07$5.class
+SHA-256-Digest: u1F+vLz+kX8EvNzsKI0nGyl/nfU3MwdAKqr++Hkl7v0=
+
+Name: mx/com/jammexico/jamimpuestos/mexico/jamnom.class
+SHA-256-Digest: frFHkY9D/sBg8ZIVOPSSdZzVO08ffy8XTKEvyzkygjk=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23.class
+SHA-256-Digest: 7Py52WknqHbvnjxmMAbr2qo2JaZ6LqVjtOof27NFzos=
+
+Name: mx/com/jammexico/jamsigueconta/SocSyst01$9.class
+SHA-256-Digest: P/OFmDVlL+33SFlbwi1Hv5IKCoLw3ZsvP08fim6gA1s=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli23Input$1.class
+SHA-256-Digest: io+KMLLR2WCl+XQ3Xwfpnkqus/S44MR5bJd5OWABDI4=
+
+Name: mx/com/jammexico/jamimpuestos/MsgPoli23Impuestos.class
+SHA-256-Digest: +NWIDE+7rwLA8a6t8pmLtWNx0gY6Pen/cft0H6Cttds=
+

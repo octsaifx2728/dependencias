@@ -1,0 +1,627 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: PV+I7kTPZ8gCeM5tHxKVFfsYblXOz
+ K1FZi7by0pD/EA=
+SHA-256-Digest-Manifest: BGsbPyiEJLijlImqQ6UBQfU+d9Z2ArKlowv+/JDp7NQ=
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Devoluciones.cl
+ ass
+SHA-256-Digest: tKMyQyZI4AgFJdZBPAjZQabe18Tb626TythvCTBpPS8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$23.cla
+ ss
+SHA-256-Digest: fOs3k9/8EobpiA5TNmteH5PELjFNQMaNBBiUARc4UH8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Devoluciones$1.
+ class
+SHA-256-Digest: quV4o0R0joO+0fMUsP3o536uhzKfnXdDbGl3p5WMBQ8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10ListaPrecios$5.
+ class
+SHA-256-Digest: mYKCdi9kf7WwUnnpCqxqyNxLJ1ZCehmq6ESp8A8SAiU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Apartados$2.cla
+ ss
+SHA-256-Digest: +JLau/rhomY7ntZuI/vkJ4miebjMsHEYkH/mKFLovYU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Descuentos$1.cl
+ ass
+SHA-256-Digest: 7zZ2v6BVJ9RGrsKCr8SB9uIOqMOLp0J0gx6pvYbLvMI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$9.
+ class
+SHA-256-Digest: zD7d88KNUdBxlf+c6+SbJdnWXlX/oQ+IJQVYu6Nh0MY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Regalos$1.class
+SHA-256-Digest: t3vol4HIT9JH0Jucl+4hl0nucS+NDwvkTSkTeTKecgs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$4.clas
+ s
+SHA-256-Digest: X7+edyw3HXHyjusu5IES0tXW5iiqeBtZJD+DzFleAj8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/VisorTickets/PymVent10Vi
+ sorBrowser$pnlVeFilas.class
+SHA-256-Digest: lk2yf5Ngwb2xow2O4hHisdnATUVwb8mKmZW7coKIlE0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/events/PymVent10CuentasP
+ ressedEvent.class
+SHA-256-Digest: AgBQf3CcOJxVGahBnZR/8kHPRPn/udELetSZG8IaHM4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$1.clas
+ s
+SHA-256-Digest: UGilm4Xuo4/qoWW8TeNEk2Y42OV0u0gZfg+mXPYPGa4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10SalidaEfectivo$
+ 1.class
+SHA-256-Digest: 27l2VSfpb1kCJDIs7DtzgZWkaqSKlghpUPIyKqI3ptk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$10.cla
+ ss
+SHA-256-Digest: FWu1Ox9fLfjj4HPm+S7LyyXjffuVXUTHmSPLAPMwX9Q=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$6.class
+SHA-256-Digest: guWwqGP4msjhH34xMqAFTuBmXvaCSZ4Hrh46hyX6yd0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Notas.class
+SHA-256-Digest: OKRL9tO8mgwEV1xyE4CPKaHumINRTFlKkcRQJ5LrHMs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $4.class
+SHA-256-Digest: mxnZbRFt9hDw0j2rn352I4YNbiULCZk6LBnJo92gvwg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$12
+ .class
+SHA-256-Digest: 65DrzUgKVlJMswxqkhqsuMwnryznaiPh33a7iyr2EUk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$22
+ .class
+SHA-256-Digest: 2PaGcLOKv9U4yNcrOyPR15NSZPoy7S08wgG7R0AQPJ0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Descuentos$4.cl
+ ass
+SHA-256-Digest: VwshrNpDZh7zgRwtHKmUXYsYC1f+MMs57qqZtoEiyBE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Apartados.class
+SHA-256-Digest: USHmAMSlYqcUjOEgmMiRfJMjqDkzucrRabvtw6xRi3I=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Consulta$1.clas
+ s
+SHA-256-Digest: oqudBfttso1gN/pAremTNM28qgvsC2zLiIqxurzw5kM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $1.class
+SHA-256-Digest: 9/6YmdYAA5iyIp9kZb8XzyueLsM7q8OEVmut8qcqcGA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cambios$1.class
+SHA-256-Digest: ABT2loku3x0AkLZmJmhJhmM/gI5y9ofEQNl/N8nlFCs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Regalos.class
+SHA-256-Digest: qZmKAi6uiWQBuLS9D+UpWgjAtA4AnZE3ayYfUVsJKz4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$15
+ .class
+SHA-256-Digest: ayVWgytgcDgezpF4xpdhNL5B1rys3K3jYqy32PxryS4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$25
+ .class
+SHA-256-Digest: 3ZeXufez587th+arKQxCSEHXDxi8RHxF+iBbUkNx6Cs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$18
+ .class
+SHA-256-Digest: PPG+mKa3VAKo5ecXL9PAl1Wfj/9jxkXvpXpyfI9CSSs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$28
+ .class
+SHA-256-Digest: NJO97x1KhE/RTkgb3OP+puEvFVlj9sPttkORgDcGZ9I=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/VisorTickets/PymVent10Vi
+ sorBrowser$1.class
+SHA-256-Digest: eL6aBUCccArj+UzeLH0+xDT+P2/FvHBPBQbHHrYmct4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$3.
+ class
+SHA-256-Digest: hwGty1s8aT+4mfnQ3zRLBn6EYRyvA4OzLSeLn5dIgL0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$3.class
+SHA-256-Digest: AXCSrTDC4/lLceqyXJ1UK4C5qGpqEH2jzkN9obV7Ozo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cambios$6.class
+SHA-256-Digest: sD/1BLOAhV78sh2nXyv+Cp+ZG4Dvwd+VGdsjkXg7538=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cuentas$1.class
+SHA-256-Digest: hLkBmkwjItkVVGGqyP94v0a5Rde/BSpufAJFqXH9CkE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$19.cla
+ ss
+SHA-256-Digest: sJeSCNyfb6uBwaxAYlc3L6aG80FJDM8Pf6ENA4pUr84=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Ticket.class
+SHA-256-Digest: ggpmsmUy2Rui22ZeI2qgzCV9bkJ5/wsKeKjhok+gnTI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10NoSeries$3.clas
+ s
+SHA-256-Digest: v7x1fCTBmwN6IRv6T8kt7wbWUzysBPhl8BbPklWx0vA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$6.
+ class
+SHA-256-Digest: gZ/OVbkdkQNJFZh5mRPKnUggxUilLUrhBgGTe9V20+A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Devoluciones$4.
+ class
+SHA-256-Digest: QxDvDgI1vAGxk54vh6rFkvOTV7hO9hrbLt0tnCG6BuU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45$3.class
+SHA-256-Digest: EnuRt6W0nFjGLdx64KthJlGrfo3vQ/cGzOjV3MN/qm4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Supervisor$3.cl
+ ass
+SHA-256-Digest: 9PqlV48laZ16jMGnZLXpTCUMQKB5iStkT135uZTHTi8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Supervisor.clas
+ s
+SHA-256-Digest: mV2abIqvDAQXUKPMqPKoHdfbKiCbUteG2rq5aFPYhTk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Novedades$3.cla
+ ss
+SHA-256-Digest: WS6WloY7QXifzaXzK1AoLKFXcDNeKoD0WPMN7Zhmu98=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $7.class
+SHA-256-Digest: DvHZ0IcLPyIqWBpiqM212NXkFdQyxsrUj0fcP/8xfDg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$16.cla
+ ss
+SHA-256-Digest: gK0+tpOEb89nAtwxN78O3xF9GfWONAPrYueiR5s1/dc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Presupuesto$3.c
+ lass
+SHA-256-Digest: wU+9OBIv9m0X9tCsPufxVpEoeBZ9jrBP2mGn84msUZE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$7.clas
+ s
+SHA-256-Digest: hinAaw71lzfO6t/vypRFWWmtamOYAL5+EKoz6kcxRPY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$13.cla
+ ss
+SHA-256-Digest: j0QiP+X2fseIhqECIRr8UN9/eLwkgVXg8GWmtfBj7Xs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Factura.class
+SHA-256-Digest: 8MIsA1+NUniGiptU3cMtg2hFEneJWf6l9eR4oCfT6/o=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10ListaPrecios$2.
+ class
+SHA-256-Digest: i6jWQBYakL1PEd3reCAZ6juBSQ7Utyy9vKSkrtHvdCI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$20
+ .class
+SHA-256-Digest: 9t5U6O8HM+5e7FdX5bocj4FT20GOQ0cmvS8mnd6pmQM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$17
+ .class
+SHA-256-Digest: JhuOiOOCqtaG3k8Vm9YetaXeWuahQ3dEokf3xx2k8ag=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Devoluciones$6.
+ class
+SHA-256-Digest: hMHAkco6m2hZnRGuepQuDSRd1TNi+ySildYpF/AgIxA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$27
+ .class
+SHA-256-Digest: qLmFSnMSudRw1a9QSvsUW5O0eahnDC+gW0WsVTu3xP8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Regalos$3.class
+SHA-256-Digest: CMb5hj1v6epwj9/rsv7d6Ll+LtgN9ZOwfjMC4sC/Qcg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$25.cla
+ ss
+SHA-256-Digest: 7SyOLkqr5VzCqfOfdse6gnpP1fK7FPq3AubebfdsD2A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10ListaPrecios.cl
+ ass
+SHA-256-Digest: A7J86ZoWUUbV6D312GdnJddkplM5DSIW3uo7EBf3zvQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Supervisor$1.cl
+ ass
+SHA-256-Digest: NRtjqNi58On8zy5dpSZrn1EhH+w/F2FzUnZ//GbCc2M=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $9.class
+SHA-256-Digest: cwtRNu6goAnotm0QcnNM2E7wVc7y7K/Tfgb4AUQRHhM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$15.cla
+ ss
+SHA-256-Digest: eR8Dw9SgnEXKW/AprbB/VohUPAM0Du4iJbwLiF+/IiQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cuentas.class
+SHA-256-Digest: I87K3WTjbmZ5yfhuhpAJScE7njh/E3tlG9jkH8482lA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$1.class
+SHA-256-Digest: Qg3PIxnvOouJLyBqQFqoKTfrsE8rxxrx9jlytrJ23O8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$7.class
+SHA-256-Digest: zaKVgA1vCLZSZA8ujba7++v2Q9IAIgUFOzBnLr23ErI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$7.
+ class
+SHA-256-Digest: 6gwy6g0rb7i+P/V105xY6QxDiVyrrD4TjQ7CxTKYKAg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10SalidaEfectivo$
+ 3.class
+SHA-256-Digest: FBZ7JDXsGoy6KON/qywAIVv637gGpXV8g8qNYLnR76E=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $3.class
+SHA-256-Digest: 1YIzGaNNIvnpjRIrAOKBWiXowpsGJbBj56466zeea8o=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cambios$4.class
+SHA-256-Digest: E+GvrQVXkLUH3DcpeFHUDka/AZ1Eya1K+7qpi2YoOLk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10ListaPrecios$3.
+ class
+SHA-256-Digest: ruL+OWwUnaG+DMp21A0btsNHy+nT9mxdekrFh2iBb3s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45$5.class
+SHA-256-Digest: WAP91tzrfq9xMaRgQlpUZc8BPYsj5ynoXQSj2S2xumM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$3.clas
+ s
+SHA-256-Digest: 5XEt8Cx54vwHytG14/CJ4AT0iq0dWWbT/90pykl6zlQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10NoSeries$4.clas
+ s
+SHA-256-Digest: Kft2oPIVC+mUtzqfwOdmmeXwda7TRBFZo1kkUWcRKWQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$10
+ .class
+SHA-256-Digest: IRoZiIiAPmcUNVPOG7EULTjUoNRvOFfJIMxKmxi33TU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$14.cla
+ ss
+SHA-256-Digest: DRGhYiNOBbEF7thmBHnGASMLzP2bJwMbrFSk6zitlGI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Apartados$3.cla
+ ss
+SHA-256-Digest: sTBeI9cq2BKHWhX+LWjiyN4x1l27V0f0JLJgBgN/gg8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$21
+ .class
+SHA-256-Digest: gx1uBcfhiqHnT+uZ97AaLGxYaPohsbE2w/c8NrQJOeU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10TicketCorteZ.cl
+ ass
+SHA-256-Digest: jywww+d+CawIBdXr41uXG/3iZ0fb8ltWE4KCNcsOA6w=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45Tabs.class
+SHA-256-Digest: pOBB5g5oSStZEksa1l3yrTi/lF0klIiqfGrq/Oig8Kk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$8.
+ class
+SHA-256-Digest: CiUxBb4WNlZ6u8vTLkk8/d9Yj3N5naVyvHg/Fz5I8Zc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/backcode/ClientesSaldosC
+ redito.class
+SHA-256-Digest: 5ynlsSEcEz9qdch8t+HkoSbNhkSfQi9BgQtM1OUhHiE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$16
+ .class
+SHA-256-Digest: wz49qnsxyXlQVQgmlSn55wDHcHoMKPGEXC2/XFAnXHQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10ListaPrecios$4.
+ class
+SHA-256-Digest: IP5aUoUUTsEJ5tdNKkDlwB+U1bmrcClESyMnxrxdIqk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Presupuesto$2.c
+ lass
+SHA-256-Digest: 2jMQkXCGqxTBZqLxAwI29nF6lRBQipk7zZgqj2aTFnQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Novedades$4.cla
+ ss
+SHA-256-Digest: QwTQiR2By+XDbw5OyYWHlGgKAJU/d7nDkoOmm5ePLTs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Regalos$2.class
+SHA-256-Digest: lVDnbqcXUC5aPqy0wnWSCj5UrzGO+Q4m08Rwo1wvhC8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $2.class
+SHA-256-Digest: uF4BzTU/YA1qLH2Ea5Le19x78wkfrQUIETkYiwl5nQM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$2.clas
+ s
+SHA-256-Digest: VMoIpMSVaxgDs0fjnU/uWaUH3DAO0yiyInvVUf3E/3A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$20.cla
+ ss
+SHA-256-Digest: csIZRgPha8rWYjbO0MnBzFT+lzREkMLmiouS5aD0Otc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$9.clas
+ s
+SHA-256-Digest: gbT1G6EK6A+mxVe7auD65ksUnnQ0oPfiYkb0ev+bbIA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45$4.class
+SHA-256-Digest: RlHmuBn5R41Dc7rRq7nwmQ406hKMt+budMqyxROQ13g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Descuentos$5.cl
+ ass
+SHA-256-Digest: ve8MtvlaoomWZoRXqQygqAVl2zo+aG5KRT8VVXLVDH0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$1.
+ class
+SHA-256-Digest: Ai92wUY0sFL0RdtFMZkipcJHZZbbC6C5+TycUbEHh2c=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$26.cla
+ ss
+SHA-256-Digest: UdTUFZaMafV57JoYnEUVtKqhgbHrDn9Z/K+Fikl4Bq8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes.class
+SHA-256-Digest: 3UdSrtZXBM7WG22xBcLrC3PwThIk0dwKf6sGpx65IzU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10SalidaEfectivo$
+ 4.class
+SHA-256-Digest: wpZ8TWcoMqiUZtCA3KCXp0x6ArIiNrp58bKPisZjDhs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10SalidaEfectivo.
+ class
+SHA-256-Digest: XuTD2ji8iYCSO/2CPvYLf3+owWAblJKGM22obfUSIR0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cambios$5.class
+SHA-256-Digest: RF47MO8dbq2w4+0LuxN4zYTx4y2MnybpLogLIyV5CE8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Consulta.class
+SHA-256-Digest: 4R+DWQRrq8I2NDQY42Si1brjtpg/rN7IqQf6XRsptLc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Presupuesto$1.c
+ lass
+SHA-256-Digest: FndY7PDHBVmpO9VwxOYavDN3P21DwrwiQm5zGRRZrE8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Notas$1.class
+SHA-256-Digest: BOIzALlDfjy+UHKNfpI87EpJbVEsuWML6k0EIhLIS4k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$2.class
+SHA-256-Digest: SWgLcoCR5rE6K/T8ZzDmEhmRKRE8mhTmubs3gX2HUwY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10NoSeries$2.clas
+ s
+SHA-256-Digest: jzJyByaAL42veHPMmWZzGA36uJ+dh28eWPAw1AVmCeg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $8.class
+SHA-256-Digest: JHeqqmCtz+3iQQ8ai+6keRbiaCODwVDsTNhRk+zKv+A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta.cl
+ ass
+SHA-256-Digest: Gr6ADuV/riMrGwG3LzcSWhjR72h/JPk5XqBYTex0LMc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Novedades$2.cla
+ ss
+SHA-256-Digest: NJ9tfphEMxywZd1JLMgqJz0lthpe7Wxk2Cgji82I1A0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$8.clas
+ s
+SHA-256-Digest: GAgirf7srGkz5tmgs248Ju4Z0DOI/pXT+onvlNpILdw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Supervisor$2.cl
+ ass
+SHA-256-Digest: QHi9Q5Fapl9gxYX73b43DxjobJe9Uox7GbHbufros8A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$5.
+ class
+SHA-256-Digest: Ssj8BD2RcQlm/4vCgKtauCZZ0c7Nwh+AnN0jSGQUUIo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/VisorTickets/PymVent10Vi
+ sorBrowser$miHiloreceived.class
+SHA-256-Digest: ldzEP7aLs5xqWEgwA3lMcdNNc3O/xA1yVq4iK+sFe5U=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10ListaPrecios$1.
+ class
+SHA-256-Digest: wP6btCmbryrfXJx4jXqpYyet+96TJAAU+bOaXWvHNpM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Devoluciones$5.
+ class
+SHA-256-Digest: VX8e1VL6FIG/73luzZzG0drpHB0GZAkGtEqz3VeFq4g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent40Ticket.class
+SHA-256-Digest: yEWlgy314Ym/PMWPEHLZR6/g9lMHNZvtn6FdoXrN3yA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$2.
+ class
+SHA-256-Digest: ys/J10OnmcEhQ9lP+QV9IFux6xnIgoMaXDA4ju8zh4Y=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$17.cla
+ ss
+SHA-256-Digest: JTnoHhX0yL1NmlEJ4Vw0gYGg/kp32NkuvtWx1/qMFT4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Presupuesto.cla
+ ss
+SHA-256-Digest: k6A1mRpJLN3FPyJdlZ+dEHGOFTinnnsO9YrLkHxJkuw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10SalidaEfectivo$
+ 5.class
+SHA-256-Digest: oisAbj2Ly5WVMms+Lv+pN9qvwx3F2z1/vuSeYH670xc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/VisorTickets/PymVent10Vi
+ sorTickets.class
+SHA-256-Digest: VV1YWI+vf6HDb3awAn9X5mmGYG6hF+NRRyypjCVvDNE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$26
+ .class
+SHA-256-Digest: HKNyq70bEoTsg3MbNfBtygdw9r7/1gyotAHY0YGdl/M=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$24.cla
+ ss
+SHA-256-Digest: acT6ZGML0JK8gxjSaTGH0tGUIGKxyRc5Mpg4eoi9adQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$11
+ .class
+SHA-256-Digest: mNJnYcPJBZt2yFaGOdm/DBEEKv/8t5uTnxhXSI6Q22g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10SalidaEfectivo$
+ 2.class
+SHA-256-Digest: n9gpXZKfvapcZMd1Hib8KZsFTLFTZS/GJrju25vXokY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$29
+ .class
+SHA-256-Digest: It5Y0wrc9x2akFg51H0dhujSA5L+XI6YBJ0ZUBRLdM8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$21.cla
+ ss
+SHA-256-Digest: YK3/R8qRjTxYRZxHj0r7OJ4xv41MSOQiNuibPbXteVQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/VisorTickets/PymVent10Vi
+ sorBrowser.class
+SHA-256-Digest: D7DaNq5czSSnut5xPx/DsGrDZfmlrgdmoBDMKqxYlDA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45Tabs$1.class
+SHA-256-Digest: UXApzTcdUsuG0/b/0TlJnMu65L4xAyq1TbMrEAMtlFM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Descuentos$3.cl
+ ass
+SHA-256-Digest: XG1YKQNuCGQVzuE90MVRgRpX26pOLP7JLJF4Af7cd/I=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $10.class
+SHA-256-Digest: bW9JVzLXoYyz4whD0I6nb6C3MNbeYAMH52W92Y3fHXU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$14
+ .class
+SHA-256-Digest: ld59bwY+DpZrTKbQOIcNDfjYR1a+hUhZJhQZONBxm1E=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$30
+ .class
+SHA-256-Digest: JXiWjaKAD5ZrKE6ao4O76NAd8nwqEsgdGSo96Rjatm8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$6.clas
+ s
+SHA-256-Digest: PXu5sr8X7jGuL0QFnyQw5RW22w1lhWmgt8MtYmLTlE0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Devoluciones$3.
+ class
+SHA-256-Digest: SdJE5rrl9UXFXq20DB8qX03SGP1fLy2fKR1rLXIiKhY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cambios$3.class
+SHA-256-Digest: ltxigvo3fndSVW5YZ5ycpTOsgA0/IAUFnAJU41iMPQc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/events/PymVent10CuentasP
+ ressedListener.class
+SHA-256-Digest: PO0tBJLzU3QXLtnrZO4F8JXEWu7DbSmaYLVWF/oyVNo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$4.
+ class
+SHA-256-Digest: tc4nkpQWEkJXFWy5GsDsf2+s51ibpieBZFhucJM2UiM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10SalidaEfectivo$
+ 6.class
+SHA-256-Digest: 3KFBpNOFgVJDFpuB/+p0CHUcK/sTKN1bCBBZipSLw5A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$13
+ .class
+SHA-256-Digest: amByN+2qObe0TGycUFi7ge92d+BXBxyVDu4jYO7tBCM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cambios.class
+SHA-256-Digest: mMCggwHxkIQWzxDiwP6D/0Z/SLRRqEsN9dWBHoUcEMg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45.class
+SHA-256-Digest: H2dVP3AscXeLFmvUsH2OTO9iDMz5J7HxyqzK3H+2adc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Novedades.class
+SHA-256-Digest: YRFH++rrusA8aqkrYg2kTGoFMGykrDxEsZV8QBgUVVU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$23
+ .class
+SHA-256-Digest: MwcvAlOS6MzhKJWYT0OEpAgj5wSsykuj52gPegzFxOA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10NoSeries.class
+SHA-256-Digest: +BEXUfk0+cJGxzxzTmSHL/2w4nOMjulMlgbBTfw/ukw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45$2.class
+SHA-256-Digest: kvqMVhyi/Rop79Lki2m+mN7sB2hGyOO5g/1/lnRKbc0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$12.cla
+ ss
+SHA-256-Digest: 15aWeTW3b0DZQ+eYtgdr2WhXf5BBt1bwaJRkGcctM8E=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Supervisor$4.cl
+ ass
+SHA-256-Digest: kgm/tW0ogbexodQ8k59LzNMmZxFv9UQe+6AW0DQRpjk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$22.cla
+ ss
+SHA-256-Digest: H/kfUuyq3xme05jcqro93PoRADQ2IrCUeSewzpYG6qA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $6.class
+SHA-256-Digest: Ka2gctGlZIHfXE1OFCpIzWlQB8B0frTQEDSnoRDOXVQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$4.class
+SHA-256-Digest: uAEcMecUHTBsgkAN3g+oHmGosksjvEkLds5bdeb73Ek=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ $5.class
+SHA-256-Digest: 8ov042ypu2lYT5CCBIQew9Hm+F3jEnOIbSgnGdb2m7k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Supervisor$5.cl
+ ass
+SHA-256-Digest: YA/De2kQr2miROD8XBBUsuN+K5Pbd2vQIjn/eszwoLQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$siConfirmaCand
+ ados.class
+SHA-256-Digest: rg9L9qY+DR8vrV67yOy/9fiog9BwyLUc9LRE7pI+3U0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Apartados$1.cla
+ ss
+SHA-256-Digest: ZtCFaYnlh5/V9+LLAOmwAcBKsTZLh9sDjxW/tzIIdmg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Descuentos$2.cl
+ ass
+SHA-256-Digest: KI7D64BXXiMNL5FTkG+q4/hxI2eHgkwtTxXDP6/vs4E=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Devoluciones$2.
+ class
+SHA-256-Digest: iUHTmymt6uKctulhId4CbdVsOe164s0UIKaC93sN128=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10NoSeries$1.clas
+ s
+SHA-256-Digest: HdHJRGX2G5CJ3mUFfX3F0B5UeetKttWDgIpq7RBqU+o=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10.class
+SHA-256-Digest: tfOVHl3xPOap/mpKsmjxGwn2tK7PjLJoDdGAlLuhW0g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Descuentos.clas
+ s
+SHA-256-Digest: oguZtKjE0jzhSLT66hk/pOmTewAE6zD3fXI/3YQsfVo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$5.clas
+ s
+SHA-256-Digest: F3WoyKPXLWspikiUlywRGXpjVPv5q1SspWevRoCIWh0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$11.cla
+ ss
+SHA-256-Digest: dkuaTJjjXOQMpWtA1A/msj6DmOLxyadbfbTeV1xIxXQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Cambios$2.class
+SHA-256-Digest: PYKhLaHO9qOJ0RopFYHhMWBe1EsL4wUIzgYOkewvktM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Clientes$18.cla
+ ss
+SHA-256-Digest: vMZ3kIyk+PQC4jm7cG5j4PjVYGcH0/+SliKOHIFzFao=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10$5.class
+SHA-256-Digest: RScBbg1nnXxaRC52zbyDiLS7k7nNvb0SjrLrCnZxAjE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10Novedades$1.cla
+ ss
+SHA-256-Digest: UkueKKil2DPI5GmFp+xRUP4lbv67xXpzND/s0uRLv6c=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$19
+ .class
+SHA-256-Digest: Uuy3ZXeQyecq1PlNbDTFpL7dRsAfzDQPz1Vh9BzZsO8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10PuntoDeVenta$24
+ .class
+SHA-256-Digest: R1PRmH7PcmCGsT4lbwnhR+aMR2Tvf/CNBBHkrN7peME=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent45$1.class
+SHA-256-Digest: nXXDePA50wwTiQbzyNVe8zjmVubSuf5ZS3H3Z3IfRSY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymvent10/PymVent10EntradaEfectivo
+ .class
+SHA-256-Digest: AchuMLDc3f6atCdEhZsXb8KFpY4tJPvawCrPC11X1Nw=
+

@@ -1,0 +1,403 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$13.class
+SHA-256-Digest: JmL7TlH9ejtqY+j+Vqhbg3Rqqq687jAeQK8jmQaOrnE=
+
+Name: mx/com/jammexico/jamsica/SicEmpr01$6.class
+SHA-256-Digest: CAQW5ATzj/rDraX+gkV2oHYr9a2UwdEbd5wvZPbPqEw=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$9.class
+SHA-256-Digest: CWBd1b3I9+YDwkjamw+t5c6sFQWr2q/OKOIKezUTtso=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion$5.clas
+ s
+SHA-256-Digest: sB+AaegCLux6QLVywyGqJ+z3Epf9YDv+4NCutH+F00k=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$3.class
+SHA-256-Digest: gc+W1XcAh7SYGjPz8ZFZ7sY5P8T6fxJ8Pla3/KIStBA=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$16.class
+SHA-256-Digest: HVdJdwbGwpwfv8R8OWBcXRSUBRdVW6p8uqFB5LIO2MU=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Empleados$2.class
+SHA-256-Digest: n3aGTlPzBg+iPFH2V1QyADb8kV7IOVX7YkRvN7kMJZ0=
+
+Name: mx/com/jammexico/jamsica/SicCont03$5.class
+SHA-256-Digest: zmFqiNV61bVG5L4ls3H2mrOhwBd5KCUVsY/xfvD9qg4=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10.class
+SHA-256-Digest: YEhRQVURcf+HGJiyJBUOj0ruBXYsu7Kq1Q6+gykjtj0=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$9.clas
+ s
+SHA-256-Digest: 4/P1PRAuAZNfSBaRLTswApCwo0hRPWfwEcxThRYunMg=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/sat.png
+SHA-256-Digest: BiMhZlwPrD6gVlLsaCYI7MQCwfRNnOtaXDc071CxjtQ=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$9.class
+SHA-256-Digest: ukEU6h2ApOTHsygF577pXYMiWdB0mnb1pVyYmLj6yTw=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$6.class
+SHA-256-Digest: ZKJn9excfnKBd+oUstiSS80YkrBLoJQ6XI8Bqd+J/Yw=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Visor$4.class
+SHA-256-Digest: BSYu5Np3n3Hxtzn9GSW31XsZswSgHWuD6sNDAKx0ZaE=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion$2.clas
+ s
+SHA-256-Digest: M+ZjGSgPZAlNuOGQq02Eps7ELCYAVU/OonhhBOi+LlQ=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$8.class
+SHA-256-Digest: QwYrs/JxZmZP8y1Io89wwRm1dY9WNlQZ9N20NPwSCDU=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$1.clas
+ s
+SHA-256-Digest: EN4AenyOlNe0OV8RE2XTLMXOid4K0NML6XqgWOyqYyg=
+
+Name: mx/com/jammexico/jamsica/SicCont03$2.class
+SHA-256-Digest: cEIOshNiX0xIvwWbW9GY1nn4Bk4PPa+vx2t5aOfaa8k=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$1.class
+SHA-256-Digest: f7vFbRbcxyWBSH/vWlaO1K7GEJSJRD66u32RJcjqf28=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40.class
+SHA-256-Digest: VSD5L5W1YWph8yFQE4ap9IKLfVhF0zGpVlL9d4PA2XI=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$12.class
+SHA-256-Digest: WR9DkegaEOd8hecCXNYzMHPTvlYJLRCpfcwD7ChKFao=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$5.class
+SHA-256-Digest: yZK1L5Mni6SlRX/tIFmSSzwHekfdRNpCJ2O4WTEa7so=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Visor$1.class
+SHA-256-Digest: x9gd0bpJb9v6G0DOjrd8YssOPjelp66arsf5gWRFJp0=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$9.class
+SHA-256-Digest: uyrUGbaozpJlNv2f9AIYP6DgV+Dy3eTuulLnIpRHrHM=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40$5.class
+SHA-256-Digest: ydoCvpfXJ7Y5mVF/gZYOBhm9LnDhqgUy3ohuan00N8k=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$6.class
+SHA-256-Digest: k08GNyUwXuNK758cKyP2lImHuBM94zyrUsX9SIP2bKc=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$4.class
+SHA-256-Digest: 34/K+l3oxwLfn9qbIO6NG78TXggGxwEpanV5S0AnN44=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$2.class
+SHA-256-Digest: xPTtn72HDawXFRguqxZYqgqjVWO8zTUUMTpXKMw08aM=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Seleccion.class
+SHA-256-Digest: qi9GyqRNSQKjLtXXvNVfyFDGKljRgMeRbuiU+8FszEE=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Visor.class
+SHA-256-Digest: HFSI5WHnBdQyNlGTj4S9fBnFyGnkvIIKp8jaziaoeWM=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$3.class
+SHA-256-Digest: 0q/zIbjHCxi5gmwKxJMqM9uc5/QfWforK/bczkicGSg=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40$2.class
+SHA-256-Digest: NSJqLMDkq43LfHrsVpvYw6RsSFSgapdFwlpjuL1Sdlc=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$12.class
+SHA-256-Digest: XsjL1n7CXJdwxWt4b/w+5LkmxEadZbSupo535dJqsN4=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$10.class
+SHA-256-Digest: kd7Kk6OXi27it2l0Egd5IfqrAuIcqaRy28MsaaGpyM4=
+
+Name: mx/com/jammexico/jamsica/SicEmpr01$3.class
+SHA-256-Digest: 5Mq6s45SJkbtRLG6vTg3LCuWOQk9GdWnSU5JGl/4NTo=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$1.class
+SHA-256-Digest: s9Y7GW8T2pF0bfmDAenZ2XW0UzchtzmIx/XtqGaaKGQ=
+
+Name: mx/com/jammexico/jamsica/SicCont03$3.class
+SHA-256-Digest: KJXBHXbxRwcPZz8EdUanNzJfJJ2HP2ViuZJInyvzSmw=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$9.class
+SHA-256-Digest: lNjbEOthWquCro8TrC6zvEUy+GzYYTvfKsrd9r8qBtg=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/ieno.png
+SHA-256-Digest: al94Q9GvO8+h10C4aHWGYFTpczj2d3vQdZHcpjjjlvc=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$11.class
+SHA-256-Digest: LVnK4s9iBeum9TpkyNzs0Y86e27tYSmg0BS7WpXJGqk=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40$1.class
+SHA-256-Digest: joXRUykPDy12WZNHyf3RnbED4AqB2YxX+r+cbW1Z89o=
+
+Name: mx/com/jammexico/jamsica/SicEmpr01$1.class
+SHA-256-Digest: 1nT4AKb/xNJF0c/yqkkAtrps5e/mM6dabKJ82dEOxTM=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/rdsi.png
+SHA-256-Digest: /KV01h6VU1AmILTKr604NsCF93FwNC5CyvScpnKG/YI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$8.class
+SHA-256-Digest: LncJiZaETO/VqYYXKUFdCRxnVNp4A+82cBEBVKmsghc=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Empleados$1.class
+SHA-256-Digest: wFp6/5ockkfOgBLvigxqN5srkh7MF3Wi+wjhMdCW1WQ=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$4.clas
+ s
+SHA-256-Digest: OJLG2DYIDoA4ta4lCjk4p9Xi859KM2mCYyQzj9ebxF4=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/clientes.png
+SHA-256-Digest: QL/s21tv5RNKJwRYjce2HWG51gqpdeh1AI8QJGFPq4k=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls.class
+SHA-256-Digest: CTBLsbJJl+RoxKeq7enuhTC7HHtnVwi2tOKW+MXeSxQ=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$2.class
+SHA-256-Digest: 2iHW3x+hbGDEjilREgdGtvoEApNshDaaXzPGHzwrdIQ=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion$7.clas
+ s
+SHA-256-Digest: 7Ca1ExB3sKKFJPLcMfDg60cUnRtQENTukbASd7HAfDU=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$3.class
+SHA-256-Digest: M221t28TD7bRwPikOO3vmzWOwxHjIjKuQ35NDz7GoN8=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$12.class
+SHA-256-Digest: 23Fc+8lkd01Pp/8GdDpIacJ8tlE1r/Fm+QlK/YhpZMU=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/creditof.png
+SHA-256-Digest: 6W2R5OcbzVakPgIE3F4PZGeRqoz9PtWJ3O5GHrgL1M0=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$2.class
+SHA-256-Digest: H3a6qgKtRaHPciNRZKxFu1aR29aWHpt0Gvsw9OfZT9s=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$6.class
+SHA-256-Digest: 8DJeTHla6e47DyahK3D8sHph0/DWzQThBL+SKwY2a2Y=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/cfdi.png
+SHA-256-Digest: z6w4yWsHFVofOXYxEWPMMEHEtQld0cswN0RFtxSCRa8=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$10.class
+SHA-256-Digest: 6GZ+TyTMpxvdYqVGNadZ1qIdsaN5vZmKS90KCdtRLPY=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$3.clas
+ s
+SHA-256-Digest: L03vjCrjwRklFKsfHe9uWCJvuzojNIdi0waNSM41LiI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$1.class
+SHA-256-Digest: 2t2pWLkRFkZ5TkNKAr5jz2u7jbUTulR/SmWbibNujek=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion$6.clas
+ s
+SHA-256-Digest: 7DijqqMi24F2Kg8F+KgkAcA2TvEG4Tw7xh3kkc/JpPw=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$8.class
+SHA-256-Digest: ohPRTz630P4sUh52hrpnH/YrlqBVBQG8MSaNaqMDqnQ=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Empleados.class
+SHA-256-Digest: ErQz+/K1nZegCIVPTZecbixZtgzdpnqIIOnKr9RGjfo=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$11.class
+SHA-256-Digest: UH5QcZJvjhJ6OJNjv/fMrvoqffhcVioOo8aypza6DzE=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$2.class
+SHA-256-Digest: x4G5nn3a6m0tx7RMHgSFrEIYyi+YOLTP+A2fZMoYg/Q=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$4.class
+SHA-256-Digest: rczQ4YM//PjK4Zfe68sQFNmyC089nyrEZi0PSfjrELE=
+
+Name: mx/com/jammexico/jamsica/SicCont03$1.class
+SHA-256-Digest: 86z+GfrUidj3p4rQ4Uk+wEIBKLiREAjKhaB85aikxyQ=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$5.class
+SHA-256-Digest: ySS+GGa0QKYCFAS/B8/JbzQEYI5NAEKpcSeu7J9QJaI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$7.class
+SHA-256-Digest: HfuV/SHKMc5Maigt55rsfMnY4qHWphjoTio088x5vNA=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/ibsi.png
+SHA-256-Digest: kzu0f4UQjy9aZDkIai2nBw1MjiAT1uHuNoLMK56CFkM=
+
+Name: mx/com/jammexico/jamsica/SicEmpr01$2.class
+SHA-256-Digest: Cuj3U9vioK/LOE3SftGln128xw6rRFMuOJhLASrDh9A=
+
+Name: mx/com/jammexico/jamsica/SicCont03.class
+SHA-256-Digest: Kx/nI3XCO5/fPcCrdeX4YwtwVbkPCVZ4IfiWVckQH6o=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40$3.class
+SHA-256-Digest: AY2qkTRN6Ytc6+dSHDtCUQDKmt8G9lWnI8MdGqcKCR4=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$10.cla
+ ss
+SHA-256-Digest: XBFZzibneeniofCl4NI4bd62quSBNg5GTBkfY9xw+sI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$7.class
+SHA-256-Digest: vWr23q1Qb98vpStt0xkY6XElBenSRAPZOF01s5bp5ow=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion$4.clas
+ s
+SHA-256-Digest: IW7UkGDhFl+eR7BXoHpLGryr2QgLUFiuxW1nDmuh0KI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/ebsi.png
+SHA-256-Digest: vfmxfRm/umwO3RpXn4vhHmzKSDpmh16n5YLwfUNNaw8=
+
+Name: mx/com/jammexico/jamsica/SicCont03$4.class
+SHA-256-Digest: Oc36HsOwDh7j21Hsm+aw61Zzvz+u2GTYx5A7ltiNqZc=
+
+Name: mx/com/jammexico/jamsica/SicEgre01.class
+SHA-256-Digest: JKFarwyDJelqBgTOzQ6JEIVPuI94i+6rHUOYBNSffSs=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$8.clas
+ s
+SHA-256-Digest: VqVo30FODa4klAVgF8xMyHyfsm6acGcodGr0UJYzA34=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/iesi.png
+SHA-256-Digest: 4e2ly/R7K+e9uwsKM7h9HHbCS+/7XrpWivqFMt6vPc4=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion$1.clas
+ s
+SHA-256-Digest: X/ce301gnxnq1OQloyZuGppuQ+GOTrpYodGpWuUgC74=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$2.clas
+ s
+SHA-256-Digest: zjqbxjLZKqUAtJ9brNhjGha+QrgU5damaTx35qrE/FE=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion.class
+SHA-256-Digest: XmtDla5Mpkr9QL47oXGJEIpDcp9MZ98WW2iJ+m6E3Eg=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$5.clas
+ s
+SHA-256-Digest: ZCHgLhSlTfVmiF2Dqh1vvtw6qqbbtRWxNHjxhcaShh8=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$7.class
+SHA-256-Digest: kZvRhMfCZ/xuzZb24lTU7lSPInlH4rLtYpwfVes4bEw=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion$3.clas
+ s
+SHA-256-Digest: vfJ2DXp6jY3akdFQ0/ap1IzPpUrYk+pWQ7zTMVwUBgE=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/creditoc.png
+SHA-256-Digest: mlX/rRiNn8EW2sscGeqlTJeg3L9+mmBEdAIhHqSx8B0=
+
+Name: mx/com/jammexico/jamsica/SicEmpr01$4.class
+SHA-256-Digest: LM6S5FLr7R0DXoNGl1Bv5azgHrIOXgeV9HpHfC2DSys=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$5.class
+SHA-256-Digest: oIHRsjn4F7J9HL25Xqj7RRi/kfZa8EzzrqrKPMJrRoo=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/ebno.png
+SHA-256-Digest: CnbB62I4Ownf/XrZ9SsxWAfOQ9n3h29wh3WNjCD7aBI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/nono.png
+SHA-256-Digest: 8M8I/SZszYrpkrI5XISY13hOt4odRISX0ExRo+P51dk=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$7.clas
+ s
+SHA-256-Digest: VCdwLqoT/34WncxgFVi9Re5CsnYT6Na4G7IEfI0FN5k=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Seleccion$ElListener.c
+ lass
+SHA-256-Digest: 50gSnNaUkAykkC/RWHOAuY86EPsC15eHO/oACnzwPdQ=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/ibno.png
+SHA-256-Digest: kUpoAcs4YD+X/qjVCrdVjKvXCpjPVxgVP804gPNDny8=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$11.class
+SHA-256-Digest: UM89v9liMhpW6oRkVzMTcIMY+Zk4etVb7P244XPhW7g=
+
+Name: mx/com/jammexico/jamsica/SicCont02$1.class
+SHA-256-Digest: eLZBesU+zGFgcQta0x3dByd0ptthinwNhxWh/Eqo/I4=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Visor$2.class
+SHA-256-Digest: 0sEhH4j5VKQ95LzfMqgUtBZnE4SnANYpBnGeXlRRn7U=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$4.class
+SHA-256-Digest: knQOB2QByd50Ub7XbCeRLPGljSGUet6NgSTD+wtfxms=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/provee.png
+SHA-256-Digest: 2mL26TsguWkjb/++dR72NWuZMnSkkJGgvyCqLHoFM3o=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$6.class
+SHA-256-Digest: VfU97+PJ+fpVZuuqK70hdV1DAfQqXY6v2EcM9w38Sg4=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/nomi.png
+SHA-256-Digest: Mci+3H/mCilftO3RYMDW2rbKOFZ84pojtxrxOgQcZiI=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$3.class
+SHA-256-Digest: qwlOIIfx1Z5i0/GcZ50DWRioFMhjYqivBpab/G10/dc=
+
+Name: mx/com/jammexico/jamsica/SicIngr01.class
+SHA-256-Digest: k3GsZ2b9C0Mpfz5zcGNYupxP7HEJxzbCT5U65YO2s9o=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$14.class
+SHA-256-Digest: GwCU5PLr5vBZOzp3NyaIIJIzxj65fxkAdFS5XEuwgkg=
+
+Name: mx/com/jammexico/jamsica/SicEmpr01.class
+SHA-256-Digest: RlL9VZe7RuFPqL6IJLlOLm6GZCmPCTB/LB/E00QG3bQ=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$13.class
+SHA-256-Digest: 554NUcgbHV0zfTAn7xXqtLfNzoyCO//JzxXfQ0Q66Xo=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/rdno.png
+SHA-256-Digest: sXenqT3bVm/Kx4Dp1zqGWX2uOC6Ll51u//OGNTGLctI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40FiltraXmls$4.class
+SHA-256-Digest: q/CigF9jF/mz9DTbG1EkLdBuFrbqniS0NugMVY0noMw=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/parame.png
+SHA-256-Digest: wdOh2JVFShdEQWevbN6QiuGKE/bZyzzryW1ouquWymA=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/config.png
+SHA-256-Digest: 4ntO56HShle3ar9ITQ0XPQaNwU0BaQ6ABbCICYE37Fk=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$6.clas
+ s
+SHA-256-Digest: vojiDZ8CwdTWq86ZNQx9bBW0l6u44sttqyS/12G5u5M=
+
+Name: mx/com/jammexico/jamsica/SicIngr01$8.class
+SHA-256-Digest: fMe2CFbAb3bDGib5SwQEjPkb71A1vhRLZqcecXDbWw8=
+
+Name: mx/com/jammexico/jamsica/jamxmls/icons/nosi.png
+SHA-256-Digest: aCKvD0cIEiEylemAvsqrSGkQDVG5b9M+4HMZ8Htg3eA=
+
+Name: mx/com/jammexico/jamsica/SicCont02$2.class
+SHA-256-Digest: zO0b+9ZKYEO80128TFwCtxXg4fdefkP/sDlIgSqBtFA=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$10.class
+SHA-256-Digest: wowm6/9RTHCn0zOtsLTcfrajtXDvyPVasYnDZwVRVcI=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40Parametrizacion.class
+SHA-256-Digest: VXKfQr13oulHXHZP2UBfrt46qsTQmDfOuTBL4S67SS0=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$1.class
+SHA-256-Digest: GPnxq5YbSTzxPTz35GkQ3G+k2gfg3inKGkZsXRQErUk=
+
+Name: mx/com/jammexico/jamsica/SicEmpr01$5.class
+SHA-256-Digest: Xj/XM07t+UDHBokgI52WpGIIqCJ8yQiYpwjgSuMBUMU=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$15.class
+SHA-256-Digest: P8wr0IZghsWnikOWHY+WFMZCxmKDFfWKc6cqST362h4=
+
+Name: mx/com/jammexico/jamsica/SicCont02.class
+SHA-256-Digest: o8zLnoUzQr/NQzszz+CcehinMwDD0C+kRHMx4t4Tt1Y=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls40$4.class
+SHA-256-Digest: tQALxn2gyfwx9kTq8fS7c70uEMAMkcTjesVhKlgdPtY=
+
+Name: mx/com/jammexico/jamsica/SicEgre01$7.class
+SHA-256-Digest: w3uv/Hb/rxumsgw6TBTJeGPfnBoJEUOgbIvRzpczv74=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10$5.class
+SHA-256-Digest: ACfpn5rf2iPDgb4MindMzu5rVbqQcBdjhOyHJid4IfA=
+
+Name: mx/com/jammexico/jamsica/SicCont03$6.class
+SHA-256-Digest: fOOquXAh5Rs9nlViwE0c1vhxt5G6iVU+5xNw31Q2ScU=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Parametrizacion$11.cla
+ ss
+SHA-256-Digest: PalRwDUsV13vSnJaQ9ybhG/DQ2tViLwAwJfKOEkW7Go=
+
+Name: mx/com/jammexico/jamsica/jamxmls/scexmls10Visor$3.class
+SHA-256-Digest: EAAISTCqo877h9CX9LuvWCwSsbmsKkEwH6XElR5VzPQ=
+

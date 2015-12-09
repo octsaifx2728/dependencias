@@ -1,0 +1,153 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/sgp/sgpingr01$25.class
+SHA-256-Digest: swIW3B/B5joIQniilpjrQZ6SUQAxcdmvTd+glfw9knU=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos$4.class
+SHA-256-Digest: XK0CxyUTq3KmpbwxfFqc6rLlSkLQpGQBmDKf9Cpm9J8=
+
+Name: mx/com/jammexico/sgp/sgpingr01$15.class
+SHA-256-Digest: lXNkSS04e2TxabYDJCXqQPC5Tj4aX/UApLAdFwWh4e8=
+
+Name: mx/com/jammexico/sgp/sgpingr01$4.class
+SHA-256-Digest: fgMSP/oEJ2wWCPmVt+Ge8V4xH6LqlIAnd9S/5gWEgDk=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos$7.class
+SHA-256-Digest: MUnFEKqa21UHOuYFfwZ3NpPU5xWrZg7POVllG5dRx+U=
+
+Name: mx/com/jammexico/sgp/sgpingr01Solicitudes.class
+SHA-256-Digest: z1UGhbqPngE9YXfy235v/Ibu3lj+Gi8yneroOvUUYwE=
+
+Name: mx/com/jammexico/sgp/sgpingr01$19.class
+SHA-256-Digest: lh93w7ulJTib//VElMCUI0l6abmUnD/2+NJkrRsFeSo=
+
+Name: mx/com/jammexico/sgp/sgpingr01$8.class
+SHA-256-Digest: LoXNs/WBrgAhb6XxDPR8pG37ia1LLEJG3oSUsbkgPug=
+
+Name: mx/com/jammexico/sgp/sgpingr01RecursosInput.class
+SHA-256-Digest: PLeYt6fzYyUUqw5UX8+yCnICenBnWSoPuUw8TuKTc6I=
+
+Name: mx/com/jammexico/sgp/sgpingr01RecursosInput$1.class
+SHA-256-Digest: v9AhNGvqGcDEtWUHc/XBG0aRZQuHPCsTadqDsepSDRA=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos$1.class
+SHA-256-Digest: qazP+K2H/hPjn80p77QZv7TGj1GWw+G8nl6j9CZceqg=
+
+Name: mx/com/jammexico/sgp/sgpingr01$12.class
+SHA-256-Digest: Es31tRFi2mWF0te2doyp5rEroilZF5ZXhhdppOBVqm0=
+
+Name: mx/com/jammexico/sgp/sgpingr01$22.class
+SHA-256-Digest: MSoVr265UeKwJvfyOxBxMW8OMIOlEDTvLfu13vGznLI=
+
+Name: mx/com/jammexico/sgp/sgpingr01$16.class
+SHA-256-Digest: QsecmTIWyRoFT7VZqKcmKumI/ougzGJcuILnYOfN7CE=
+
+Name: mx/com/jammexico/sgp/sgpingr01$5.class
+SHA-256-Digest: u4/hPwTV0geczoOuQbLkqY35nAE8iz1Wi9Eaahx+T8E=
+
+Name: mx/com/jammexico/sgp/sgpingr01$21.class
+SHA-256-Digest: Lc931ALofxEKzRT0Dci0YyK4BX8tl0YytEKjs7DK2XY=
+
+Name: mx/com/jammexico/sgp/sgpingr01$7.class
+SHA-256-Digest: Ln8Vi+FUSXKaY3STrPK+9IZMgaBKUnh13kvWdz8cwdk=
+
+Name: mx/com/jammexico/sgp/sgpingr01Avances.class
+SHA-256-Digest: ujiI10REKB2nwzo+Z3M/fkbGdiIJ5EmMvphjj0bTD14=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos.class
+SHA-256-Digest: IMYPExgDeeKGvFQvC0RNFhfC2GtNAvXTYiWj0Qp+YoU=
+
+Name: mx/com/jammexico/sgp/sgpingr01$24.class
+SHA-256-Digest: h+ALfAnJiK25rwYvCelOWsd+PNiwAJtPrD90MOoLw6Q=
+
+Name: mx/com/jammexico/sgp/sgpingr01Seguimiento$1.class
+SHA-256-Digest: 4X1Ud7xDJUp4hk+XVMLQ5vQ8z6hrkN7LYjLM5v73E1g=
+
+Name: mx/com/jammexico/sgp/sgpingr01$13.class
+SHA-256-Digest: KmoSIhwEdgkVRQ1soc7DLDTNpWhQhiCoKR03jNKf9n0=
+
+Name: mx/com/jammexico/sgp/sgpingr01Compras$1.class
+SHA-256-Digest: rHKdUODsVIwKiUML1oPZoqXxCBt6ygs0wHcfqaPXqMg=
+
+Name: mx/com/jammexico/sgp/sgpingr01$1.class
+SHA-256-Digest: VIEg/EVbJB9acbRg/y0gaFuOgBfjF6+5CrRjmF0CLJQ=
+
+Name: mx/com/jammexico/sgp/sgpingr01Facturacion.class
+SHA-256-Digest: XAOQVnq20i9KkK8bde8Iodjm5ELNdwg0SQFXXkrWb30=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos$5.class
+SHA-256-Digest: mgFL6nZSXgqpJotJze+L7m5GeoSQdqfUWmGIMDmv9aQ=
+
+Name: mx/com/jammexico/sgp/sgpingr01RecursosInput$2.class
+SHA-256-Digest: sELw5j9nw4x+boFxSV9XwBUd8hrCMd57R5omIV2OeD8=
+
+Name: mx/com/jammexico/sgp/sgpingr01$20.class
+SHA-256-Digest: Hxa+F/rW202Zxe9/nYU2i54xyje7JrG/OEXFGgFZI9s=
+
+Name: mx/com/jammexico/sgp/sgpingr01$6.class
+SHA-256-Digest: L+MpDuNdrcu8zh20vQohv4f5UtCxr8q++UgI9uQ+HCE=
+
+Name: mx/com/jammexico/sgp/sgpingr01$17.class
+SHA-256-Digest: aNzULrmG/LWKap0h0TPAhNThSIWEvLyAqtkGbWZ5h6o=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos$2.class
+SHA-256-Digest: xB4r+sVCdjmgMYRfIO8AQNBMF4vR66nlbUCCPJpPzIA=
+
+Name: mx/com/jammexico/sgp/sgpingr01RecursosInput$3.class
+SHA-256-Digest: 5bza4hBTUHEU5HsY34sOP50watKxz4lbH3dojs+yU0U=
+
+Name: mx/com/jammexico/sgp/sgpingr01.class
+SHA-256-Digest: yk8JwrWGhAREyHm8qPjFG896CdY8CiuC/OxJrrIIHhA=
+
+Name: mx/com/jammexico/sgp/sgpingr01$10.class
+SHA-256-Digest: kh7miKvVFEaXizETfplMl5UILjvxTLsUT1nukLuH/ts=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos$6.class
+SHA-256-Digest: tjbUxLmjVTxEKYtm1c75hIdaOhr/9fRyiXpQm/B91xM=
+
+Name: mx/com/jammexico/sgp/sgpingr01Solicitudes$1.class
+SHA-256-Digest: a5IisVnwZhpfkaMVu6UcuFXWwI0hQ+5I0mOlQ2HbAU4=
+
+Name: mx/com/jammexico/sgp/sgpingr01Avances$1.class
+SHA-256-Digest: xdE5kMSel476yNUADcbZcBMykm35S6rk2EOuo4Ig54Y=
+
+Name: mx/com/jammexico/sgp/sgpingr01$2.class
+SHA-256-Digest: zzdfYfmUEgf8l77n6EN9osAoxOJa64USs9fo5xE57bU=
+
+Name: mx/com/jammexico/sgp/sgpingr01Seguimiento.class
+SHA-256-Digest: kgzgxWg0MP+ahjunvF99+cakVvFl3SaHb15D62XNdXM=
+
+Name: mx/com/jammexico/sgp/sgpingr01RecursosInput$4.class
+SHA-256-Digest: 4b63qmYY8AwJs68HjkGKogSNoPVjtN0YLvemCbxDePI=
+
+Name: mx/com/jammexico/sgp/sgpingr01$11.class
+SHA-256-Digest: s0fJgatbdTI9/nOJox9etCjL8E5Cyy3Qik8f0ruXRqs=
+
+Name: mx/com/jammexico/sgp/sgpingr01$18.class
+SHA-256-Digest: tH6xNK8dcbPlN8mrUkWmkubH/fbj8VKJR0zXDV5Hx7M=
+
+Name: mx/com/jammexico/sgp/sgpingr01$14.class
+SHA-256-Digest: TCaB1LSLBSpLGoBpxlof1n4ABiUQeL9oF0sklifCiRA=
+
+Name: mx/com/jammexico/sgp/sgpingr01Recursos$3.class
+SHA-256-Digest: 2MnszQ3UkuGYTSEvzIIU3aBG/lqWk4nlCHTNfubnZI0=
+
+Name: mx/com/jammexico/sgp/sgpingr01$23.class
+SHA-256-Digest: kvtBP6r203C5GeFAw1HFtzIPBNNKnAn6p2zpyca8qgY=
+
+Name: mx/com/jammexico/sgp/sgpingr01Facturacion$1.class
+SHA-256-Digest: KZ19Fi7g+58LtVtNhGqGESk8LGbDat9/dixfCX1LDAA=
+
+Name: mx/com/jammexico/sgp/sgpingr01$3.class
+SHA-256-Digest: KNuv6EqTZ2QzFrlMpkAlZX5JmKUlUmqwRYwmuzzfmoI=
+
+Name: mx/com/jammexico/sgp/sgpingr01Compras.class
+SHA-256-Digest: RNRSKgL63xHqYIeeY0oRKgpBARldgyxzGosrZUv+iO4=
+
+Name: mx/com/jammexico/sgp/sgpingr01$9.class
+SHA-256-Digest: g4qxozAsan2D2pT3qubg/ttah1fNqysk4bxSB4NCmGo=
+

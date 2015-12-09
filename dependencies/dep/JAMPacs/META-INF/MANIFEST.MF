@@ -1,0 +1,152 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: com/sto/fe/massive/controllers/impl/ObjectFactory.class
+SHA-256-Digest: VNUvyAoIeyIG8K3pNZYRzORvBmYFEbYl7HwghW/QbIs=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDICertificacion.clas
+ s
+SHA-256-Digest: limy9A9EBKtmIrZmgaoWpjy4JI4/kHO66f8tBHF99+8=
+
+Name: com/sto/fe/massive/controllers/impl/ChangePasswordResponse.class
+SHA-256-Digest: a4yaIsEp9Jyc4zgIkRCTMo7m93f2cO1eyl9aHvXHV3w=
+
+Name: com/sto/fe/testing/TestConnectionPAC$1.class
+SHA-256-Digest: 901WUb4BwrnogO6cd0seReRQQzx7a1hVvUIUyQ5oekY=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoSoap12BindingStub.
+ class
+SHA-256-Digest: bkjdfF5WqtfizPqO4pU6OXKthTqjZ6ebalZPlax2xaA=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoSoap11BindingStub.
+ class
+SHA-256-Digest: ehYME8CghggwZH708yt8A7HlwPf4yNvUKE896Nad7V0=
+
+Name: com/sto/fe/massive/controllers/impl/GetCancelAcuseResponse.class
+SHA-256-Digest: oShWvqXRI/NhizgLDpRxODwfIdHjQkcM9DjhSYsYtKc=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/Timbrado.class
+SHA-256-Digest: 8ppeUEq/TkjNwSj4qbih4i/0GXGH48pa9hq6Ra64yyU=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDResponse.class
+SHA-256-Digest: WmHrihTBIrZAjAYOUZ9ySgjE7uQ1RaGYlPIBzrpCt14=
+
+Name: com/sto/fe/massive/controllers/impl/PACException.class
+SHA-256-Digest: Ig4cQMoHQew9g6u3CBWb6G2NumrzHCiP1KrGYyLLZK4=
+
+Name: com/sto/fe/massive/controllers/impl/GetCancelAcuse.class
+SHA-256-Digest: lsKAcLRoR6GuvPujE//dySexFnJObe4zlREJZg/EXFs=
+
+Name: com/sto/fe/massive/controllers/impl/MassCancelCFDi.class
+SHA-256-Digest: 9mXOuBJ9JrwG0PgeQ7nYQvS17kmgrtJ/aKcmKqmLw4M=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoPortType.class
+SHA-256-Digest: 679ntgdARuXwFr4GjgxDOFkJKGbZ86NVpNTYsBw0fwM=
+
+Name: com/sto/fe/massive/controllers/impl/GetDetailCountBilling.class
+SHA-256-Digest: OfKPQnoW6loF4t+PmvxLYeIpl5siQ0JGQ2e1LYqqf3w=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStampedByParamsRespons
+ e.class
+SHA-256-Digest: 2l8QMyPCfPw4jjx+LqVWd1gTHbD90zAAKn2QJ57Freg=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDDigitalTax.class
+SHA-256-Digest: Iwum8V0COm9SobHhelM54go36HYX/lxgg36UQNCYLe4=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDIResultadoCertifica
+ cion.class
+SHA-256-Digest: yamvtaeYSXd8mGXqixoTt/f27VWBj6b5oGNGF9iRNNY=
+
+Name: com/sto/fe/testing/TestConnectionPAC$2.class
+SHA-256-Digest: DD6/ZFyKfowVNuHbiVUKwxozJZWtBwGgavBLcMnXWjA=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDQRCodeBytesResponse.
+ class
+SHA-256-Digest: j3AxmN0UmwEWUASRAwO3Vn8fa/ZCOikAbnrDwlsr7tU=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoLocator.class
+SHA-256-Digest: pwtEedCmFptHHqtquDu6lm1aoHd2p1PQGfOFoNn3+Ms=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFD.class
+SHA-256-Digest: u1TYwOWCqhDAaI+sxi2COQMQTMLVwnTo1NpqsWFzb8I=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDBytesResponse.class
+SHA-256-Digest: PXoq07qbwuzO2u1w3Pxt/AU1y4Sy7TI839Xz3DTTeas=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStamped.class
+SHA-256-Digest: HEsrJfMt9IR2pYsowZlR3Xg9MBfK+VsMbDso5aO6L0s=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDIResultadoCancelaci
+ on.class
+SHA-256-Digest: nxUUcxRwaTRjP8wQ9DirqpFg6d+nUx4MddQFBoPOwoE=
+
+Name: com/sto/fe/massive/controllers/impl/GetAcuse.class
+SHA-256-Digest: ewlF2By0Nxm/1EOAglrJIktFkRho1d+nJo4uyodX/vI=
+
+Name: com/sto/fe/massive/controllers/impl/MassCancelCFDiResponse.class
+SHA-256-Digest: iP76V19EIEyCPC7liEMeiDrlpx8zOeGcrTucE7UZtSE=
+
+Name: com/sto/fe/massive/controllers/impl/MassiveReceptionControllerIm
+ pl.class
+SHA-256-Digest: YciKWqs/LjtcfW4dWlUeGsag1EI2bJN0krg2d+g3RGk=
+
+Name: com/sto/fe/massive/controllers/impl/CancelCFDiResponse.class
+SHA-256-Digest: oUy0SQdOyCQKhjAVPau5CLZmL/qs1MQRX9vOrZz3F28=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDQRCodeBytes.class
+SHA-256-Digest: n1Xzx2gbvLfSvIIcyRsraUHtF7twUAWXko5W0YzE79I=
+
+Name: com/sto/fe/exception/ObjectFactory.class
+SHA-256-Digest: ppaBxNvDpD89I5TsrN1uLQPIbTq5yk2Naw7USSI50P0=
+
+Name: com/sto/fe/massive/controllers/impl/GetAcuseResponse.class
+SHA-256-Digest: dmf3y1mI64ItmzjK/JBz2S7ag1vCt/Unev7G0VoTmkU=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDDigitalTaxResponse.c
+ lass
+SHA-256-Digest: LZGc38jeANQEqMcoALdmziVtsy8mBFkY0rGnHlSpxy0=
+
+Name: com/sto/fe/testing/TestConnectionPAC.class
+SHA-256-Digest: aBeghjkJojuYCvNOBASpRkZrg+Ggu2PXOvZNvhvoIN4=
+
+Name: com/sto/fe/massive/controllers/impl/PACException_Exception.class
+SHA-256-Digest: td9iOC2jlNdeIjxvlBml2PpHjBMdFLy4As/i6ncGbq4=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStampedResponse.class
+SHA-256-Digest: sBOVZ3YBroRzvZ8iXlLMTVVwHZKxL+2W9T/oh68fIrE=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStampedByParams.class
+SHA-256-Digest: ETUSMvNzXTB90MU+qd344O6m6zwT5dI009IfqKQN5yg=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDICancelacion.class
+SHA-256-Digest: IZCCJHeqYgHP0yitjj3slEt5DVadHXjUGew1I6PWkS4=
+
+Name: com/sto/fe/massive/controllers/impl/CfdMassStamper.class
+SHA-256-Digest: kVGqk1jiFDx5YmVWBdle1Xe1BGOxmewbbRNxX1UJnkA=
+
+Name: com/sto/fe/massive/controllers/impl/GetCFDIStatusSAT.class
+SHA-256-Digest: jE95n7S8Ff1eKuPU45QnBv/RYlFdqV79mtGSOt6MvRM=
+
+Name: com/sto/fe/massive/controllers/impl/CancelCFDi.class
+SHA-256-Digest: jFAnNciftXBsPMeQkuWgKm/KZlIY7KYW4ZNmU+Ji0oE=
+
+Name: com/sto/fe/massive/controllers/impl/package-info.class
+SHA-256-Digest: mtBlCeRWCGPwe6z/2BY0Tapm6QAfcQSCzp/RUIMM5Oo=
+
+Name: com/sto/fe/massive/controllers/impl/GetCFDIStatusSATResponse.cla
+ ss
+SHA-256-Digest: CLZfhZC2D6BrCb7RUFwMf9xNgKG72NG6k3HA6wLWTTY=
+
+Name: com/sto/fe/massive/controllers/impl/ChangePassword.class
+SHA-256-Digest: Rc97gvwqHCjSr6+ATgXhNsFXRPw/X9eA69mo4cYq5F0=
+
+Name: com/sto/fe/massive/controllers/impl/GetDetailCountBillingRespons
+ e.class
+SHA-256-Digest: SyhGpCBvYNzZJdGpF08kmS304RiWPLkjBispfv6Le40=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDBytes.class
+SHA-256-Digest: h/1jMPKyi9DKw/mbI2N0vELV/GSMhUrItq4KCMqGFzw=
+

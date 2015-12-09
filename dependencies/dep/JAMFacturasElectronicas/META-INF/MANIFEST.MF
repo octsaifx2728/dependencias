@@ -1,0 +1,304 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/cfd/util/jam40Sat.class
+SHA-256-Digest: hZiw49IEqW6hwYzoFA7ZpKMA3VzNGyi3sJ1FvvIJO4c=
+
+Name: mx/com/jammexico/cfd/estructura/jam35complemento.class
+SHA-256-Digest: roEeghw+yFcrGgLaTk2lOaLGJHyiIqB2ZkhyXwZTZ9k=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99horasextras.clas
+ s
+SHA-256-Digest: 876y2ASDv8+VdtJCH2ioXwjBYm3ni87KbN0JJOpOhDk=
+
+Name: mx/com/jammexico/cfd/estructura/jam30impuestos.class
+SHA-256-Digest: EV3DJQmzWb9J3GmjVnKJz7XHOHDUYUAUHXg7YYEPVLs=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam91concepto.class
+SHA-256-Digest: 4XtANpQETQFVUT2U92nkbGcXCoKVgG7sYeDNlLEhtLo=
+
+Name: org/datacontract/schemas/_2004/_07/Sat_Cfdi_Negocio_ConsultaCfdi
+ _Servicio/Acuse.class
+SHA-256-Digest: cCvoQecLJ1VkalJ9ydjEARRuwO7caEK22BhOQLnm6n4=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mapfre/jam01documento.c
+ lass
+SHA-256-Digest: LQ7/NenSGL+IXSOSxBA+6FO0e5Myv2QDKPgYZQfYsV4=
+
+Name: mx/com/jammexico/cfd/util/jam30QrCode.class
+SHA-256-Digest: cFKmX360wnNkoqEKZHKd3OIEYRBbUuIKg1uXDGSbooM=
+
+Name: mx/com/jammexico/cfd/contabilidad/rep_msgpoli01_polizas.class
+SHA-256-Digest: tt/o7hhI7zw+8uv1z+FN/nKkx7lujJ+Wwbk9ch8JN+w=
+
+Name: mx/com/jammexico/cfd/jam05pacs.class
+SHA-256-Digest: Axftg+nkJ0Y2kMAkyVfU0kBmH4GzFMC0bEntpMj09ok=
+
+Name: mx/com/jammexico/cfd/estructura/jam10comprobante.class
+SHA-256-Digest: RQ4N83Uc3D9paCAX/ECRvN8IxrnD+kHpzkhDTt2A2+w=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99deduccionesItems
+ .class
+SHA-256-Digest: ObhrLaO2ArDvV1j8UD6QSvVLt5UtfTJh+pgS/wDnxmo=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam97informacionaduanera.cla
+ ss
+SHA-256-Digest: b4grfIT6U2S/jDggwa2eDOsnDSjSXVt/Kt7VP8vRfkY=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99adquirientesIt
+ ems.class
+SHA-256-Digest: bEAmdGrz8Ku3OiNUUDECzxD8q6o8TX78/DZIz4vt18Q=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99enajenantes.cl
+ ass
+SHA-256-Digest: UpQqsrljjtoptp0n62ETVODZSqHhJIApX3yTFGXb+EU=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41Receptor.class
+SHA-256-Digest: fZy83i04n98pU0ewkgdq6lxC5zZtuplZ4fVUtoCQ8/4=
+
+Name: org/tempuri/IConsultaCFDIService.class
+SHA-256-Digest: 7c559jIlTDnu4eLNrmV+maVFK+WyuAGS3XxkmJb3iJw=
+
+Name: org/tempuri/IConsultaCFDIServiceProxy.class
+SHA-256-Digest: t8v/9mN3qlko5wTiKoVNM1MpIjxz4HvH6W7I4yHpcmY=
+
+Name: mx/com/jammexico/cfd/jamcfdtest.class
+SHA-256-Digest: 5RDN6WZLt4lCY2a8cdM0v61atwkO/kLjONZSrIbQ6DU=
+
+Name: mx/com/jammexico/cfd/contabilidad/jam02variables$doXmlReferencia
+ s.class
+SHA-256-Digest: LlgGxsauc3DIsfFnYudt8yEaRVjK//zhFbGuSaI/NjY=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam98traslado.class
+SHA-256-Digest: H0U7gU2ejzzsxWyLmAX2cP374PQFOEELfAJ3W2HLVsg=
+
+Name: mx/com/jammexico/cfd/estructura/jam25conceptos.class
+SHA-256-Digest: /XE0JFHs6HBXAkQ81JK390A1nBhoXDCElFY2lBKOHEk=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41Impuestos.class
+SHA-256-Digest: D386PxaHsubpgadYO17VHGRvIuLryZDPPKaSx9zfe0M=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99percepcionesItem
+ s.class
+SHA-256-Digest: ObkjVQboALRIjNhgEvIbFXo9dvECZ9WTbgsFGRSXkb0=
+
+Name: mx/com/jammexico/cfd/util/jam10seguridad$2.class
+SHA-256-Digest: D6QshsK6kuNXtQsIQY0yI+9CN+NUjfl2Ce61fY9OeMI=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41Nomina.class
+SHA-256-Digest: wWbhCr25/0KhjILjWT+gtjl/+GU1wxbR/TUaM0SpKGg=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99datosnotario.c
+ lass
+SHA-256-Digest: LZeBSRkhAZVAOf3sCow/4zHx4H58VFC4z5EDSeu7F0s=
+
+Name: mx/com/jammexico/cfd/util/jam10seguridad.class
+SHA-256-Digest: 11xhPRyeLQ6FvzKDvuUZ9y/LvXkSL36QaF3uIHb8SQU=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam79regsfiscales.class
+SHA-256-Digest: n6UnMKs7dz8WLNxoCxiDIbeTaabXfJ5QSW2HZGRvRAQ=
+
+Name: mx/com/jammexico/cfd/jam01modelo.class
+SHA-256-Digest: AaEISWmrR5Mxt64Dpl6D+VnRdUBbx3qNl8DuAFQ9W6I=
+
+Name: mx/com/jammexico/cfd/jam04xml.class
+SHA-256-Digest: jyZhenV4K0vpuWeyraq8cNI7rx8hPh3gWu2ZGfvILP0=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99adquirientes.c
+ lass
+SHA-256-Digest: ZobrsIH7UA3ovaCk3M04UvTQ3Gj5XalXV2rZTtzw7j0=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41Emisor.class
+SHA-256-Digest: 8hkjEQZ9EyKZvtqWhqqvSRFgYg28s4DopaixXxQMPcs=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99enajenantesIte
+ ms.class
+SHA-256-Digest: C4GPmLg1+iSx2aq4YW+BMcdhLwXt3NMAFygkVfisRUM=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam92traslado.class
+SHA-256-Digest: epwetkNkOqe59doCK/GoiuhaV1sDl0E5YqP8dmiOP8o=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99inmuebles.clas
+ s
+SHA-256-Digest: XRSxQVfIwXTKOndsV31nc5J/niK8c3pV47R3mSQLoBQ=
+
+Name: mx/com/jammexico/cfd/jamcfd.class
+SHA-256-Digest: SRNvi03SQqiAbjbyZg3N0I5yxf8hDA9vz3i/tiiVUtU=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam81contabilidad.class
+SHA-256-Digest: lXIwTE9NVuXLTP8I4QRNHUWMTDX+q8wdOIZ7Zg3FZh4=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99incapacidadesIte
+ ms.class
+SHA-256-Digest: JmEdqNgz9wKgKTd3Hko3cv8Zr/e2d4h1zv5yvOoSqXY=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mabe/jam01documento.cla
+ ss
+SHA-256-Digest: Zt7S4mYNWv3EkuR3EhHu37bt2Ccz6/U7RdQ6pwY/gwE=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41Conceptos.class
+SHA-256-Digest: tZqJ4LWquQZT7rUXkR3yrAYHx5m7VEZ5kn8u127wUeg=
+
+Name: mx/com/jammexico/cfd/estructura/jam20receptor.class
+SHA-256-Digest: pSe56i86z6t0/CSaNu8h8coFBO26zNRWIjv4agq2gdU=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41ImpuestosLocales.class
+SHA-256-Digest: oB4B2ueVrlLH7bpPd1xC0xdFQ28h8ghM2GxiNBQAABI=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam80datosimpresos.class
+SHA-256-Digest: KOiOngIexGxEZo9SzEKuXD7iIAv/XnSlAhqSRq2He8g=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam95complementoconcepto.cla
+ ss
+SHA-256-Digest: 6POCksb1SywG0FPatg5Lq95oeVblZI23760UF/4r890=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/autozone/jam01documento
+ .class
+SHA-256-Digest: pp2s1OnirauhgudYhc3g0o2j3m91kiPFYETR4WXA2JQ=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mabe/jam05descuentos.cl
+ ass
+SHA-256-Digest: NN/9fAu85Ag3WB4A4hJksRXSCTZqzfHE72sznMBbfO8=
+
+Name: mx/com/jammexico/cfd/contabilidad/jam01modelo.class
+SHA-256-Digest: aq/S/UHnVa6w51CjY7TSQiF+uUBZWqRvvyaNu/Ja6g0=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam82monedaextranjera.class
+SHA-256-Digest: J+xcy6+Dji1OUVuNgkt4tP2AnunMFMk6a6kEvZx8A2M=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam98impuestoslocales.class
+SHA-256-Digest: lpI/ID3wVQ80YM1OyuztOhXEE2ICtod8KRixYmvRV1A=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam98retencion.class
+SHA-256-Digest: 0SxkWst+Dc/vJbBlYwIGG5akWXkppTUf+AMmYhM51lQ=
+
+Name: org/tempuri/BasicHttpBinding_IConsultaCFDIServiceStub.class
+SHA-256-Digest: EMVIGvZCzL9cXFmVnjA7/ifV8zW8g/k+RUFRFg3Pabc=
+
+Name: mx/com/jammexico/cfd/estructura/jam15emisor.class
+SHA-256-Digest: 6Z2hznguZlHAoylFGYYhm+051jZYjDNF0s6EDxW7tzE=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam90domicilio.class
+SHA-256-Digest: 4kHp8mPxNGwbm83B6PsQOtq7r6tldkvQTOuz2WVDD4g=
+
+Name: mx/com/jammexico/cfd/util/jam10seguridad$1.class
+SHA-256-Digest: ov+mSMc1wq3P8KV8kGHxzgR6JxsSL34FzyF2cd7ZaUw=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mabe/jam02detalles.clas
+ s
+SHA-256-Digest: AonCAQdK5HJcMS6x9M3zNCsVzd6AR2+lijyrTA3mAtc=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99incapacidades.cl
+ ass
+SHA-256-Digest: L2uKDQ8Gl4XarLmnq+fy6RxjhcPLvMBieoG4wWsmK7Y=
+
+Name: mx/com/jammexico/cfd/contabilidad/msgpoli03_balanza.class
+SHA-256-Digest: DcrbsrnsMDAeekGbU4aM5INI56SM738cObTeBzfUmq4=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99notarias.class
+SHA-256-Digest: 4lZqC2y6sKKxTxGQomcjzoU9ewLq4V+DUHFrI8+otCE=
+
+Name: mx/com/jammexico/cfd/jam02atributos.class
+SHA-256-Digest: 87aH/2Ie88+1joB86dpuig1zXwhyQ11Hm0S5UnI0mos=
+
+Name: mx/com/jammexico/cfd/util/jam20CFDException.class
+SHA-256-Digest: 0J2WB4Uw7CdIWO9cqw4c5bx3qqdX5waSC5PbJtp6uOc=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam93retencion.class
+SHA-256-Digest: SorPOVnpIPVawLrUP7qeARcFhFEkbzZ6jWR/6ZuG/qE=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99inmueblesItems
+ .class
+SHA-256-Digest: 0yjwxvTMu/7U3UaRibFZ1O19Kw539VrdDpR0lue3Ijs=
+
+Name: mx/com/jammexico/cfd/contabilidad/siccont02.class
+SHA-256-Digest: ECGLTQ9Hg/2lChEAz8EVTzqx0qvRwHlx9VL1lQWX7qM=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mapfre/jam00addenda.cla
+ ss
+SHA-256-Digest: h35hRE4e6gNQ+XB4eYIb7250YbRXJYH5f8UNtKXeLHs=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99deducciones.clas
+ s
+SHA-256-Digest: bl8Sdr6Ul1M/Q6vLwpmouO2urWfrE4Ft5xE+q9fwjlo=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mabe/jam03impuestos.cla
+ ss
+SHA-256-Digest: h0Z5pt91TrH7I4EqDzt/+RsnUYmAzUwt/WKUjKhDyoI=
+
+Name: mx/com/jammexico/cfd/contabilidad/jam02variables.class
+SHA-256-Digest: oGhNtjvfx4n4k6FydttjVvuZnOupjnTlh7xh4e2Bkz0=
+
+Name: mx/com/jammexico/cfd/estructura/jam40addenda.class
+SHA-256-Digest: ZtRbIS33rWF0QB/ehDtfZsEacak34blzmAqZMUrkw7E=
+
+Name: org/tempuri/ConsultaCFDIService.class
+SHA-256-Digest: /QU7/3dch4whj8hqcytQEqRrWTogptINczkn2gKzq7Q=
+
+Name: mx/com/jammexico/cfd/contabilidad/jam02variables$doDescripcion.c
+ lass
+SHA-256-Digest: 8olVgWu09wxB8cdgbJoZnIaBi82lOuQ/g/zpd6BoMjw=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99nomina.class
+SHA-256-Digest: fUJg07XpaAenvzDFY2gs/qFtX3CXbBqEdvJN5ggtNCU=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mabe/jam04retenciones.c
+ lass
+SHA-256-Digest: rTNnqRDeN1UMom8N3KTEQY26QC+v/ax8HoxtUiWbM9c=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/notarias/jam99datosoperacion
+ .class
+SHA-256-Digest: WUtvORChnAy7GS++51ZBUTKRL75iG1q6RWGJJhRvdds=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/mabe/jam00addenda.class
+SHA-256-Digest: G6ppIBZsYGkT0NC8GiYIF70jNPjb08QfFqw9x1xgdy4=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam94parte.class
+SHA-256-Digest: Xdv452ebvhQYdvM7NgSCCXznn2LRqgh6TCt8M4izbcQ=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99percepciones.cla
+ ss
+SHA-256-Digest: BTHzRTXuxAUWwChqpLCAkj31C+0a7mTaLgenkkcRDHk=
+
+Name: org/tempuri/ConsultaCFDIServiceLocator.class
+SHA-256-Digest: hfjKH3PrL5AVzcKG/ay3r/d7OFyJV7HIQw8x6G8H8Fo=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/jam96cuentapredial.class
+SHA-256-Digest: oIDANdh9bMmAV7dUnj4JZuUb8uko8dfV97iCzkTPtH4=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41Comprobante.class
+SHA-256-Digest: y0KooTuA3JVn3Rhjpftvxe143H2xXh0TrnVTvc+CPvw=
+
+Name: mx/com/jammexico/cfd/contabilidad/jam02variables$doSetVariables.
+ class
+SHA-256-Digest: RSvSRxxvssHH+Nzhm3I+GQEQjmWCwleQR0rBc/S2I1E=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/autozone/jam00addenda.c
+ lass
+SHA-256-Digest: LZunSTgzZ7iviMNkkcP9GhElGj7KYeoZqAyAVzFZSuc=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam41TimbreFiscal.class
+SHA-256-Digest: i47R0rAmkjO4w+XoqhxiGiJtszrIiTVHfAyZ1CaBi6k=
+
+Name: mx/com/jammexico/cfd/util/jam10seguridad$3.class
+SHA-256-Digest: ogYoTWZxzTYj+N81DQNyAcKjqWEIK9aytpR5JcSQhyY=
+
+Name: mx/com/jammexico/cfd/util/leexml/jam40LeeXmls.class
+SHA-256-Digest: kxYcql/1PpyhyP1oZ9wT1PE6fpIqm07xmw2acMwOncc=
+
+Name: mx/com/jammexico/cfd/jam00addenda.class
+SHA-256-Digest: K7hC84fW40Jqb+mRiZqUadKsyS9snpiGUfU0wiHXCOk=
+
+Name: mx/com/jammexico/cfd/tiposcomplejos/nomina/jam99horasextrasItems
+ .class
+SHA-256-Digest: HehcObY0W8GtWVAF02IPxPFwysLuw+VROzhRYyeRKiw=
+
+Name: mx/com/jammexico/cfd/estructura/addendas/axa/jam00addenda.class
+SHA-256-Digest: 0jcijfLQnROO6ZFCt6U3Zjj0lLAId5nKxN3UpCsxMHA=
+
+Name: mx/com/jammexico/cfd/jam03acceso.class
+SHA-256-Digest: wMNa7gNafloJtKaKG5PyC/+lETnrmSBKv/MeH0f48Rk=
+

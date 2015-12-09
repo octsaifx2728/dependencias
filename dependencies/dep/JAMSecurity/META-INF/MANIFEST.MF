@@ -1,0 +1,63 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jambiometrix/VerificationDialog$1.class
+SHA-256-Digest: JCB3lqmfSh1nQwopA8/sZK56sXOW3vmVQHmBwjiZsJk=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$1.class
+SHA-256-Digest: OXYTbuHMcn2RsAleENrHAofNjaAgEz20V6JeYDa/iDE=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$7.class
+SHA-256-Digest: lYeiRFHcXYfe8Nv2m39OsNumrSRGdRxdfUQqNXWytUY=
+
+Name: mx/com/jammexico/jambiometrix/EnrollmentDialogManos$2.class
+SHA-256-Digest: IKC+ij2yJaTORGhXRWNGi/wrH+KAVyuaBLVgAbiMW/s=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$6.class
+SHA-256-Digest: UMGLVfrC59X2SzN4wRnBkuBfGKsrny0fSTP6CArdDhE=
+
+Name: mx/com/jammexico/jambiometrix/EnrollmentDialogManos$1.class
+SHA-256-Digest: Okvqh9EVfnVV9HFYqYc2T4GBAHqTiGiKnq5ShdeN7Uw=
+
+Name: mx/com/jammexico/jambiometrix/EnrollmentDialogManos$3.class
+SHA-256-Digest: B8AbFB5z73gUbwhbFZHO34Z+Ol+5R8YgTp+4mjoyUYM=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$2.class
+SHA-256-Digest: bT7A65B3aiqr6GFdxbf+Y5xP34OCdLtbkKMXfl9zuzY=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$8.class
+SHA-256-Digest: nOZJM2+Q4V+EsbPPqTFwTBUeURj53cMt8nu+s7ftOcs=
+
+Name: mx/com/jammexico/jambiometrix/EnrollmentDialogManos.class
+SHA-256-Digest: jfeLY0OzAvuQLo5bxPE5waALHKuCg1cIAj2bDJ7pqKA=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$3.class
+SHA-256-Digest: edJ8oOoVCFTJ8rP/wkRSFBKj9pUnMgDUDI97eYpPgEk=
+
+Name: mx/com/jammexico/jambiometrix/util.class
+SHA-256-Digest: f7UaA7tETJjoRINMMLdG4LgBM/8F775FnAIs1wHA1AA=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella.class
+SHA-256-Digest: pwFCcXFN+mGrhSPWWb0V43VDIfDrpQzQiS1xocKpZ8U=
+
+Name: mx/com/jammexico/jambiometrix/VerificationDialog$3.class
+SHA-256-Digest: 2wMdOPUs/lNYVdjPMkZ4D8j583BTiSrqaFn3EWFnX7g=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$4.class
+SHA-256-Digest: y2ONrAk3eJcmH+8TFyzuwrFW8Oo9E/KE3980JDyW9f0=
+
+Name: mx/com/jammexico/jambiometrix/VerificationDialog.class
+SHA-256-Digest: qzKHS0zZTQ707zRR3+G3h2a0c5GtZQHb5jX6UYkmyRA=
+
+Name: mx/com/jammexico/jambiometrix/CapturaHuella$5.class
+SHA-256-Digest: qDoQvMeOtwCO+9+5fyXAFQu8d8ltLHebfcqiMaUMCiE=
+
+Name: mx/com/jammexico/jambiometrix/EnrollmentDialogManos$4.class
+SHA-256-Digest: tTGL+HmjIsU2gaUItym9d0F4SKyTR0RS+rF9yquRtXE=
+
+Name: mx/com/jammexico/jambiometrix/VerificationDialog$2.class
+SHA-256-Digest: Wn/j3NiN6g/QQtc3jFdB2ZCpJ7UnZlbs5h9Ex+msOLI=
+

@@ -1,0 +1,240 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: javazoom/jl/player/advanced/PlaybackEvent.class
+SHA-256-Digest: Ld8ogKJJ4LjmR1sat9FScD8nme7QxwMNgeWk8l+1UXo=
+
+Name: javazoom/jl/player/advanced/jlap.class
+SHA-256-Digest: IufDVbrbFh3jfJhyjDe+YL5DmZCc8KUf9lzMRV0a+lk=
+
+Name: javazoom/jl/converter/WaveFile.class
+SHA-256-Digest: Lbz+BEIl16+Af2pRwozBIkMgbUicIbXdKwuYD0tMDYI=
+
+Name: javazoom/jl/converter/jlc$jlcArgs.class
+SHA-256-Digest: 5PvztGTJc3iLF1h92H8zn3cz7CacKfgigPjjZVVVv9U=
+
+Name: javazoom/jl/converter/jlc.class
+SHA-256-Digest: bOXcyo2nF2F3cJujGqaBjOIP818crs0rQSThEoW8IF4=
+
+Name: javazoom/jl/decoder/Equalizer.class
+SHA-256-Digest: U89hEAymslMMcmJQeDqkuGS4OTfc8LkuJG+bgmmQnW8=
+
+Name: javazoom/jl/decoder/Obuffer.class
+SHA-256-Digest: yZLcxPlGxh8xAL33350PRGPa1KuhkxXB9COkD6+3Q9A=
+
+Name: javazoom/jl/decoder/JavaLayerHook.class
+SHA-256-Digest: xsqyxcHJAvdRVmxo7pxnIkN9d8Tl0ZvUiUO8yQiZydI=
+
+Name: javazoom/jl/decoder/LayerIIDecoder$SubbandLayer2.class
+SHA-256-Digest: q8pu4wzuK3nXqAjVXy7ogxZK/a/INA/mOI96bHu0S8A=
+
+Name: javazoom/jl/player/JAMTunesPlayer$playtunes.class
+SHA-256-Digest: 0+wjYRZh1j4wFrNwviAqQcMenB/vWiwhH+8g5CEa6sE=
+
+Name: javazoom/jl/player/JavaSoundAudioDeviceFactory.class
+SHA-256-Digest: vC0Ud5qNLWjezQnLNnl5+sSLpo7o4dZcO1PksHZhH7w=
+
+Name: javazoom/jl/converter/Converter$ProgressListener.class
+SHA-256-Digest: MTTS4rl1lNfPWb3ZaYX/Svar0Vf4bpF1HkHyS8oJO0s=
+
+Name: javazoom/jl/decoder/Equalizer$EQFunction.class
+SHA-256-Digest: g8i/aHmPIlBOr2XmM0bMEAfghE5cUXLEpVjkVWXj8Pk=
+
+Name: javazoom/jl/decoder/DecoderException.class
+SHA-256-Digest: 0AeQKK7FTBvZLr635JU5xHGhxC9swmWatcPokg32NAc=
+
+Name: javazoom/jl/decoder/LayerIIIDecoder$SBI.class
+SHA-256-Digest: 9GOeookZhZu9TCx/iXOpn1wkCZHPmUChMdDH6i1YVyQ=
+
+Name: javazoom/jl/decoder/Source.class
+SHA-256-Digest: XEOz5O7H/Rve+D/nWM1p0ZiMorn5/1/rIzhbTbGJWeY=
+
+Name: javazoom/jl/decoder/LayerIIDecoder.class
+SHA-256-Digest: LHvL4R/5TOWH9TPb6tUe5VmmkfecU+Z03et03eQoHUA=
+
+Name: javazoom/jl/player/JavaSoundAudioDevice.class
+SHA-256-Digest: JwRJiaGu7BO3XIH7F5kclyvY/urZhTNi7EqYEd+5990=
+
+Name: javazoom/jl/player/PlayerApplet.class
+SHA-256-Digest: sKsoY6ek18ffRa6EuJR0Ws3au+SusfE4KRAEeA6P/cE=
+
+Name: javazoom/jl/player/advanced/jlap$1.class
+SHA-256-Digest: G8TqKlC4i7s7tOwL1Ydfe8sDXHcnVO8JzDFHwaN/RW0=
+
+Name: javazoom/jl/decoder/Decoder$Params.class
+SHA-256-Digest: ASq4Pnbq+Y8ML91OawxV9PFS6rpguteG0uw8uikzOdQ=
+
+Name: javazoom/jl/decoder/LayerIIIDecoder$temporaire.class
+SHA-256-Digest: jRX0LXEQlUmmrkuL+pZIra2dgq5p95CUx7Tg79AS/A0=
+
+Name: javazoom/jl/decoder/huffcodetab.class
+SHA-256-Digest: v2sPjFnoMza38noQDyQMMS1Mc0z4tTDe646Z6gEdroE=
+
+Name: javazoom/jl/decoder/BitstreamErrors.class
+SHA-256-Digest: fQKfkvIAHZCv8BWlLKbuK19rOTVKGCkWEUQqEIE/u+w=
+
+Name: javazoom/jl/player/Player.class
+SHA-256-Digest: RQ0fYgXEaRLfNGnoivcPGv6UN3YUIlN7gtqR+QvWGOg=
+
+Name: javazoom/jl/decoder/Bitstream.class
+SHA-256-Digest: 4AxL01snJ6fV2nyM771SsOrMZA/HuUvErsrWUmAeZwk=
+
+Name: javazoom/jl/decoder/FrameDecoder.class
+SHA-256-Digest: GfF4BvjhVnjkCRy0wkNh9RGU0+nZ/NEt4pABMAASRRI=
+
+Name: javazoom/jl/decoder/LayerIIIDecoder$gr_info_s.class
+SHA-256-Digest: gH5pKwdoLqZ4BVMniX5PQeq3AgfiuWzuR8N5Ge7Y7H4=
+
+Name: javazoom/jl/decoder/Manager.class
+SHA-256-Digest: E7g5TAJHaQ4ALrB0OPm880qQLiq09jyVLrERukyxkTw=
+
+Name: javazoom/jl/converter/WaveFile$WaveFormat_Chunk.class
+SHA-256-Digest: UauCa72/UmLarDODUXVr86qG+ko3CkluwoRvny+/O04=
+
+Name: javazoom/jl/decoder/BitReserve.class
+SHA-256-Digest: OQpi80IP9sZJXdHeX7HRn8GVcKpI1Mh72aBLpFnjrL4=
+
+Name: javazoom/jl/decoder/SynthesisFilter.class
+SHA-256-Digest: NkIVqpYtE+GxxqGCEVlFvI4CQ5zqeseVlfVlV7P+CJ0=
+
+Name: javazoom/jl/player/FactoryRegistry.class
+SHA-256-Digest: 3BwNAHF5ss/acYCM7x/jV+HP7TQWsONkKXqwArN6mWs=
+
+Name: javazoom/jl/decoder/Control.class
+SHA-256-Digest: xjUy2CAUMSBQrEU5V13q6Zy4xXX1WB7hvc7t3QKL0h4=
+
+Name: javazoom/jl/player/advanced/jlap$InfoListener.class
+SHA-256-Digest: II6rFxvywQrxC2Z8dPIu6hAY6ci67yBH4uxt2jini0Y=
+
+Name: javazoom/jl/player/AudioDeviceBase.class
+SHA-256-Digest: 8gHZRtpWnUS0HXOjBoPR5EnVi9VYNokvm9X9x7lePds=
+
+Name: javazoom/jl/decoder/Decoder.class
+SHA-256-Digest: 5VIQ453vO293TAJBwbROGYHkSjRqiHhWvjgBWk4lex0=
+
+Name: javazoom/jl/converter/Converter$PrintWriterProgressListener.clas
+ s
+SHA-256-Digest: Qzncfoy9nPL67Fgz9LYGFTEdhoYbcAHJ+75Qkt5ur5Y=
+
+Name: javazoom/jl/decoder/lin2au.ser
+SHA-256-Digest: R2DCzhMX8QcYtEeBiW0lR9bBbynXQFZd4XCPKePRYCM=
+
+Name: javazoom/jl/decoder/InputStreamSource.class
+SHA-256-Digest: zi6hfszMwtANUkFjAcfjePmAXE+/Y59sHN3RyFO3p7E=
+
+Name: javazoom/jl/decoder/LayerIIDecoder$SubbandLayer2IntensityStereo.
+ class
+SHA-256-Digest: iUUZ94wEOpu2GNU6kugAWLmeRR7qOoj77I85qQkZXv4=
+
+Name: javazoom/jl/decoder/LayerIIIDecoder$III_side_info_t.class
+SHA-256-Digest: fS0uAWTcEm265QhY3k5wPFVvHiTI3YdSu+7WXaGN6Js=
+
+Name: javazoom/jl/decoder/SampleBuffer.class
+SHA-256-Digest: N6Alaxjmojebu4v3DbLoHxRh0BEJ1dT6F+LOtCIcrOA=
+
+Name: javazoom/jl/player/AudioDeviceFactory.class
+SHA-256-Digest: 3KjysOg8lxOSoBEbQBI4wcHl1E+9ZG64wJKETjF0Qes=
+
+Name: javazoom/jl/decoder/DecoderErrors.class
+SHA-256-Digest: JCxz5ouA/Cdp18JcTe9xwWXhGp+Iud/pi4hVHOYsFjI=
+
+Name: javazoom/jl/player/advanced/PlaybackListener.class
+SHA-256-Digest: y9uGr0hDyGutk7L6TLlxFcP/fmBDgotvtQwxOk6BTJE=
+
+Name: javazoom/jl/decoder/BitstreamException.class
+SHA-256-Digest: r5appW6XkZaeM7yLeAvLK+0SGyduJZBpDNdGky0CMW8=
+
+Name: javazoom/jl/converter/WaveFile$WaveFileSample.class
+SHA-256-Digest: pCmh/cuBxOdHZsKRyWKBink2wHixUE0oYkx12B58txY=
+
+Name: javazoom/jl/player/jlp.class
+SHA-256-Digest: H9FIdwgLVsFp/7XUFor4UUWVUoinVzykhjsz9mhLhzE=
+
+Name: javazoom/jl/decoder/au2lin.ser
+SHA-256-Digest: hICdo2nFzGc4O+AMp4CGSmb12bwkDn44bjP3NGNw5PQ=
+
+Name: javazoom/jl/decoder/l3reorder.ser
+SHA-256-Digest: Ks4+l31Q5wj18av7D/6KE2eiI+0GsnVqC9dRtjWR6dw=
+
+Name: javazoom/jl/player/advanced/AdvancedPlayer.class
+SHA-256-Digest: NzNUW6Fgrhu4X3N/ZOPx8tZTvVpWK8bEpltEhp0XCj4=
+
+Name: javazoom/jl/player/AudioDevice.class
+SHA-256-Digest: fKvJ+UNUpEF/6bjA936qJ8F1snSTtATcUvSGLibGnfw=
+
+Name: javazoom/jl/decoder/LayerIDecoder$SubbandLayer1Stereo.class
+SHA-256-Digest: aa8cRnI22WNWKDnYsynaHGovUMZ4OWwOAYDbd5Y5iGI=
+
+Name: javazoom/jl/decoder/LayerIIIDecoder$temporaire2.class
+SHA-256-Digest: 8ssrdr1b1Qia+SKW9S4IeZOSf3MPoU3c+N3+cACXsl8=
+
+Name: javazoom/jl/decoder/JavaLayerError.class
+SHA-256-Digest: qZOe6pug1kPDaZI3bsH6ThuufeIM33hDaJqNPTPyu6I=
+
+Name: javazoom/jl/player/JAMTunesPlayer.class
+SHA-256-Digest: nHv04fUg9TucFqrm+zSbGNsxF4juE0nJBYgtvv7jxJw=
+
+Name: javazoom/jl/converter/RiffFile.class
+SHA-256-Digest: UMTuty71y965aRT8pQfwdL0rW4PqSYBZV8mnrsGxG20=
+
+Name: javazoom/jl/decoder/LayerIIDecoder$SubbandLayer2Stereo.class
+SHA-256-Digest: upCLPNjanAlV6HyfCwFgQDlwPDNtB5rVx+rf+KagAaE=
+
+Name: javazoom/jl/decoder/LayerIDecoder$Subband.class
+SHA-256-Digest: DxhNqmfrHQRE2j0iWx8LLfHlIV9LQOkFtbg30qJCPJE=
+
+Name: javazoom/jl/decoder/LayerIDecoder$SubbandLayer1.class
+SHA-256-Digest: VS3drCs7qkWMb8BowtX+gCNB2s3duKhzNeRHNwf02QE=
+
+Name: javazoom/jl/decoder/LayerIDecoder$SubbandLayer1IntensityStereo.c
+ lass
+SHA-256-Digest: ehr8ND1/8VjOCoT8JI5t7DhEwXN1jzVP8eE99vWyPcs=
+
+Name: javazoom/jl/converter/Converter.class
+SHA-256-Digest: EsrHJB8NPrBHyF+aMCfhDHG0nu1wqlBCO7Js1FQQBt4=
+
+Name: javazoom/jl/converter/RiffFile$RiffChunkHeader.class
+SHA-256-Digest: Whm6PAqDcJNTDrz6XmbWYSYrXNecm2xhpWpkaQy+pwk=
+
+Name: javazoom/jl/converter/WaveFile$WaveFormat_ChunkData.class
+SHA-256-Digest: b3J7XHkjMoBaBgMcmvwtKD6rPru72OW0or5DH4zY1qU=
+
+Name: javazoom/jl/decoder/LayerIIIDecoder.class
+SHA-256-Digest: pqdp/OttoeuteYxS3Bx3Bwc9e0dCdhXZA8Psjt9fRjc=
+
+Name: javazoom/jl/decoder/Crc16.class
+SHA-256-Digest: DvuPq8PJkXs5KHO05lqbaRNC/0NrnTL47YVx/m7Z3oQ=
+
+Name: javazoom/jl/decoder/JavaLayerUtils.class
+SHA-256-Digest: aEQGBMpTVp+OijP00zqDltwdyIbHzBDBmTZoDkAfqOQ=
+
+Name: javazoom/jl/decoder/LayerIIIDecoder$Sftable.class
+SHA-256-Digest: stK+DRl4OuOaKePLtHOYDgNWkMsbv0GJEOE78l04n18=
+
+Name: javazoom/jl/player/NullAudioDevice.class
+SHA-256-Digest: XdLCi3m2ebFM4TpGNpGF54kedgrP9eMe/BXFRWxN6dY=
+
+Name: javazoom/jl/decoder/JavaLayerException.class
+SHA-256-Digest: zm4qdX6t02RFz6b4ZlvjCDo6Sxy5WS1Vxd4pE5y3heo=
+
+Name: javazoom/jl/converter/WaveFileObuffer.class
+SHA-256-Digest: 0ozACJDJNETB/8Nbf2tIWReOiPu2+mRPaRi47Z/3nIQ=
+
+Name: javazoom/jl/decoder/Header.class
+SHA-256-Digest: 7HwpPD0CMYrG5my/evhhuSCUv6EkcvwaiP1pJd6+whw=
+
+Name: javazoom/jl/decoder/LayerIDecoder.class
+SHA-256-Digest: qeenybJJuJohd3alHxHJHpesmURMhZ7a0J6xoeVW0ok=
+
+Name: javazoom/jl/decoder/sfd.ser
+SHA-256-Digest: VtMa7gavKfYd5ozZ8qlx0icy+8qSv4cOBKVWYCnQL9g=
+
+Name: javazoom/jl/decoder/OutputChannels.class
+SHA-256-Digest: 42GofsnBSSq7dxFXGMamy0xLaoIuUiakAvxp2Q0C+P8=
+
+Name: javazoom/jl/decoder/JavaLayerErrors.class
+SHA-256-Digest: ntY4Q4GvjRbnfLcU78CjTTTPv3gz2pnehql3gOeKbHs=
+

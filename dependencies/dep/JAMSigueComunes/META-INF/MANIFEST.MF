@@ -1,0 +1,95 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamsica/events/SicCont02ABMPressedEvent.class
+SHA-256-Digest: ZMeQgfQKPoH5EYwd0lcw+gXnHNi7DUljCsk6KVt2XeU=
+
+Name: mx/com/jammexico/jamsica/SicCont02ABM$1.class
+SHA-256-Digest: Pgx68EwaM6GT/y+6s1OqpXLg7FgvxEtxD2f5PgEUnLc=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostales$2.class
+SHA-256-Digest: 77JSyN1YQB+Cs3765GPON+F+OMdRvgN/4MIPOBJui4o=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesAltaJAVA$2.class
+SHA-256-Digest: 97ToU+/wEvWdWUUeNiwoG6wTlaggx4eyvMQwWo2ITI0=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesAltaVOS.class
+SHA-256-Digest: 8VLZq/6yaUDOEVyc8XDMXpSFnQDV4rR4pNheKJDeZVM=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesAltaJAVA.class
+SHA-256-Digest: WX3uoR+bCnT7qrFKG/1Xc+DMvoJfrkww64JmGOAJCW8=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli01CreaPoliza.class
+SHA-256-Digest: wsDOQlHz4v0QRcd3BsCREYGLxSDq8rkmlrPHg0Wku5w=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesAltaJAVA$1.class
+SHA-256-Digest: ekTWwnUo0THBAlQ+IBhjsZO6omYYSiAUvzG6t38alaI=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesAltaVOS$1.class
+SHA-256-Digest: Qi5rzZPV14FZ8Qx6IbU5Xh1JHFsqdpwsM+j3ExpIBak=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli09CalculoPressedEve
+ ntAntes.class
+SHA-256-Digest: Pyv4yx7HZWqwUM0ZTkFWLxwzvT3hbJ4K6r3groiJ8GA=
+
+Name: mx/com/jammexico/jamsica/SicCont02CFD.class
+SHA-256-Digest: R8nUk4BRbOeG+KRgR/T0gGJzFYZR7F37yz0kLMvcZMs=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09Calculo$1.class
+SHA-256-Digest: Uj8YDM6Khb3m6yQzZAgjRiG8FgzFkrnAXzXaQ2EWVuM=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesAltaVOS$3.class
+SHA-256-Digest: PBAIFhPIoa76S9a7j2a/gj1skqOmlrp8/VcIXhBikCs=
+
+Name: mx/com/jammexico/jamsica/SicCont02ABM$2.class
+SHA-256-Digest: RfQwUpl6EbPFYPzDS4ECXWA/ICHEGAnyMUjAiuZSxVY=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostales$1.class
+SHA-256-Digest: mMG/6PMNsHO74RXGz7gfEKIWKChE+FQX3rroATyzjw8=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli09CalculoPressedLis
+ tenerAntes.class
+SHA-256-Digest: A3BPaOFWoakpc0wK3p4HLG9/+qdNXdMvHwDHW5qM4AE=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli09Calculo.class
+SHA-256-Digest: EWMOxsQrU5/SmYp05uiiN+SU+mUa2neaxJtANSJTEDc=
+
+Name: mx/com/jammexico/jamsica/events/SicCont02ABMPressedListener.clas
+ s
+SHA-256-Digest: FEirTVBrVYmfN7KNcGTRnGL5K+yzDpivzeSF1Fx/Yxc=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostales$3.class
+SHA-256-Digest: gMyRm85aQjmbHNPSevyVpXZ0NChb8uK16IeliM2fLpU=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesPanel$1.class
+SHA-256-Digest: i4v9eYvd2tmjHJ20BD1ZnxO4FojciL3Egq7qoPKB0QU=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesPanel.class
+SHA-256-Digest: R177KjPZIOSW5rhiPK7PYImBcbV7WyCZk11Z5ttdFak=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli09CalculoPressedLis
+ tener.class
+SHA-256-Digest: 6gL0h5l6zuSuW6tGQ4yDoi4Q+d7MSulHqjoEwiq+nRo=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostalesAltaVOS$2.class
+SHA-256-Digest: JfQSt27WhbE0MRdFMxyXCFKxhY0fR6C4IlvDGGNKYl8=
+
+Name: mx/com/jammexico/jamsigueconta/events/MsgPoli09CalculoPressedEve
+ nt.class
+SHA-256-Digest: DcGuBxcU009kjRbV+qabSf0qmq5opbK5kdUwWBMJFPY=
+
+Name: mx/com/jammexico/jamsica/SicCont02ABM.class
+SHA-256-Digest: tzCFrIxWrpcLckr522LkGaJ4uTmtcKbuZfbk0KD/wN4=
+
+Name: mx/com/jammexico/jamsigueconta/MsgPoli04SaldoBancos.class
+SHA-256-Digest: p9a587VqhTYsdPzkr2pJmtg/4AfxAjv5kbQlpVdJymg=
+
+Name: mx/com/jammexico/jamsica/SicCont02ABM$3.class
+SHA-256-Digest: K3DZ194/c9kiKUnXmWR5TVvpz4QupIF2DrbQCfThhjs=
+
+Name: mx/com/jammexico/jamcodpostales/JAMCodPostales.class
+SHA-256-Digest: WDPYARu4t5xQjm/5B70rAd6S7T6cAsg5+szp9VRDizY=
+

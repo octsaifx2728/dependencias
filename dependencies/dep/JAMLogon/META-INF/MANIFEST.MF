@@ -1,0 +1,300 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamlogon/JAM100Musica.class
+SHA-256-Digest: 5fvyZpeGs1SmCplq/SKT+6yz0Kw0STtsXuQqf/zMZdc=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$7.class
+SHA-256-Digest: HMI0Ha2rzTv7QIkhdOCuqa9rMDF4hiqNui+K06HDTmQ=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$1.class
+SHA-256-Digest: y48Srw2xTCrsTTSgmFwUkwC4oT/fRFUf9KXcmMb42A8=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$16.class
+SHA-256-Digest: yqwcOH3MDebQbiQr4NMvOJi8EaRld0ei6TmMqf7neDY=
+
+Name: mx/com/jammexico/jamlogon/JAM090AcercaDe$2.class
+SHA-256-Digest: HVs5f9iPPvAP2vQxwbQf2v0cY/xRzkPJqbS/S90MiVI=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$8.class
+SHA-256-Digest: w9EjeZg97iHpxT+FnogwKiWUYNtaLBxZvun+kpWRYpg=
+
+Name: mx/com/jammexico/jamlogon/JAM030Mdi$5.class
+SHA-256-Digest: lgHDdT+lgJRZAHjKwVtayJCBgsPhrhS+sPRlpBv6Vwc=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$4.class
+SHA-256-Digest: pZzWYk9WeEbULM8xHYPG+zE44Lp5T6phfIf7tq0jQQM=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$4.class
+SHA-256-Digest: Jsznr2LotcmxBoP9RqAtASY32lnQtdBvx36ESUKQsk0=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger.class
+SHA-256-Digest: zJNQyQ6RDQJcQSdwhSYxs1mZUrFhDAVnJW5HWLPa8gI=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu$3.class
+SHA-256-Digest: PR1ervnkfQpvIDyAQzptOOEtDrVGlHLLs3SzxNdrcVw=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$1.class
+SHA-256-Digest: mKXQQfPrC7Io9rmDQBJjCvWCzGXSQ7zTKHPEZnZr3cs=
+
+Name: mx/com/jammexico/jamlogon/JAM040Menu$1.class
+SHA-256-Digest: QQ6DTJhjBDf4tUQY/bcm4o52b/gQK+kkt85mf2tZPXY=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$9.class
+SHA-256-Digest: lzDExkxfumR/NYxiFtvf/6kYmGoOmfywWxUT2oL3TUE=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$1.class
+SHA-256-Digest: 1saxExFS+Xjrk1lWVraOh68EZ482fZvDSyiwZCa61Co=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$7.class
+SHA-256-Digest: ZyIX3YAjZ2Y+twLO2yu0hiRoaGcTlG4Hom1YGs9PasI=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu$6.class
+SHA-256-Digest: gVxSD09TCxKWSCOfbjJ9Oh0lOlYhn94z5rz0IdkOU1w=
+
+Name: mx/com/jammexico/jamlogon/JAM010RunTime$1.class
+SHA-256-Digest: Ah4u2Fm9oIjXR3y0/CtrOHq1tUwnXQeKVZfdhx5GbGI=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$5.class
+SHA-256-Digest: 92M9ZtHJXlzEACoZ7EjaCjghi3x/FkDtJS4ynl/xw3Q=
+
+Name: mx/com/jammexico/jamlogon/JAM040Menu.class
+SHA-256-Digest: Ci2NumXAuwOljKvc0+EuqZrHN6ogYxFv7r1pF58MNw4=
+
+Name: mx/com/jammexico/jamlogon/JAM061Boletines$3.class
+SHA-256-Digest: RpscFM9hkIMWpaBdh8CX0LhXqzK2RLwlbtJC0Djj21c=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$13.class
+SHA-256-Digest: E+UXkP4M6xW5ylTvhT3aEEguXq4xpvXSpNH+M5KIAbo=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$2.class
+SHA-256-Digest: C/eflMKjzTyVVBcS8ibEfSyjJ6v0fRNG7Dby9VmKE1Y=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$10.class
+SHA-256-Digest: Cz2JmUI+Z+N/f15Bn+1Z/vmK03v9gdwEjR2nfY9ktrs=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$6.class
+SHA-256-Digest: i2+Oqt8aXk5P0pycb9Ak3j4bB5tdgBkAXR/7F9V67xc=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$12.class
+SHA-256-Digest: x+k0UN6/Zvh2k6gH9hqdLixpWBa9cwD0GrmV+X2Xp6U=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$3.class
+SHA-256-Digest: n9XeOucXzHne8vr5KaGv2cAwAg43v4JGQWIJeAEQGOU=
+
+Name: mx/com/jammexico/jamlogon/JAM030Mdi$3.class
+SHA-256-Digest: JjnYKgrhOAMrB8faJA7fRAymdsZDJ/ayKSdi0pNhb5U=
+
+Name: mx/com/jammexico/jamlogon/JAM090AcercaDe.class
+SHA-256-Digest: crctxjHNMpGLvJKVcAd8PYP3RcgLwVKttNK7uva8QHE=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$14.class
+SHA-256-Digest: OGpY7hGxjj4BTw1rEsDYb/gwROpDCEnXozNxVK0uS5k=
+
+Name: mx/com/jammexico/jamlogon/JAM031MenuTrayIcon$1.class
+SHA-256-Digest: hyEPW99jc3D+Z9OBrLRkM/n7QvtIFi7wv4g3i8sqj/A=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$16.class
+SHA-256-Digest: ymvLLBqOjO5o1csa2C4NgcDcbFFh5i9I2amiNVlfZII=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$3.class
+SHA-256-Digest: F1r4gQ2hQ4H8GiRmYmf0EUMXbslvDWoe6XPMHJvnMRU=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$16.class
+SHA-256-Digest: Py2v+NFBnp2s610QTReNZURTrACvDcSkGSl/u5v81xI=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$9.class
+SHA-256-Digest: ngr7K4NXFUNqmmYCzA10FeyI4LDjh12sltahD2CjiNY=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu$5.class
+SHA-256-Digest: 085HSfGfZF7kmfxDj/QquN5QApleo8RClgX8pM412HU=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$6.class
+SHA-256-Digest: 9LfIyINpxnpiIfNSmSR8sbgMc6qxC7vr3wyXL4JKzG0=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$4.class
+SHA-256-Digest: Pr3duUAx7O6pgVkenHahXC1JtgUxAbnmfKbdwONOfbc=
+
+Name: mx/com/jammexico/jamlogon/TextFrame.class
+SHA-256-Digest: j1GVc/AMCvKpj/y4yfHx8GGTz8PZg4TFAWmTuAfAAZ8=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config.class
+SHA-256-Digest: L8qM7Iq1jpJEhRtNDIW7sp822obY4GtBl0LLhe6W40Q=
+
+Name: mx/com/jammexico/jamlogon/JAM031MenuTrayIcon.class
+SHA-256-Digest: W8Q38cvesd1mGW5DcM/aquVR6pZC1Kft1ZqZOapBz2k=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$11.class
+SHA-256-Digest: QVzKaCjubrzqyu8kI2zI7x2OeLTJdRfCCFr8/3JBjs0=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$13.class
+SHA-256-Digest: uZN0C53fWCiMrQUt//i30HHLqRBdESaqy+PZihtMaiI=
+
+Name: mx/com/jammexico/jamlogon/JAM030Mdi$2.class
+SHA-256-Digest: f/fpKh0hFZ4Xl4z9ffPipdSz54E1uDMOytNXuJGc4YQ=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$17.class
+SHA-256-Digest: GwMD28gAEshc8hgaS5m0jfSJXI0pq0kHeEifm26Bq2c=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu$4.class
+SHA-256-Digest: TJCIunAYpwzJA8daDnJVozKgt6wJ9AZePMfsYEA6s24=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$15.class
+SHA-256-Digest: VCJosrWnpQl5Il0jyXPijLEyFdnkfyFKqX+aKFFiMU0=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$14.class
+SHA-256-Digest: 8tCjKKsXBUZvhRpyAzUbWwQNkPmrvyl/L6UzA29hq0g=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$5.class
+SHA-256-Digest: iijX3Y0l7y7ck2oC0xIYVcEyUMd8I77oUn5HAR4PTW4=
+
+Name: mx/com/jammexico/jamlogon/JAM030Mdi$1.class
+SHA-256-Digest: GKb7/8Q2Lpejy8WGtnT6HZizkQ1vSv5h9ZEsZ4bal6U=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$8.class
+SHA-256-Digest: lWPBas/voHe4n1w1UxwggtC15D9J08Cqbo3f+RFKzMo=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu$ChildMenuItem.class
+SHA-256-Digest: NQF1Cw2wRQVaLzF94TX5hmQgE2JjyLsnCHFWClGnzCo=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$4.class
+SHA-256-Digest: 4kaCeOOZgDyRjkRV9cGXskbhpAhsfjgLZYoyeWLOqig=
+
+Name: mx/com/jammexico/jamlogon/JAM070VisorPanel.class
+SHA-256-Digest: ZQUJqsadycoDEfuipNcKKXk9DsuFbGXn6ymfNqIVQGQ=
+
+Name: mx/com/jammexico/jamlogon/JAM061Boletines$2.class
+SHA-256-Digest: Goh2L5HGzC9pVtJPBdaVILuhOhv5cIFSMyox41Q8d78=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$11.class
+SHA-256-Digest: 5PHzJY9Wi+3b3O0/7UH27CObYiC8m4DSz8D4KZvizfw=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$10.class
+SHA-256-Digest: THffGdWFWU8zYMYe3NWvGpGFhhHl6DqBfsTHF6PlNBk=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$1.class
+SHA-256-Digest: ZrG1Fr3MyjA3IYw9BTIE6pjTKzlmYr1INNuko4XR4G0=
+
+Name: mx/com/jammexico/jamlogon/JAM031MenuTrayIcon$2.class
+SHA-256-Digest: /MvwZWM3vD9eh2ZqFPPdtJcRTadtXl/tQXMVhoOelN4=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie.class
+SHA-256-Digest: bYpB0DMl0USZDL8JvmfgjG05Xur116ejkFpH6tD1Cvk=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$13.class
+SHA-256-Digest: seA1nnT014027cmicz705js8J+JIpZKWXFmen8/OqnE=
+
+Name: mx/com/jammexico/jamlogon/JAM090AcercaDe$1.class
+SHA-256-Digest: MiM3M++6ecxcIVBJiiNaZQ9fm/mtAYUY1oceZkzZiqs=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login.class
+SHA-256-Digest: nq6y40XCRWtfwo/tE2Rl4srslDKrCLz5wnls/1iSBqU=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$5.class
+SHA-256-Digest: E1x9RqEoSEddVX6W6Wcw3/q8+rz7vAIugtMgn4Grlx8=
+
+Name: mx/com/jammexico/jamlogon/JAM040Menu$2.class
+SHA-256-Digest: 2bySPtdzAGLHRBTIgXJlF5vQIXA+vGVqBhChtlsn1pY=
+
+Name: mx/com/jammexico/jamlogon/JAM061Boletines.class
+SHA-256-Digest: FD7j2drwF8+rRwU4/HfYRTJsFYaJbrD8iuML2espieA=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$2.class
+SHA-256-Digest: Zmv2yjcXmKteLEGGJ1tjnMYrVxKKVDx583QMReLYD9U=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$12.class
+SHA-256-Digest: 6aUYZMGmT2x6dNJIeQh/kxvWiWK0HtNNIBd4afmBQww=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$5.class
+SHA-256-Digest: 4HtLIRpqHY8t7XLXBYQVryYmv6zvVY6PxNPVh/KlLN4=
+
+Name: mx/com/jammexico/jamlogon/JAM070VisorMensajes.class
+SHA-256-Digest: 5b1EJWjFUbE1j/aIKZRlDpndVROQuSOhLAcLW/UX8hA=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$8.class
+SHA-256-Digest: G2oAMLdSDLUVGdk2R6Kibb1uaY45tsavsgjiBZhpab0=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$HiloReconecta.class
+SHA-256-Digest: MpDd6t14NAH7ZCyjySr75Nl6ZqMb0DCoYDij9HM/r5Q=
+
+Name: mx/com/jammexico/jamlogon/JAM070VisorPanel$1.class
+SHA-256-Digest: 6jTTtt+NK940szqONLxDuGVOV1hSAof1EYskSuyQEC4=
+
+Name: mx/com/jammexico/jamlogon/MDIDesktopManager.class
+SHA-256-Digest: 2gs3MTLqP8DA8HFYZsEDtBeIcX5umdNWybnF+xEc7NI=
+
+Name: mx/com/jammexico/jamlogon/JAM030Mdi$4.class
+SHA-256-Digest: /nmnE0Q93+zLypgG0dz3y2Ai/ltdA7f4yyXJmFfzib4=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$15.class
+SHA-256-Digest: qohMnZ5TbgV60nQs99x7kPuGPVpKdIWTp2OksutBr/A=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$2.class
+SHA-256-Digest: LfHyurveyl15OC+sK6bhQCp7vdW5DbyOPi3X41PGJrI=
+
+Name: mx/com/jammexico/jamlogon/JAM030Mdi$6.class
+SHA-256-Digest: ruSwqzRug+J1WbP0hnrJ0IEkoJjoHlr3ekHxWD7IS6k=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$12.class
+SHA-256-Digest: K7DCAiXzKMlSrhjuh9jqdosL7Tt68onGkh8NFl0kiLY=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu$2.class
+SHA-256-Digest: LgmjB88jfG6MiEWi1lkmUh5Bphp7eTehnM86UAdgsas=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$7.class
+SHA-256-Digest: zKbYGCdoozOvyUvQ+8NiDsDNPFS4XoW7YCmiGuL8wf0=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$15.class
+SHA-256-Digest: dSBKWEA5BMVvi1Tn3Udc1QpibSXEOEMOKPLc8vvUWIE=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu.class
+SHA-256-Digest: k6iqwtr2pnjpSgvQk7vTTV21bvsLrWJCau7PiN2KH2E=
+
+Name: mx/com/jammexico/jamlogon/JAM010RunTime.class
+SHA-256-Digest: KMO04qjAULtXcyMN3C3mACTUXFfisM0qo3VnzFJsVZY=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$2.class
+SHA-256-Digest: vS+ZGJQj1eCIzEeQVEEdierBKsd6ODNxdu+lzgczM/M=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$11.class
+SHA-256-Digest: n2JPYLksIQ+WgsU2rwDFVOZzRHCJgFGbdCqzA35bYDM=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$6.class
+SHA-256-Digest: LEhyrEfQUyaa6XQzq5fAOg64LhtIHbRBCRej1iVcZpQ=
+
+Name: mx/com/jammexico/jamlogon/WindowMenu$1.class
+SHA-256-Digest: bBe1NWHGtMTPYhKQFQdDTE5iqoCUl+3uYyRigypWwr8=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$7.class
+SHA-256-Digest: HvpnUhfHiBBPZ9TABAqPaTuofbQ8Z/yG3ghSBFJ1QCM=
+
+Name: mx/com/jammexico/jamlogon/JAM041MenuPie$3.class
+SHA-256-Digest: R5uXIOfvlAotBQg5/aOpfVziRgGYPkHCLQ7iaqcGaN4=
+
+Name: mx/com/jammexico/jamlogon/JAM020Login$6.class
+SHA-256-Digest: HYz3KqIstE37kkHWNjxjNI0ERHkTpktTFBFlQNGVRIE=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$9.class
+SHA-256-Digest: gXIvCJtxCVKlNGMng/vUWVdy5wVsVO0Mf05OwF7YUlo=
+
+Name: mx/com/jammexico/jamlogon/JAM030Mdi.class
+SHA-256-Digest: 1IbBiuZ5MCPeg9r2bn4eJDf7r/pTnrDplOHfnmcbrhs=
+
+Name: mx/com/jammexico/jamlogon/JAM061Boletines$1.class
+SHA-256-Digest: AdP/RoJr7BsNpAWfHT8GKXAkPDnvmQdDuGKJAaXSBEk=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$3.class
+SHA-256-Digest: 9Et167uWBldCM0JlQN2WLjBpGCA4zwgqfxdR8j7gr38=
+
+Name: mx/com/jammexico/jamlogon/MDIDesktopPane.class
+SHA-256-Digest: oiRBnBOG0FS+Pk2Km/3XimSct6EOMj4oCOtND4+afKM=
+
+Name: mx/com/jammexico/jamlogon/JAM050Config$10.class
+SHA-256-Digest: hl50ZNEVaGnH1ctMkyXEfA9sNIjcWXmV3040RBJklDM=
+
+Name: mx/com/jammexico/jamlogon/JAM060Messenger$14.class
+SHA-256-Digest: m7vcDyyutkCSys/GWBZD46z2mdpkwHL4KREFClLdr8k=
+

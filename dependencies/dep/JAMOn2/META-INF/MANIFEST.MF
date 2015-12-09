@@ -1,0 +1,385 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$30.class
+SHA-256-Digest: WW0Ur9huUi0Gh2kMG/2nfG+nWQdIAUtG8IUiIN+yCxE=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Input$6.class
+SHA-256-Digest: rKc7End+mD9faTU9Ft++24uzejo254SlA77+rkciXsc=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$4.class
+SHA-256-Digest: k7P0vUHkE5sJtFEI7Zb5k64uZXLXRdV1MAn7sYGXcgw=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$10.class
+SHA-256-Digest: akIEwakYtPPgwCoJsg2bu3VmMkKX46uTjO3xKDccqRw=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$20.class
+SHA-256-Digest: wpfE+jBJGQKRa2o9GBSG6GWk6CAYihhyEN5yqO83W6M=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$40.class
+SHA-256-Digest: toF9wGXXd4+KcPKkXs/ayeM/80p2KUnL+CVBlabk0Y0=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$4.class
+SHA-256-Digest: zVr60YZVNtJcqxLhKhPGnmARIQtgU/UEHIwgsD75tvo=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10NotariasPersonas.class
+SHA-256-Digest: E8xJd/DYlN5TGHrTyXADBTowW2BDJLD1a4mgh9SWETI=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$6.class
+SHA-256-Digest: 8RZg2kIIbhZBck7RuZhvnSMvxXSM3qE1uJTxB7ISr2U=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$7.class
+SHA-256-Digest: alLSHX++8YUtfC59uv/QfUcammzdM67oMoglAQk5RNE=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Activacion.class
+SHA-256-Digest: iHGsHv+yki4MsbOqldKjDcA9Sp1nsz+pZAq9PmUihNE=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$3.class
+SHA-256-Digest: bur3XRIqEv07/0iHfF03KjHaSP7Q2PK2jlHEnWp/JmI=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Recuperar$1.class
+SHA-256-Digest: +PCaDxDTI1hCn9SdIEhA1awR1fMzi2eHvDj7UzwA/QE=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Recuperar.class
+SHA-256-Digest: QJNg2lVu2EA50Vab31GPOymfiSBMUvGd1gZSa9AXWhE=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$1.class
+SHA-256-Digest: a8uxFxO3jG+a+0M85NFnlFHHGU23NFUD4rO8YiWBhyQ=
+
+Name: mx/com/jammexico/jamregistro/on2regi15.class
+SHA-256-Digest: GNenWInwjLrWW5uQF4x7t8+OUOCfZ6SYu8PBWeDU3Rg=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$36.class
+SHA-256-Digest: hy6zIcyhAd6z2cWjXyeIDgaScoV3ZbxB8pMTvJX8048=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00Facturas$3.c
+ lass
+SHA-256-Digest: BBJ/oi4fMwtPktWUdJKEKCb/1hOcOlPOT85YvzwZHMA=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Activacion$3.class
+SHA-256-Digest: XHJuTnfRalbL3yZfwoXECJ4zElgTx+GX4us+kGQ5BOo=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$16.class
+SHA-256-Digest: N4lH9oWvcJxIfgnpz1Z9asjE67VSfWhl051QHXJNo2s=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00FacturasPos.
+ class
+SHA-256-Digest: RO6lQxXCtPsXHyVdqxBkrNmks1mfwd3mk8GFRsD5YBg=
+
+Name: mx/com/jammexico/jamregistro/on2regi10$1.class
+SHA-256-Digest: 0tM5YVJfNLJ0JF2HJ4S0arkNJaxEbJVyhImN0U+FsTg=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$33.class
+SHA-256-Digest: PbGO8i3WJ/+bknYNvV3JBj0NDgi2wFAHC/su5J0ntw4=
+
+Name: mx/com/jammexico/jamregistro/on2regi15$2.class
+SHA-256-Digest: l852uV4Wz8Ax/nRDj2F8lOqe90Kvx1XbLY01dfJ9pA0=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$13.class
+SHA-256-Digest: qrGwN5cBFo5fHilPm1YUcDvWAGm2X9iF9KCsb9ZpN3U=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$9.class
+SHA-256-Digest: 8814HUufpK34vgTUT90M7oEyo5YOWrGqyWKj+NRHu7A=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$28.class
+SHA-256-Digest: 0FqjaS0djQCvr1zzASmN0Mjx1J6kqZwWhcE0cQpmi3w=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$45.class
+SHA-256-Digest: Gr+1hR14oIewqu98nbVDsPqy7Ltd/GU3AUF/a9U3dpY=
+
+Name: mx/com/jammexico/jamregistro/on2regi04.class
+SHA-256-Digest: VIaM75cEGpAQItLP5IaozzkGXTNoEOuMbSLUumYioTw=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$22.class
+SHA-256-Digest: ZG1goF+h7/rpLGp3TRz8WkIb++SNfT40AsKM4Nx+5Ho=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00Facturas$2.c
+ lass
+SHA-256-Digest: 3vlG/gQCvck/BsJPxnqa+rUh6EdSwk0M/AvTjbA87E0=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$12.class
+SHA-256-Digest: NRuqTu+H4+PAfD5bvAiN9APpYCYcpjrzluMWfQO4kF8=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$35.class
+SHA-256-Digest: AvyqJju7CSUMMnNE3Uc2v3B38XAVsaweRKLM58nXz94=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10Notarias.class
+SHA-256-Digest: CM/xkFMOT8lTsHOrj0sPhEz/Sn7YiOT3CzG/iJ5a8rA=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10.class
+SHA-256-Digest: c+FGZT0Rxpjsk9Vjm3zFdgfLisX5ipTIJxi92sHJ5MI=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$12.class
+SHA-256-Digest: rQPHNCSi35+7+L/FllqxPpKHy+SMIrxUqY9MSSJmOc4=
+
+Name: mx/com/jammexico/jamregistro/on2regi10.class
+SHA-256-Digest: YGUAADYzvOF83ULVAe2v2bn5Y7VwIviw5ck7iL8smfA=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10Notarias$3.class
+SHA-256-Digest: YZgA1obszb61A/CMQT5v/ER7mlqixOLu883JZ73/p8I=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$8.class
+SHA-256-Digest: 5nTAodu0of1i98Kud2LkMZ16AUvthlZuJXwZQFQuFDA=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$6.class
+SHA-256-Digest: s1X19jN1PTl2B2hXv185pqYiPxtIRktXt6D9b63ayy4=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Input$4.class
+SHA-256-Digest: YdBcfBw2e6Q5KB0mMJEUsQpfuvjr3TwyBBBO5/HXTkQ=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$19.class
+SHA-256-Digest: dnAkn8DEHpqEonO/W5kpJTKy2gk9Sy8TvYlXYGM2sfs=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$29.class
+SHA-256-Digest: 9Omon0dikiS6IaDUKQRsbwTVYIzOFjoXvCio/vouofA=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$6.class
+SHA-256-Digest: xUX6v00Snib61PNDD/qzqnBntrMqqLV55uQEcPlbpuI=
+
+Name: mx/com/jammexico/jamregistro/on2regi10$2.class
+SHA-256-Digest: jE1nsN2ITjSbGl4SjXu5MOsWlbW9m6QXTP/bLEZB06o=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Activacion$6.class
+SHA-256-Digest: JUsNZ/rBpIK7Gwzq/aEXpIvVH1uBpIScieRzicRyr7o=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Activacion$5.class
+SHA-256-Digest: 8+s/jEmRr/XeqQ0jscga48raHlxAq9etGZvx3bE9FNo=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$11.class
+SHA-256-Digest: VQWJhIT84/D1lIfKrS6Is6vPSx/jdM1PcAQmWjfGOHE=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$46.class
+SHA-256-Digest: lP65/bklz92dMZwUkXK+rHUkSY0Xf3lxVn7jq1CzJRo=
+
+Name: mx/com/jammexico/jamregistro/on2regi04Correo$1.class
+SHA-256-Digest: bswm9gTZKoXJkFJuUa8fxGSv5DclRNLjGCakAWBvNRo=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$1.class
+SHA-256-Digest: Ymcxxuwxr0ryXnSK9mW4rIWxGRu7LPN3rFFltakMDBo=
+
+Name: mx/com/jammexico/jamregistro/on2regi04CorreoAgrega$2.class
+SHA-256-Digest: +4qaZG3JF8EQvpkGwhl1EGvNQJX0nt88iqmWuav2m48=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$7.class
+SHA-256-Digest: 1CJEet4P4DvHsdHfb1wl9UhLg5yPk3cdapAaOuhx9P8=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$23.class
+SHA-256-Digest: ZYcH61GUfYoJd12KEWHBLnPc/eNxoIQBBAozkduPI1g=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10Notarias$2.class
+SHA-256-Digest: drGZm55hVt0TbkG9ZWM4RDWzaXbEjrn6mn/ZPXHpnQ0=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$11.class
+SHA-256-Digest: 2qN/BG7SEv7IVCQVRpwn/gRcwKcWB43zozoFS2SoNZM=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$1.class
+SHA-256-Digest: c9bI2UwtrlvfCTlSxz5d0Uv+BdrQGgMNtJqOdiO9lZ8=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$7.class
+SHA-256-Digest: 4a5LoWIqg136+WFAVSNaF779I4MyhgN3HFIBzTbI4uw=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Input$3.class
+SHA-256-Digest: iKozYCusrSMN709vNnL3CP6AJNsfn78KBpoh+zL7JdA=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$18.class
+SHA-256-Digest: 31hkwAgknLnyCnWL2pdMuc7vCptL5PbfzlBoOQ9hokk=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$5.class
+SHA-256-Digest: oUmPEdN+N+2QWw9+scgmCTz3MrgRkfYvBHBhW5MZA5I=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$17.class
+SHA-256-Digest: otPlopNMDoSG43NGzZQLy7pdSgW4LCJOYbtPBuXoiks=
+
+Name: mx/com/jammexico/jamregistro/on2regi04CorreoAgrega$1.class
+SHA-256-Digest: dPyWV1fkDIQ5S89/r7XU7aF7YGM1zTtXR+MtaYam5jE=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$37.class
+SHA-256-Digest: kOoru4nCu9OqdhYDCT/+hvBbycBXA/OImwxzsmcDkPk=
+
+Name: mx/com/jammexico/jamregistro/on2regi10$3.class
+SHA-256-Digest: gtYnKQojNypSqSiVKCgp0lY2I+YDee7rAEWvvgYzLPk=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$27.class
+SHA-256-Digest: 8Owyl2UJmbgcoE74fzYpFMRffRjJbq5S2EXm+Z+dbqs=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Activacion$4.class
+SHA-256-Digest: pE7PxdTCx/WpZwVOMWBnUl0tmPYAhv5KBWW8DwUN0Dc=
+
+Name: mx/com/jammexico/jamregistro/on2regi15$1.class
+SHA-256-Digest: P7KkfpPANmnCfOwI4rt61koPDYqeZkXwNd3pemPwY9c=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$14.class
+SHA-256-Digest: NIsfsJQw3OuOZKNoTxxFXTqeIbFTZ2cVpydBmA1hbks=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$24.class
+SHA-256-Digest: tRS8z4vPl/Q1Zuf8JA6FWXA66gPNvtmh9oMeiEkoygM=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Input$2.class
+SHA-256-Digest: dN3s9SklTzxszKpp2kY1aUffW3DzNe6VL2n+jrmUdbo=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00Facturas$1.c
+ lass
+SHA-256-Digest: pPNO6DE5SgGzvK9Ck4kFJfSLS4gFymipcsMXrp15Inc=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$10.class
+SHA-256-Digest: DlLmYpvgAuWt4poIXnVNdIOIlYloOvJTsjucxfjOKSg=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$47.class
+SHA-256-Digest: EWDu6jC2yeV+HhlEGzRqzvxLkLaezGceZQgC31PXljQ=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$34.class
+SHA-256-Digest: No7I/7/rKMKY+GVEQ1pcP+M8RSwoFB3TlJUIKD2ADno=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$44.class
+SHA-256-Digest: iqnngcbJ0X2cEgpMbls/CyYC3b7VeWuou4lh7GQNlGo=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Activacion$1.class
+SHA-256-Digest: B+bLifHvhFrsD0cpHEfjd4uTtrJRtF82zrig31zdkL8=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00Facturas$4.c
+ lass
+SHA-256-Digest: gAifkXbXsr1+PnyCH9CpesYrJe5W8UL12P0oj6v6/2g=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$5.class
+SHA-256-Digest: qxPZwlGcQiwWQHZNMEAja0S+pwBN7Al9mr5VBJnQbWE=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$3.class
+SHA-256-Digest: +VNKdkT+aJ3tV5GW/Rj7D6PJWFQ3u452GpdxBLO5DXc=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$8.class
+SHA-256-Digest: +0ciGkXkgSVa0o7/UnO02kEgoDKzcvp2YKr6eaPttNY=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00Facturas.cla
+ ss
+SHA-256-Digest: bbw+v4mIXOtJflvGuCBjFqMEK/rQruOhwU6xvjFHk9g=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$15.class
+SHA-256-Digest: nzETMjDi3J54BDUbP9iNFX2ilOXwaYVpYRFc8eaQYtI=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10Notarias$1.class
+SHA-256-Digest: Oaov71qS8hB+djYCqs2AaDe4laO5kC9HXAaO3p5Bbzo=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Input$5.class
+SHA-256-Digest: Tjze4dY1uyoQOiaK0M/vD/3+X0PNUUWeTyD1Gpesv+E=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$41.class
+SHA-256-Digest: dczoRl5HdGk+GPghiiBOFv93t9rRVY74PksQpShWxVs=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$21.class
+SHA-256-Digest: ra9ebeeaOrn5WZMESkfig81IZIi7QYp8cVtqkbtRliM=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$2.class
+SHA-256-Digest: 8vXm0Spz2tRMXrMlGPt8HKMiVS2Pv1DIcbtkm5zb5Fg=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$5.class
+SHA-256-Digest: JcTtT2LCtvXdiicpfFc/2XiK8V7UXqh4bC0htdfbjLQ=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$MigracionAutomatica$Filtr
+ o.class
+SHA-256-Digest: tEeDu4SZiMOBD4YLVQXPfuVnVudc7bckq38QNAETSfM=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Input.class
+SHA-256-Digest: NLA4C9bx6ZNn+VshmqbT/xtHvi1H0BdG8Rc1MGWzHk8=
+
+Name: mx/com/jammexico/jamregistro/on2regi04Correo$2.class
+SHA-256-Digest: Wzw7rrZWA6ny7/wOKP/siugywOGJVhDsFWzERzWCpbk=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$2.class
+SHA-256-Digest: X3We+vPVAw9IPVN0qVP+YUxuSY3x/++9L4hcZHpszUI=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$9.class
+SHA-256-Digest: SSoeFsYToI1+AB9bHxygRuMesII4GMfZAXVQIIuiLe0=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00FacturasPyme
+ .class
+SHA-256-Digest: VwePcv8XFTwOLg0QZ25otweA09aLYYsMMdlDG1w/A20=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$25.class
+SHA-256-Digest: b8JnyHNBidFQlNP+yWccHvKIic8MyH7c65L0yvN+cCE=
+
+Name: mx/com/jammexico/jamregistro/on2regi04Correo.class
+SHA-256-Digest: OIiPDKPJO7MIHINDvxl0+GaCH5A5tIJu75HWgB+pyDA=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$15.class
+SHA-256-Digest: UjDWpV0cnto0wyHlwKMv5POTdyW216vcmi1Wx+t3Zyk=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$32.class
+SHA-256-Digest: N2KQUB0kMBQslVQKPm/03hQeNk728ngK0qzBFdFYKXs=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$2.class
+SHA-256-Digest: iAw4lZHQqJIHeRq9UVcec+eDKqgCQG2IKWOzqzTK3VM=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Input$1.class
+SHA-256-Digest: AmF7zKrGu+z38+YZPTdxgQsbTHTiHQgfQ09lZ2PAP9c=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$9.class
+SHA-256-Digest: TIJM6rjsndx1nBR8+NBGXklR56ST0eLp7NVck4zvgRI=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00Facturas$6.c
+ lass
+SHA-256-Digest: Vx8UEFbTTjvaHcOM+4+7nvnk9Fx7+WBRHU62M3eQds8=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$42.class
+SHA-256-Digest: p6DkgOvpxLXZNSOYz6rfXbU71fX2lcwrC+g/Z9uG2Pc=
+
+Name: mx/com/jammexico/jamregistro/on2regi04Correo$3.class
+SHA-256-Digest: JqEkZvLr9ZYQk9ZBxArbcZVRf9xlzY3WqdrXzcRLD7o=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$39.class
+SHA-256-Digest: U2V4nZd2YA+4wOVmXcy1BkC2CJ6H/vRWOyZJNgQKGR4=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10NotariasInmuebles.class
+SHA-256-Digest: 9LdxI67FS/2lbk1c6f/yrGkhycETN0wD8U8FMEpHc7E=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$13.class
+SHA-256-Digest: ggUhdzRoaOqQnrsUHbBdFtRvbXSr3375Ayv5zTmDEqk=
+
+Name: mx/com/jammexico/jamregistro/on2regi15$3.class
+SHA-256-Digest: R8tSdX9JMW6IH46Z5T98m58eq35/TVd4wfocsnUMyi8=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$3.class
+SHA-256-Digest: 0UdPBQ0nCh8nL27+aFwUkMj1fJ3U6Q4D27tJVP4bfQ8=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$MigracionAutomatica.class
+SHA-256-Digest: K78qicCHRWQNfBezMDhzxYDV1x7GtxQkvfCHJWy23P0=
+
+Name: mx/com/jammexico/jamregistro/on2regi04CorreoAgrega.class
+SHA-256-Digest: LmuS/86b/V2pQbiQ21zuOw9MhQ+NM0xluTHtCg+K7MU=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$8.class
+SHA-256-Digest: 8crzItGSACz9pwwppJBtbgQ+TiXuubXW6qugwKstCiI=
+
+Name: mx/com/jammexico/jamregistro/on2nime20.class
+SHA-256-Digest: wGg37BHDzF9uGfWYYGC7IYggLNRJVqompSmXIYfS9n8=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$26.class
+SHA-256-Digest: W+vUYQTkL0P4dIku1iPXUYVkuybFJ2ShZ83Pbx0GG68=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$31.class
+SHA-256-Digest: 3sUN5qethe6lTMaPfIziL67WSq8DNhzMIj6YYtA3nMQ=
+
+Name: mx/com/jammexico/jamregistro/on2regi10Activacion$2.class
+SHA-256-Digest: RpX9GkXXIULXgfODa31fvFqcd/kZOgGi9jk7n3r91b0=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$43.class
+SHA-256-Digest: lP20gtHShrUrHk8FAral3TINU3sk0l5/aJRMxu+wB4I=
+
+Name: mx/com/jammexico/jamregistro/on2regi15$4.class
+SHA-256-Digest: mi640Y3nD7rntwkQ84XjRvXLQ8ykg/2Nz8dEqZLRcoc=
+
+Name: mx/com/jammexico/jamregistro/VisorFacturas/on2Cfds00Facturas$5.c
+ lass
+SHA-256-Digest: 8h4Z8snJW3/IWrHbTKBtMk9xgZblaWclsOacfO6REKU=
+
+Name: mx/com/jammexico/jamregistro/on2nime20$4.class
+SHA-256-Digest: dIrjlz8REix0mfWVcFsKSvXPvcaeBfuUegfqGVxJaAc=
+
+Name: mx/com/jammexico/jamregistro/on2Cfds10$38.class
+SHA-256-Digest: +WtNiq1s4MLhWQPmY8m2npQU8ZQRlr37hIe8WuOwfVw=
+
+Name: mx/com/jammexico/jamregistro/on2regi04$14.class
+SHA-256-Digest: ZjT4Ba4zuT9HCB6ze+Xz2qHaO/H0I7Rxx18bpJID9ZA=
+

@@ -1,0 +1,152 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: PV+I7kTPZ8gCeM5tHxKVFfsYblXOz
+ K1FZi7by0pD/EA=
+SHA-256-Digest-Manifest: YR3blhiGkYvNiuOhOiIZBwNhtbwqM/55fYsdB3F09Bw=
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: com/sto/fe/massive/controllers/impl/ObjectFactory.class
+SHA-256-Digest: STZcL6NAsZN3Nz8/NJEm2BCJQLicOp9+fQZ53HIfdaM=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDICertificacion.clas
+ s
+SHA-256-Digest: 5yg2EFrPeTXee9VZT/4UgdoXk02qKWg+KO7hJU9cvOk=
+
+Name: com/sto/fe/massive/controllers/impl/ChangePasswordResponse.class
+SHA-256-Digest: cpD7QByevbPMNMmWqaiqR4sKFMI3TIl21XCvHWCxKNc=
+
+Name: com/sto/fe/testing/TestConnectionPAC$1.class
+SHA-256-Digest: UwzjLBUog3DAa3G0eJt8bsQcCtyuKxF8XTeZBAtCeW8=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoSoap12BindingStub.
+ class
+SHA-256-Digest: sYJZ4iROyL6CjZrXJOnatTrQwukvgr+XGwME4024wmU=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoSoap11BindingStub.
+ class
+SHA-256-Digest: D0Z8xfTToRNnutc8KQR60cFWRfhtvcM2N+xwArCnsu8=
+
+Name: com/sto/fe/massive/controllers/impl/GetCancelAcuseResponse.class
+SHA-256-Digest: zXH4XozGIjId5nzOrUcozmhG6i6zJK2UaCjsT2sM9RE=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/Timbrado.class
+SHA-256-Digest: hNWVSBfwiBpMqk3Z/rxYh9vpFbWNzAJuNG6ax3KLyPk=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDResponse.class
+SHA-256-Digest: Ky7EgfzuBw/Fptu3R17CoGBSMtZdxJx+xu9frG9QcSU=
+
+Name: com/sto/fe/massive/controllers/impl/PACException.class
+SHA-256-Digest: 5nijtVpmfv/O82Ff1y4AOz6Qyi0WxdMssqFYCeHa7iE=
+
+Name: com/sto/fe/massive/controllers/impl/GetCancelAcuse.class
+SHA-256-Digest: kO6Bon7jZCSjt5/1wAKNoYKDCpjz/Z9ScRdv7JxM45c=
+
+Name: com/sto/fe/massive/controllers/impl/MassCancelCFDi.class
+SHA-256-Digest: sPAm/UejutrlBAjInzfUocv1is+B2mPFLCIsmVs0nRg=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoPortType.class
+SHA-256-Digest: qqsxMkACo5azh4/2v4YmUQmEAtwergR/TmLEEEXHalc=
+
+Name: com/sto/fe/massive/controllers/impl/GetDetailCountBilling.class
+SHA-256-Digest: wLpkkYN0xAbz/Oo48X7hrSWKn6taAxVt14MbVQ/UC2U=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStampedByParamsRespons
+ e.class
+SHA-256-Digest: eaViTylJe0EtFYKmyJYtaAR2x+r11J3q+QeUyu12438=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDDigitalTax.class
+SHA-256-Digest: IzDYzjR5WrkGfpgWJ/9EjHxDPp+RRa/+tYAHPgt5ke0=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDIResultadoCertifica
+ cion.class
+SHA-256-Digest: spBHb8ApjweEAu47vXODMXiroxJqv7OzuNx5jHT3MJI=
+
+Name: com/sto/fe/testing/TestConnectionPAC$2.class
+SHA-256-Digest: XPtjyrU1w4N9QjZWAjHAAttuSRYNjLnUqbVFcpg2eIU=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDQRCodeBytesResponse.
+ class
+SHA-256-Digest: ASPAOS3Ol0MvX7jWP6fsHOewVNlItXJEcRoXX7Ov6dY=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/TimbradoLocator.class
+SHA-256-Digest: 0kwN/MTz4LBvWG7cNOKaO7VXn1BCndcdk4OEHQRo/vk=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFD.class
+SHA-256-Digest: fJiTLOMmgkB0aC5A3rA7GBjKgXOcdHETlxSxH6HkyYA=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDBytesResponse.class
+SHA-256-Digest: bgMJ1aEAbZfBf3Q257MOkCUcS4MVGKmbQxUHxU9H0Gc=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStamped.class
+SHA-256-Digest: F2cv/0r7NkFU58+xz8fJFnWzaGEPLAcnwZGc41//18k=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDIResultadoCancelaci
+ on.class
+SHA-256-Digest: pfKMo41kKmpDW4eA7E9/RZLbdEM7b6CpJCMUC00KOA4=
+
+Name: com/sto/fe/massive/controllers/impl/GetAcuse.class
+SHA-256-Digest: KsQiz/vt09g1KioY7DaxReCla5oh4VgCOFO5HjKxPVQ=
+
+Name: com/sto/fe/massive/controllers/impl/MassCancelCFDiResponse.class
+SHA-256-Digest: F5m2CqWxB6ryStHa+mUTnyEh46uwI3mIq4Q05xtsnUQ=
+
+Name: com/sto/fe/massive/controllers/impl/MassiveReceptionControllerIm
+ pl.class
+SHA-256-Digest: hCa4hX2Hyi0EcphcQmLtyQcfOvABhPjDMrSAkRjz0KI=
+
+Name: com/sto/fe/massive/controllers/impl/CancelCFDiResponse.class
+SHA-256-Digest: JhQlty4Q/0cCr37T2JLSES9WId1p9x46iOSvKQX1Id0=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDQRCodeBytes.class
+SHA-256-Digest: nv5ktqFhOovf1EYZppepyg1T+GHGGqed8VrvUgkujBo=
+
+Name: com/sto/fe/exception/ObjectFactory.class
+SHA-256-Digest: wTJG5Z25hot+O6a/PgyBTks+yAy0BHXlyNV0mhNtYhA=
+
+Name: com/sto/fe/massive/controllers/impl/GetAcuseResponse.class
+SHA-256-Digest: ANRi7j7dAwrlh+Wor4JAZ6Ouqk+kMMAzoripBPnaTHo=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDDigitalTaxResponse.c
+ lass
+SHA-256-Digest: x54vImp54oB3ceCHvc1+oXVBZtV3x/RiwaXFBcbw1PE=
+
+Name: com/sto/fe/testing/TestConnectionPAC.class
+SHA-256-Digest: /AhYO7O6famD/VnipHE4rOPzjKIk+A2pH96glxpzN64=
+
+Name: com/sto/fe/massive/controllers/impl/PACException_Exception.class
+SHA-256-Digest: Eb9ZYuDKb0tThSIkrTAxjpxcZ8p9qGhCVYyu1hIZ2og=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStampedResponse.class
+SHA-256-Digest: MPKpfy2G1OhcEap2+/96EPHmbwuGutlcnFXrkXNERS8=
+
+Name: com/sto/fe/massive/controllers/impl/GetXMLStampedByParams.class
+SHA-256-Digest: TZHWTPegIImTNu5quD94hW9ZaqCyxpX/BHsuCOjLFDc=
+
+Name: com/solucionfactible/cfdi/ws/timbrado/xsd/CFDICancelacion.class
+SHA-256-Digest: cG9HxhyRBT6QKyPKamvtyjvbym6FowDJCPwPiXCX5wY=
+
+Name: com/sto/fe/massive/controllers/impl/CfdMassStamper.class
+SHA-256-Digest: a+hOp3Sf6+H5mSeE7ZGoyQLEc7+Jmj+VzTiUe/lHdcM=
+
+Name: com/sto/fe/massive/controllers/impl/GetCFDIStatusSAT.class
+SHA-256-Digest: XvX5PSFcZVKO1oi4iMdGz/TdBwlMb+H8agrorr1XhAo=
+
+Name: com/sto/fe/massive/controllers/impl/CancelCFDi.class
+SHA-256-Digest: uEgQRzdnPmoeJeNekzLII6LiL1DN5izWQ7JRe46KyiE=
+
+Name: com/sto/fe/massive/controllers/impl/package-info.class
+SHA-256-Digest: YVOJf2YUGv2khRqC9HvKC6ukUau3Ntp6H1Zckb9GxKw=
+
+Name: com/sto/fe/massive/controllers/impl/GetCFDIStatusSATResponse.cla
+ ss
+SHA-256-Digest: rnSTlTiybVMlS5FgdXs7g22CvZ8+jZo0r7llMGLZ0fI=
+
+Name: com/sto/fe/massive/controllers/impl/ChangePassword.class
+SHA-256-Digest: oLYGYY3OaH0RINdC2azFdB7t6jZPkwsWD9cX8W1fyGU=
+
+Name: com/sto/fe/massive/controllers/impl/GetDetailCountBillingRespons
+ e.class
+SHA-256-Digest: sqFsFXPWY/WNcyjrAEPVVLP5RaZxhZidOlKQXKfzx/E=
+
+Name: com/sto/fe/massive/controllers/impl/StampCFDBytes.class
+SHA-256-Digest: o4bxS7v8ujDCpKQ7bJHoEBoWF/JlfsJvUEAVbrDFFlk=
+

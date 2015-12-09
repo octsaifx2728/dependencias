@@ -1,0 +1,198 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: com/toedter/calendar/JDateChooser$PopupPrintListener.class
+SHA-256-Digest: cMwi0qkQod1SkGp3UokWZTgWMV69xYKoVtuh4jA8Q6A=
+
+Name: com/toedter/calendar/JDateChooserBeanInfo.class
+SHA-256-Digest: ysr6uw7TbC0Ev/mjjprWlNHp0a0hNW5rRZDU6UkjIdk=
+
+Name: com/toedter/components/images/JSpinFieldColor16.gif
+SHA-256-Digest: yBfjoRttEsYI6fFeX7tcGeZ6sds2lXiQvkbrYXHVVyg=
+
+Name: com/toedter/components/JTitlePanel.class
+SHA-256-Digest: uEItbyhWfd0hBrlTKcY8sC3U5ZZf370nJpbTcFKHNjM=
+
+Name: com/toedter/components/images/JSpinFieldColor32.gif
+SHA-256-Digest: P2S04QwqERkuUZ+JHXepLHpBLV9Qn2JXScN9jvxgVlQ=
+
+Name: com/toedter/calendar/JCalendarDemo$7.class
+SHA-256-Digest: RUFdMXi2AfU59lXZFbYw3gHBpNyaexPDRkrqK5oAczs=
+
+Name: com/toedter/calendar/JDateChooser$3.class
+SHA-256-Digest: taAiFYfC/yQkzBtqZrXf8SGFLjVNbYFuWI+vOQvYNY8=
+
+Name: com/toedter/calendar/JCalendarDemo.class
+SHA-256-Digest: TbctWqLjixNuTjMq/RnFk/nlOUeCxDCzS71zCOFwidM=
+
+Name: com/toedter/calendar/JDayChooser.class
+SHA-256-Digest: +GJy+lBzle4DT2W3y114gp+oUy7uFKvDLd/O01YlZpw=
+
+Name: com/toedter/calendar/images/JYearChooserColor32.gif
+SHA-256-Digest: X49/o5ohrcuqt4QE7KS6usuhZSO7avaRX+Ai8frepe4=
+
+Name: com/toedter/calendar/JDayChooser$2.class
+SHA-256-Digest: 8SWSU/ig64QhNTRBPQ+4DzJKt/D6zeAwRWorKAryqUE=
+
+Name: com/toedter/components/JLocaleChooserBeanInfo.class
+SHA-256-Digest: PgueYkMV6RMycu3VdE5Q1Bm/oOVkBhREWQdcsuY67fE=
+
+Name: com/toedter/plaf/JCalendarTheme.class
+SHA-256-Digest: boQC8oTpl9DLMyQmjQtGB3r+uoi8AfkGJt3POxsxyIo=
+
+Name: com/toedter/calendar/images/JDateChooserIcon.gif
+SHA-256-Digest: BMRVjvC7NoRbz88H3Re4Qbz2tXAkiy8irH1hz4loPQ8=
+
+Name: com/toedter/calendar/JCalendarBeanInfo.class
+SHA-256-Digest: zxHPTXtSUgAP2dY93mgR0Mm/xng4SNY6KlMtOZie8MA=
+
+Name: com/toedter/calendar/JDateChooser.class
+SHA-256-Digest: KhDp6mWQE3J6zVJ05d8D+g9eSTZPCFmhQiP2U//gfqw=
+
+Name: com/toedter/calendar/JCalendarDemo$4.class
+SHA-256-Digest: gklEXqSrymi+e/eGTPennWo9U8FFLjjZ8jY/OYbKIIE=
+
+Name: com/toedter/calendar/JCalendarDemo$8.class
+SHA-256-Digest: F4tnDdXg+AE1/T1UZqXXE4ewWY4MgMz5KHF7Sa7RDUs=
+
+Name: com/toedter/calendar/JDateChooser$2.class
+SHA-256-Digest: CCYI2ZdlJik7qL0RCpw5eTZ6AlwXU3HPcoRloLSiIAs=
+
+Name: com/toedter/calendar/images/JCalendarColor32.gif
+SHA-256-Digest: ctu7tFIJb5cWBSZpFWNcBmgDt9+78jgRW0S7TA1SPqU=
+
+Name: com/toedter/calendar/JCalendarDemo$1.class
+SHA-256-Digest: zocH7PR8pTbYPF0KFyU3rs3ubtq/Q34O9R4F2bo7/jY=
+
+Name: com/toedter/calendar/images/JYearChooserColor16.gif
+SHA-256-Digest: EIK3Gp5KeIZ29KRUK0EHcucx2EG90pP/OejRyZsZl4U=
+
+Name: com/toedter/components/JLocaleChooser.class
+SHA-256-Digest: 5FZ7uc8hwq6kxGw3PKZg+xgMJm0V5DBJmk++ol5x9WE=
+
+Name: com/toedter/calendar/JCalendar.class
+SHA-256-Digest: 7Ovio6HUTqcJJW4vBztIdMk4lhOjwpBZ+aFMjQfWksQ=
+
+Name: com/toedter/calendar/images/JMonthChooserMono32.gif
+SHA-256-Digest: Aw8W3UdHmg6IRaRtRVQG83hM5EVdBI/M24iqGKh7omM=
+
+Name: com/toedter/components/JTitlePanel$GradientPanel.class
+SHA-256-Digest: nasHozEmXIXB4USYiDrUarwlOHhnXdvtTaKcdThDA4I=
+
+Name: com/toedter/calendar/images/JDateChooserMono16.gif
+SHA-256-Digest: /awvNTcnd90v8AH+8/gsRbxKrPJ4gZZHivoYED3/eBA=
+
+Name: com/toedter/components/images/JSpinFieldMono32.gif
+SHA-256-Digest: RNqslp7PL8i5pUuR9VRGhbnHvKwF+LSF9GxgcQXo88Q=
+
+Name: com/toedter/calendar/JCalendarDemo$5.class
+SHA-256-Digest: q7leJKZSFD0U3yeiPbDJGAdLbojOv5ZFYXjMoPNHklU=
+
+Name: com/toedter/calendar/images/JYearChooserMono32.gif
+SHA-256-Digest: IY8h93Fuk7s6LsTVkSoGqc+TaFprULmUM2fv47mIlLU=
+
+Name: com/toedter/calendar/images/JDateChooserMono32.gif
+SHA-256-Digest: 85NQIht8KG+15HZ6mCg6Qiw+QXIbZkfTPY/H/1i2/ts=
+
+Name: com/toedter/calendar/images/JDateChooserColor16.gif
+SHA-256-Digest: fLh0iQVInDUEFBrAp7gbn5PFRQ+LNapalmS1OKem2AA=
+
+Name: com/toedter/components/images/JLocaleChooserColor32.gif
+SHA-256-Digest: f8LEUTgDBWeCK2R5onlQ9cOzfD2OKM71g5XGMRxno1k=
+
+Name: com/toedter/calendar/JYearChooserBeanInfo.class
+SHA-256-Digest: 3D5x26dzusprejiUkSdcDE4E9YeOJT+MAhMrgrAKFTU=
+
+Name: com/toedter/calendar/JDayChooserBeanInfo.class
+SHA-256-Digest: RkyR11ZfNrPoSQTwWxr3XwlzaialvYyC83MdRGEZ15g=
+
+Name: com/toedter/calendar/JYearChooser.class
+SHA-256-Digest: TNm5oT73LCUdvxKVBYWdySIsW66pxwfhMWIRt9vvhZM=
+
+Name: com/toedter/components/images/JLocaleChooserColor16.gif
+SHA-256-Digest: 5VQMbvuoC21J6soF7uNLNq0UjhqfRsnUoUvFVPUojlQ=
+
+Name: com/toedter/calendar/images/JMonthChooserMono16.gif
+SHA-256-Digest: NnhezM9bS3tDyaru67h8TjCYb88exGb0b1DN/KLKINI=
+
+Name: com/toedter/calendar/images/JMonthChooserColor32.gif
+SHA-256-Digest: +DXNDTmUSLq5ReIrTXviiDLiKawVv6GZZTOYkUj93aY=
+
+Name: com/toedter/calendar/images/JDateChooserColor32.gif
+SHA-256-Digest: VGUaK8iCF89xzGrMK5jFcUhzlyN/Z3DYk6nd0na/CDY=
+
+Name: com/toedter/components/images/JSpinFieldMono16.gif
+SHA-256-Digest: HxxH5HtLNpggVMKKi4/8HSKJJ0vftYBuKqhHGgZVZnI=
+
+Name: com/toedter/calendar/images/JYearChooserMono16.gif
+SHA-256-Digest: klEYpXrpHTiX5X1KvJ8p8yAwXzbDfGiQvj+loFqHbFQ=
+
+Name: com/toedter/components/LocaleEditor.class
+SHA-256-Digest: DEZW3R4wFbEXxaddzpLteJgL0a26k3qjDucOo09ilGo=
+
+Name: com/toedter/calendar/images/JCalendarColor16.gif
+SHA-256-Digest: SBHg8Z6MuGfR8uUtPaXcFPKeX8XymhasBuuGCpEHKl0=
+
+Name: com/toedter/calendar/JCalendarDemo$2.class
+SHA-256-Digest: YbkttivxcKonsiBGbBXhxFENbEGq2e6Sn8WdZc9Rlpk=
+
+Name: com/toedter/calendar/JMonthChooser.class
+SHA-256-Digest: mfx11flKyIgAbaxz4DdWtQ7zPULCi2x1Zc4l3KAUKeQ=
+
+Name: com/toedter/calendar/images/JDayChooserColor32.gif
+SHA-256-Digest: WJhHFCNSMK0MFNdXkjFJM/EPRyOVo2oZLZO+nDF6YJU=
+
+Name: com/toedter/calendar/JMonthChooserBeanInfo.class
+SHA-256-Digest: /VHduIvR1VyhRKR8npjpOSKwM9Xyst0OgtVYZWpWsn4=
+
+Name: com/toedter/calendar/JCalendarDemo$AboutAction.class
+SHA-256-Digest: QeLlgQWQXY9oS3Xfr30uML6pZVqc8V3UAjBZsCpplzU=
+
+Name: com/toedter/calendar/images/JCalendarMono32.gif
+SHA-256-Digest: wIWmP+NLSUb4aRxApHdxVr3wqlPDvEzFjEAXTp8PDss=
+
+Name: com/toedter/components/images/JLocaleChooserMono32.gif
+SHA-256-Digest: fXvX7ix7PZoXQo+dIj0KeU9b/L92flFb0egeWhdeJi4=
+
+Name: com/toedter/calendar/JDateChooser$1.class
+SHA-256-Digest: yBW6N6CCq7W9NE14k6IDGRmwQ2mdOtHGaQ8fM3YL+Z4=
+
+Name: com/toedter/calendar/images/JDayChooserColor16.gif
+SHA-256-Digest: rtjmF8sNWiHoNatTJDxbCnpabdoMpJfFn+mBxalLzZE=
+
+Name: com/toedter/components/JSpinFieldBeanInfo.class
+SHA-256-Digest: lwFpyxyBg4dywelXPuNgSfoyRQaHBxj9vB1JQP51Rvg=
+
+Name: com/toedter/components/images/JLocaleChooserMono16.gif
+SHA-256-Digest: sow38yC9T3+lkhotmdmt5psu0nj+UUBxp4RI4NivYHo=
+
+Name: com/toedter/calendar/images/JDayChooserMono16.gif
+SHA-256-Digest: qxHxLBQim82HiDPIX9GHZjfwySicC/CvREd+PGxJDp0=
+
+Name: com/toedter/calendar/JCalendarDemo$3.class
+SHA-256-Digest: ACbpcIoSxD6Shnj7LRjA82AXJgpfS3KX8BChF7sqRww=
+
+Name: com/toedter/calendar/images/JDayChooserMono32.gif
+SHA-256-Digest: lz4jHV/l3KQcGhkw80l8FaMA3i8w2XUBwFxTD+3HDSk=
+
+Name: com/toedter/calendar/images/JCalendarMono16.gif
+SHA-256-Digest: bNMwdBILta+6oK7dZNIuideZnQWfGFwOcvwciWbvpbE=
+
+Name: com/toedter/calendar/images/JMonthChooserColor16.gif
+SHA-256-Digest: qRh8s8LT83FKb35KGzGelb7HUzPsqBXlqxs0VBFHRjc=
+
+Name: com/toedter/calendar/JDayChooser$1.class
+SHA-256-Digest: zVpdofUOtAQfsrgPiMTsFeYz5Nup6Qd/81vJR570g5U=
+
+Name: com/toedter/components/JSpinField.class
+SHA-256-Digest: ULQr2IZLieWpfhk5Yp3jreigqwaSQQr8tKdW2gYSuvk=
+
+Name: com/toedter/calendar/JCalendarDemo$6.class
+SHA-256-Digest: svTmwsnu0+U+t4Q1cPVHWRP+htsR8Ra0M1ojD4G0+yU=
+
+Name: com/toedter/components/GenericBeanInfo.class
+SHA-256-Digest: kuEUjPwiChYiIShaS0STM5sSuFDnc0dQakoqcilWdlU=
+

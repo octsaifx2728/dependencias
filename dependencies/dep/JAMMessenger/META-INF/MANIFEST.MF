@@ -1,0 +1,90 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: JAMMessenger/JAMMessengerTrayIcon$1.class
+SHA-256-Digest: WcEFMK8flPo1uNKwx0mzE+HGpu+PwxXnLufU+A5+OEc=
+
+Name: JAMMessenger/Images/upload.png
+SHA-256-Digest: OurU9wqD/y0PfqWByTKgAoColonKcJuoiGOwpEmUGtU=
+
+Name: JAMMessenger/Cliente/JAMChatClient.class
+SHA-256-Digest: P6uy4xsGTXeV3DrFeFmgu5Wt9gExztWecebFdLDSxog=
+
+Name: JAMMessenger/Browser/JAMChatPanel$2.class
+SHA-256-Digest: DP3sWbjLBaAtR36Q1ZS5AVFN9sF2hPJYXY2+d67NUMo=
+
+Name: JAMMessenger/JAMMessengerTrayIcon.class
+SHA-256-Digest: ryhRteQu1MVV/Yd+3jkDTor3abXq0EuvpJab4YC7qJM=
+
+Name: JAMMessenger/Servidor/JAMChatServer.class
+SHA-256-Digest: AdunIqoS6r3iGvRIss2MhRhdt3MIZgGZu7Jv2ntaUfs=
+
+Name: JAMMessenger/JAMMessenger$3.class
+SHA-256-Digest: nPJyd+iDeevt0zo07B+HdCgfvih156Y1sBKBzsqe/X0=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$6.class
+SHA-256-Digest: VnXOpXU3TIx/BF00VKQ7O6gWUw9PKKCUFo33wD+Iq4U=
+
+Name: JAMMessenger/Browser/JAMChatPanel$datosTicketPos.class
+SHA-256-Digest: D2EbxI4TDUYwChP5oe/rBs+s/G89aX27gW3wBI/25cU=
+
+Name: JAMMessenger/JAMTextEditor.class
+SHA-256-Digest: ocMvI3yKygQBuGkJMPxDaYfqmKdqQELDtQf47IlWATU=
+
+Name: JAMMessenger/Browser/JAMChatPanel.class
+SHA-256-Digest: BLpf2prHbME8aAqs0q84LqSLOFLxVv/fPsDaz2YyhD4=
+
+Name: JAMMessenger/JAMMessenger$2.class
+SHA-256-Digest: SwxjuYATR6hC0UfVQgbRbZmdWewa5oTO2iaCoA+cEGQ=
+
+Name: JAMMessenger/Servidor/JAMChatServerHandler.class
+SHA-256-Digest: qK3S+n6Wi7ERKKrB4FbYglMdL228lMh1XoifDXnskj0=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$9.class
+SHA-256-Digest: tnzHw/Nn6y1Qf5V5LbqmvCItT8u37ZZXjyaxeasX54Y=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$4.class
+SHA-256-Digest: oa1PdU6H/fqQu6eQ2Zx4aDQiErdRoFioM0IDsAvZLBI=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$7.class
+SHA-256-Digest: aGFM+1Xo/b3b2nCJxcR3X8tvTaBBy1JCBzaDzTBe14U=
+
+Name: JAMMessenger/JAMChatTest.class
+SHA-256-Digest: NjszGGg4n5nBGBz7BArDXPxq8rw4/Op2KL9Z3Pvg8tU=
+
+Name: JAMMessenger/Cliente/JAMChatClientPressedListener.class
+SHA-256-Digest: C570JUY8bvaLhmrayS6gdxMKoB3vXdoPjGXKgAmKiTg=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$2.class
+SHA-256-Digest: 3FfBI7IuvYw+PPGoKwPVPSu8VE5Q/+sNmJyYGVLxxtM=
+
+Name: JAMMessenger/Browser/JAMChatPanel$1.class
+SHA-256-Digest: Bav5T5OyN5bsfTpwAJ62ILMeNn6OMwddQQQkFC4ZpGQ=
+
+Name: JAMMessenger/JAMMessenger.class
+SHA-256-Digest: UsbcTI0eHbaCbJMxKiWUS+N+fB+aIoSj9jDbNBVkk+8=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$5.class
+SHA-256-Digest: CeziYpEvKQfgu6Z0+GkisThxzO0zPFb5coX69q39NXQ=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$3.class
+SHA-256-Digest: EST6KSIfHG0ftPys1pAfKHQnWkJpyLmL3Kf+Yo5IxPk=
+
+Name: JAMMessenger/Cliente/JAMChatClientPressedEvent.class
+SHA-256-Digest: 6xEYbSYunSKAfCxw6GTjlbfayZRFpaMyl/JkSC8ZPA8=
+
+Name: JAMMessenger/Browser/JAMChatPanel$3.class
+SHA-256-Digest: d1LTT8cUIFuJtsoIjQntQTobi7JMQrbVe0a+XwCC4wA=
+
+Name: JAMMessenger/JAMMessengerTrayIcon$8.class
+SHA-256-Digest: HGhRNj6obn2v30F2CAZ/3sn3HKCEun80WuEU0/JV9ac=
+
+Name: JAMMessenger/Servidor/JAMChatProtocol.class
+SHA-256-Digest: cwy/6WVmNr8e0nmWjww4Kdi5gaGt9dkHeuMiZeMsDxc=
+
+Name: JAMMessenger/JAMMessenger$1.class
+SHA-256-Digest: uwvaxacx18fVni7KKb/3mElRQk1OxVHxRPjqohZLHYA=
+

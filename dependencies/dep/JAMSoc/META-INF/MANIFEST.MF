@@ -1,0 +1,265 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamsoc/SocSyst13$3.class
+SHA-256-Digest: m/+7j8LhykMhjGdVaNJldLlgQVwcR1ApkkbVyzXLcI4=
+
+Name: mx/com/jammexico/jamsoc/SocUsua2030Sub.class
+SHA-256-Digest: HrN+ey+SE7Z1yeWE6Rk3GBZBtD29nA4nfqp+QQjo4rc=
+
+Name: mx/com/jammexico/jamsoc/SocWflo02.class
+SHA-256-Digest: qNmb8XTgPF2LJd/s7QjMst2XvfVylarZQipXtYVopbI=
+
+Name: mx/com/jammexico/jamsoc/SocSyst13.class
+SHA-256-Digest: W7lPLdU1z8RWg3q/HWtMwqoK4KYwEAazgUUMc9CJTd4=
+
+Name: mx/com/jammexico/jamsoc/SocSyst23.class
+SHA-256-Digest: m3KamJWwlkWVuYgAMoVMhfxpo4xXxDbeB4l/d4i2Ve0=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40$5.class
+SHA-256-Digest: uIphTXvHmc0QoGYmmUGQesZLvRsJWiA86Jn1BZ1fgvg=
+
+Name: mx/com/jammexico/jamsoc/SocUsua30$3.class
+SHA-256-Digest: LQL9dU+QTyLhyh+FWlv70xkSQpNtw7JXp3XeAq7C14Q=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$4.class
+SHA-256-Digest: 0n4hrCp/0+G4k+KZODNw387g1/bQy9Anhyyn0rr6vLc=
+
+Name: mx/com/jammexico/jamsoc/SocSyst18$1.class
+SHA-256-Digest: Ef1OAgDULe8oQwNqMjJ8T0DNDNycOva0UUjb33+jd0g=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02$3.class
+SHA-256-Digest: UDzpYZtfuk7l6F4qVbJdeOhXNw/STQt4hMocIfxaqZk=
+
+Name: mx/com/jammexico/jamsoc/SocSyst05$4.class
+SHA-256-Digest: ZM7l8/f4/Kj2fH3lM4/5ua3IMaZnPS5jSycdDg28/38=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06Wflo04Sub$2.class
+SHA-256-Digest: Fn/4LAo13PlrNnVO3pHPmS+lxhtvtBsqIEuowCR5lE8=
+
+Name: mx/com/jammexico/jamsoc/SocSyst10.class
+SHA-256-Digest: 1sHsTBTSMyEoyZ98m1IUJcBmyV4bHXbPMPJR5ueJvyw=
+
+Name: mx/com/jammexico/jamsoc/SocSyst05$1.class
+SHA-256-Digest: iBgte7vFbRvRtsl7ZtKw8jdA0yVQ37k/hfAoiM0jc6Q=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$12.class
+SHA-256-Digest: NwauLPQKWKAhnPPuAIRFq4DHp2OWHWBOA/BPr9Pbo2Q=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02.class
+SHA-256-Digest: elZglQp4Hg3kcEcFTluJJU6+gKZW1in/YnyHwdYX91s=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$7.class
+SHA-256-Digest: IylQ9D3Nxn+8EDQURzys07Gs6LDsp5tDdYaXAEkA0NY=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40$1.class
+SHA-256-Digest: AyywMyXCzY+SJZHUqN63y1UzRg/lF1DFvzSiVQwrIF0=
+
+Name: mx/com/jammexico/jamsoc/SocUsua20$5.class
+SHA-256-Digest: d6Z71+LcZ/D3VMCewtv8tKNvRNmBGqk5oWZsD80Y5R4=
+
+Name: mx/com/jammexico/jamsoc/SocWflo01$2.class
+SHA-256-Digest: YdUv+ZYaPeCP0uZEmwootNSTGl5OGdFz3G2OgGgKMy4=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02$2.class
+SHA-256-Digest: AwwVcCLEE5lBmc1BV73e29Mnlek/4mdNO/xA8SI9gaY=
+
+Name: mx/com/jammexico/jamsoc/SocUsua30$4.class
+SHA-256-Digest: h+foCwYzxz6vLh8X9hj7d8KGTV7UWwkqGiCJEoe9Gmk=
+
+Name: mx/com/jammexico/jamsoc/SocSyst14.class
+SHA-256-Digest: me367vUoyvzQnc2gkBIZgXteT8gDlN1LCxJ9GV1isx8=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40$4.class
+SHA-256-Digest: 1Mv8AAy9gTO8SWHPqgtwC4jEBm9D7Yp/qUBGiXkpQ9I=
+
+Name: mx/com/jammexico/jamsoc/SocWflo01.class
+SHA-256-Digest: 7fL7Pius7lG0hXl1sbKoWpbwbn3qu/PmcXKSJsBfLGc=
+
+Name: mx/com/jammexico/jamsoc/SocUsua30$2.class
+SHA-256-Digest: pLYvf/q0qo05jSHM3XYy5nbf53+2i6zfR5wXTvGz9V8=
+
+Name: mx/com/jammexico/jamsoc/SocSyst05$5.class
+SHA-256-Digest: beLaZPBdnduQGoDTI1ixfksZL1JOw6ayOthyNqmsFt0=
+
+Name: mx/com/jammexico/jamsoc/SocWflo04$1.class
+SHA-256-Digest: klAPAEUowpZZtnmuT51+Qa/dEb8rc8OMt54kK4eFcgo=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$6.class
+SHA-256-Digest: hHRrXWIPNL21AvLz8up9+4mU91JmQCDqe0GOiQ0dA2c=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06.class
+SHA-256-Digest: ghGYV7X/yyhi/yJv6HuystqKLpyNxUhAlwJ/EUtSEbY=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06Wflo04Sub.class
+SHA-256-Digest: UnB1YQuCs4lnvJN8xm8GP+VHwCu/jxBm4TDIhDMeOls=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40$7.class
+SHA-256-Digest: 6ZSz3gXhnUwseLoxZiVV5/Q3tZ/EiqkeP4gcOzP2XP4=
+
+Name: mx/com/jammexico/jamsoc/SocWflo04.class
+SHA-256-Digest: dKuS4Zz8E6oerShdWtoG5gKQS7JqXSCTW+iQZt/Q7rY=
+
+Name: mx/com/jammexico/jamsoc/SocUsua20$1.class
+SHA-256-Digest: sVihVAgizabn7Ldrmuu32HalXXjvHMMO1P9ptqP2yTQ=
+
+Name: mx/com/jammexico/jamsoc/SocUsua20$4.class
+SHA-256-Digest: jAZ1CoB7W1m6407x6xUBh2dEikfgMXpX2s6/gmEp5Vw=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Rfc.class
+SHA-256-Digest: QMfQVtF22HaevUYd93fznDRoaygFAzXdp5Hm9lMMiR0=
+
+Name: mx/com/jammexico/jamsoc/SocWflo02$1.class
+SHA-256-Digest: lYWZ/9Xl2qlHKTB9mQqeoJVWtYjhEdFDB8aTUDPIvQ0=
+
+Name: mx/com/jammexico/jamsoc/SocSyst14$1.class
+SHA-256-Digest: kP4d4Bcd6EMnVznpR58GHwp+Yv60FDK6cWny/IHMq90=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02$6.class
+SHA-256-Digest: 1ZbfhJYiTymlKroAIZr/nq67L85QwORT3pPearZaukQ=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$11.class
+SHA-256-Digest: +knj9drg+Xg/8ZSu3paZWy+MuPoTaRjivxwl0Yp2MFQ=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06Wflo04Sub$3.class
+SHA-256-Digest: 6P9X3xmw2/l0Ffvtv7HMJd0O8IVrIx8Yjx0HuGTRxDM=
+
+Name: mx/com/jammexico/jamsoc/SocSyst05$2.class
+SHA-256-Digest: kpG7s2MbHqMZBpnhviYiLPosmZvkB4PfDET53p4dg9w=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$3.class
+SHA-256-Digest: H338mZpeIyI+Rjp0YhDzCvXGZ5Sacewa3d9jVcxROuk=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$9.class
+SHA-256-Digest: vNN7w3CnW4fEIQwlMk8B/QSJh8ggKQChHMl3v9UCm5M=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$2.class
+SHA-256-Digest: N7u4PZTSZxv3sT+PQ5YWepW7HryXxtUkliLpdZv3R7k=
+
+Name: mx/com/jammexico/jamsoc/SocUsua20$6.class
+SHA-256-Digest: znzXYvgPCwXHYaMrndHal4jjevvcYwpPRzePRvdjSQA=
+
+Name: mx/com/jammexico/jamsoc/SocSyst18.class
+SHA-256-Digest: MmoH9c48Y5st29TilqZ2Hz6n+1rv49uswt+g0Zqk2SQ=
+
+Name: mx/com/jammexico/jamsoc/SocUsua50.class
+SHA-256-Digest: arHBOHPl/plvMT1cZo5NzYUr6rNQaUuCaqXbZQPhv9M=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06$1.class
+SHA-256-Digest: sVxoZ2vs8L4dFPUM0jsI1+yxDveqRKNEFMp7C4DxyzQ=
+
+Name: mx/com/jammexico/jamsoc/SocSyst05.class
+SHA-256-Digest: oRVTBc9rmwwEJYUfDq4zHPiF/1Ooa4j130prG1xSkrQ=
+
+Name: mx/com/jammexico/jamsoc/SocSyst13$1.class
+SHA-256-Digest: nTxNIeZT+ZsoH8zzjC4j1I1j6PF0T4Ji4Z0DUkQxg8c=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40$3.class
+SHA-256-Digest: TKhAZZV6ZuCgYHhFF7tqt3R4NOIxXVRFXL36p4Gh32U=
+
+Name: mx/com/jammexico/jamsoc/SocUsua30$5.class
+SHA-256-Digest: J6KOHgD/Jw25rbM/hV/AAxBGq0f/NIq5yxhgfYDjruM=
+
+Name: mx/com/jammexico/jamsoc/SocSyst13$5.class
+SHA-256-Digest: tG443Dm9tPC71E90JHxJydQuYuGYTp0DvCfEEwuaOWA=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06Wflo04Sub$1.class
+SHA-256-Digest: 6gQasf13v9P3Q3bp1liaTkSGDmgdRV4C3L0hZft2BqQ=
+
+Name: mx/com/jammexico/jamsoc/SocSyst05$6.class
+SHA-256-Digest: x6yllSk9g90TaXYL/4GXGkh4NzDRgpxU57Ty5KjvFp0=
+
+Name: mx/com/jammexico/jamsoc/SocUsua20$3.class
+SHA-256-Digest: wa5/pQve4Grm5MmxqNpc4/NEawz4ilOwZwj7hs691sA=
+
+Name: mx/com/jammexico/jamsoc/SocUsua30$1.class
+SHA-256-Digest: nvQHu0bTB6vKKO2LG+N3OfaM7Q+ufAHTuUECMFeUewE=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02$5.class
+SHA-256-Digest: KNHunKBW0a+P0ZRYjyjasGj7DBDIuhcERsS98ej1tmQ=
+
+Name: mx/com/jammexico/jamsoc/SocUsua20$2.class
+SHA-256-Digest: srcbW06DYghYLsy+0XszpgrPzX5rl+ws+/QjFHkNK1E=
+
+Name: mx/com/jammexico/jamsoc/SocUsua20.class
+SHA-256-Digest: vqK35tNs1pS0CgDSaYod/Q4zNnth4e57NR+mx9XSsvs=
+
+Name: mx/com/jammexico/jamsoc/SocUsua30.class
+SHA-256-Digest: GkVjKNxBgA0+fOFK/8voEqeW/EziL29sXE8qhXVOz4M=
+
+Name: mx/com/jammexico/jamsoc/SocUsua2030Sub$1.class
+SHA-256-Digest: 8wuOsZ+9bsVoircth/tfBDsGUa3Eq97PNlvERqSY6iU=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40$6.class
+SHA-256-Digest: hPxzCnoyFH7joUztwEB0AgMcR8G7QD6S40QoSnpPthI=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06Wflo04Sub$4.class
+SHA-256-Digest: yAzEXUE29qe3srQKmHZzUH2SJw3Qm00bjCRuri55ycU=
+
+Name: mx/com/jammexico/jamsoc/SocSyst13$2.class
+SHA-256-Digest: B2dFBnekETUeZ3dYPqP0YR0qjaO/QRmSmaeFWH39dfo=
+
+Name: mx/com/jammexico/jamsoc/SocSyst14$2.class
+SHA-256-Digest: Rl1VIAgRtLMdcyKaUX97SQeV4h3P+/pDa45hjrjC8+o=
+
+Name: mx/com/jammexico/jamsoc/SocSyst04.class
+SHA-256-Digest: XwRU6igNYpN8i9tuz+B8fRVjy6RrkvohqJV7pBKqHmA=
+
+Name: mx/com/jammexico/jamsoc/SocUsua06Wflo04Sub$5.class
+SHA-256-Digest: /YJWKij3tuC/nr7ZRIp6dREpUH88+kuEFsMj8QB6QEc=
+
+Name: mx/com/jammexico/jamsoc/events/SocUsua02WizardPressedEvent.class
+SHA-256-Digest: PNciUhqOiJc8Ec2/jn+iUFAqjACpvXzN0poUBehBix8=
+
+Name: mx/com/jammexico/jamsoc/SocSyst05$3.class
+SHA-256-Digest: MiFjM+RPdspHi8zEdrpZf73oDzitBfWEnUFrlnG2grg=
+
+Name: mx/com/jammexico/jamsoc/SocWflo01$1.class
+SHA-256-Digest: 0sDt7QvK8vtji3kzW8EwPIeI1GvU6EiMBM6o6UyQ0o0=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$10.class
+SHA-256-Digest: YzJgFf7FnNkbRrPFUfdh9tsmXRbTyvh3RkeRUbH+gTI=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$13.class
+SHA-256-Digest: MtkIZFvVrTK/H23ndPbcyIcGiD+0M7TtHHqEQTxEsbI=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$1.class
+SHA-256-Digest: iDI8kz7GCfkUkentXnCs3ig61Al7Kgq0BseoPURY25o=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard.class
+SHA-256-Digest: BOd9a4GLl1PL36s0i9lmMjJ3hVboJAx50vB8K2tRSPY=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02$4.class
+SHA-256-Digest: FhqJxdx+6AIgswxJ+36vi9+CC1WWY4sa8YDrIkBwoDQ=
+
+Name: mx/com/jammexico/jamsoc/SocSyst13$4.class
+SHA-256-Digest: OtLn38vEvR3eVaOuD9BxgmljDmiYm3AIW3qUxktnaWM=
+
+Name: mx/com/jammexico/jamsoc/SocUsua30$6.class
+SHA-256-Digest: iRoMl/yELUYeRL1GH6JAcuSoKt5ECsBNwF9XPtfu6oo=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$5.class
+SHA-256-Digest: w9/ByYAc8DFXil/GgzZfXAiEUSks0GZf37m9I87RUDI=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40.class
+SHA-256-Digest: zYhpU148fBa7IVFMugYGKl6DuJSrM1M1WE2Wcnz9n0E=
+
+Name: mx/com/jammexico/jamsoc/SocSyst40$2.class
+SHA-256-Digest: hX+NdhVq2ovifZUeMsC4rY0qBXDWXuOn9K4XlaMakkk=
+
+Name: mx/com/jammexico/jamsoc/SocSyst18$2.class
+SHA-256-Digest: q8xSzZofS8AYiuY5G8337/VLmKlJ+Uk1svVZrFrEL9I=
+
+Name: mx/com/jammexico/jamsoc/events/SocUsua02WizardPressedListener.cl
+ ass
+SHA-256-Digest: ox5lb/8QcLL5htYeM126z6AAynI5RJ27Ogz1BUaOFe8=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02Wizard$8.class
+SHA-256-Digest: YDWNDt+Gc3nyXY3LffGRCmG6L2SXqPdW+H7S3nCf9DI=
+
+Name: mx/com/jammexico/jamsoc/SocUsua02$1.class
+SHA-256-Digest: MCSWvgDDFBJJuxrBqfSRFJNBTu+kgugqzP/7GX6FXQA=
+

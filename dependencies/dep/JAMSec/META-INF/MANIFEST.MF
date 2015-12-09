@@ -1,0 +1,192 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/sec/secplan01Observaciones$1.class
+SHA-256-Digest: ZjeV3hgZUBkF/m40xMO+UYsMvOS4hgQeZxIGaEfwQ94=
+
+Name: mx/com/jammexico/sec/secpago02$2.class
+SHA-256-Digest: zQ4VnD/RR1Y1RiAuHlIvuJDiw9U4BtsNwcIxZ3V1hxo=
+
+Name: mx/com/jammexico/sec/secplan20$3.class
+SHA-256-Digest: Zq30I5bV6OxljZEGdjT+fLS3BvjH94Wro7lRAcR5hEY=
+
+Name: mx/com/jammexico/sec/secplan01$7.class
+SHA-256-Digest: GwpUD64PKIfXKuNDe35Qy/U7D4cHQ/MPQtvlHAFtpsI=
+
+Name: mx/com/jammexico/sec/secplan01$19.class
+SHA-256-Digest: 0j8Gm9Oxd2dNskK2IBmbZlN7+iEAqza8j+gEp6lzNCI=
+
+Name: mx/com/jammexico/sec/secplan01$4.class
+SHA-256-Digest: qiRq2oF0cySbvk+BZWQvtncksghS8eU/glm02zLmEqQ=
+
+Name: mx/com/jammexico/sec/secplan20.class
+SHA-256-Digest: v0cyWsVLrAXQg7iS5MJdZaO6lte5j9KVzebCQiBhkFg=
+
+Name: mx/com/jammexico/sec/secplan20$7.class
+SHA-256-Digest: lZhBWaRU/7RkhGSL9BBIEWMDmvFChrKt3kOphrqQao0=
+
+Name: mx/com/jammexico/sec/secplan20$12.class
+SHA-256-Digest: 8xaUaDZT/GfcBp+M1xVz7P2xocaPZ/lEef8ImyrpY9M=
+
+Name: mx/com/jammexico/sec/secpago05$13.class
+SHA-256-Digest: CBSqBKEUihJTo2iHo2XUGdDw60TNM3jnO+mSzBB8Wwc=
+
+Name: mx/com/jammexico/sec/secpago05$3.class
+SHA-256-Digest: o54j2Vztv+HcoaZGIbrq7XluyB6LgvVEof9aH0ox1CA=
+
+Name: mx/com/jammexico/sec/secpago05$10.class
+SHA-256-Digest: W64wpWjpBXNNWR/coXw2E6z8/x9+1oiAddfk0pCR9XU=
+
+Name: mx/com/jammexico/sec/secplan01Comisionados.class
+SHA-256-Digest: BHW10K5XgteCBAenY+Rm957aUJDTFgUFsrHTeV936y8=
+
+Name: mx/com/jammexico/sec/secplan01$16.class
+SHA-256-Digest: E9fSrjphkvriLsS/oKDXcN2Afpx0Ros3Ynrluea2zmw=
+
+Name: mx/com/jammexico/sec/secplan20$4.class
+SHA-256-Digest: OI9wijgqYiavjC9UM0fI9ZGFg70PHNKBWu0/F4IHUW8=
+
+Name: mx/com/jammexico/sec/secplan01$1.class
+SHA-256-Digest: +ObOh2FKCkfI5xRaAUqFQalx1xALPkrfUi9h32b7ADI=
+
+Name: mx/com/jammexico/sec/secplan01Comisionados$1.class
+SHA-256-Digest: tRRxiZYt0mGPQ/v5EvxopPHyyefYk+/k4sOsKS/8LVs=
+
+Name: mx/com/jammexico/sec/secplan01$15.class
+SHA-256-Digest: ow6OjIj0m8TdEXTEFSyIXr8WlPsES70lUq9XORvqT+k=
+
+Name: mx/com/jammexico/sec/secplan01$23.class
+SHA-256-Digest: Qyvjssh/MqQLrWV/pFmYxxlDvys2qtqvGvg0W46hVtg=
+
+Name: mx/com/jammexico/sec/secplan01$3.class
+SHA-256-Digest: DWBK/u7Pnt6Qrs0bPFzbgRnyx7wFpaM25302py+NcEI=
+
+Name: mx/com/jammexico/sec/secplan20$6.class
+SHA-256-Digest: YaK6tPUjCxz7/OgYhPx7E+omWEb752BYn2WNuCTgnSY=
+
+Name: mx/com/jammexico/sec/secplan01$20.class
+SHA-256-Digest: 6EAUt4YJNDBCpl5MTZJy7a80CsWLhcoevrxZfdGr4wM=
+
+Name: mx/com/jammexico/sec/secpago05$1.class
+SHA-256-Digest: DChBWi9o/pOveXWownaZiEtrT5p5XtXEzCbz2yA4KMU=
+
+Name: mx/com/jammexico/sec/secplan01$12.class
+SHA-256-Digest: daCS69uxMS5lmj19HmS/tyy5O+0KIaleMC35nJ3b88g=
+
+Name: mx/com/jammexico/sec/secplan01.class
+SHA-256-Digest: 7X6v4jXsonwxrEi2WQCW3Ys9ERkz2IWymzQ7uMCGQpY=
+
+Name: mx/com/jammexico/sec/secpago05$7.class
+SHA-256-Digest: aScjwQDhXDbRjZoCSRcJWM2p5Rwybj+7hKdWp7KUz54=
+
+Name: mx/com/jammexico/sec/secpago05$4.class
+SHA-256-Digest: yPGr08sVJ3hY084dVbxg7GqQ879QVEVEWIZ+Xvx2F3Y=
+
+Name: mx/com/jammexico/sec/secpago05$5.class
+SHA-256-Digest: FTw9kCTxQ6+uyvousxxVPMEpT0s4zNHAGU9daycwLn8=
+
+Name: mx/com/jammexico/sec/secplan20$10.class
+SHA-256-Digest: o+xYF7XqyeaCT6sXfUualD4JlSIN6Z/729WHHhBgwgk=
+
+Name: mx/com/jammexico/sec/secplan01$9.class
+SHA-256-Digest: MuIhBpD6MZ45CCkmybjuXs69NCKpclO6o//idNFTbjc=
+
+Name: mx/com/jammexico/sec/secplan01$14.class
+SHA-256-Digest: /tn+VSqBTXCdk2cmV4cQ80ehBiIY109QkqEdc1j0IdA=
+
+Name: mx/com/jammexico/sec/secplan01Comisionados$2.class
+SHA-256-Digest: EyownAgoLarnUptsuitSxFbjn3tU6rNkNJcbFOOhVAM=
+
+Name: mx/com/jammexico/sec/secpago05$12.class
+SHA-256-Digest: rPGoSmZ94RMaahLfcqIUuVLCbIn/7g07cbrnUyNXbW8=
+
+Name: mx/com/jammexico/sec/secplan20$1.class
+SHA-256-Digest: 3C2m14rSpIbSBft94Ob3Yq3+xiXDFrQFExYSlhpZcZE=
+
+Name: mx/com/jammexico/sec/secplan01$18.class
+SHA-256-Digest: WMjaOE9WIusP9I+RLwMo0Clhw9v3HhW1cFow2mLgi2Y=
+
+Name: mx/com/jammexico/sec/secplan01$21.class
+SHA-256-Digest: Z3evm/wL2SB+QKDJ7NMcyLGlFMlSPZZBLKrJj9KmTG0=
+
+Name: mx/com/jammexico/sec/secplan01Observaciones.class
+SHA-256-Digest: A1evzeX2lCqDvjecEbw9U5fxtm1O4F4hMKm3e1WQyvA=
+
+Name: mx/com/jammexico/sec/secplan01$11.class
+SHA-256-Digest: cM8pybIJ9Ek6NNNx1ZoNfbG+gmYHn+xSklTj4Pl9maI=
+
+Name: mx/com/jammexico/sec/secpago05$15.class
+SHA-256-Digest: cgz6aTVfVSmfp0faBCHiZv+3v5Kv3wVqQCUQn8fHXVg=
+
+Name: mx/com/jammexico/sec/secplan01Observaciones$2.class
+SHA-256-Digest: txLSOOVlyND5IE7UxC1D1JZ6AqAMEtqH7pxKuCKpc7Y=
+
+Name: mx/com/jammexico/sec/secpago05$8.class
+SHA-256-Digest: PtJ27pdJj/HcX9Q19CrljURMXv5Iniv3euRvBoMA60A=
+
+Name: mx/com/jammexico/sec/secplan20$9.class
+SHA-256-Digest: FIZuFSL+R0rJLwcLk/Xw3qK+qXHO4k7bTMubYduxicw=
+
+Name: mx/com/jammexico/sec/secplan01$6.class
+SHA-256-Digest: lRcqcttn/pk9vNtSwKWMso5PKLidUoFz5e05RKKyHf0=
+
+Name: mx/com/jammexico/sec/secpago02$1.class
+SHA-256-Digest: w0QT9zco98PZme+W5aFN4i0TxgWMt1TbkJNUwyXThSc=
+
+Name: mx/com/jammexico/sec/secpago05.class
+SHA-256-Digest: AD2LmXiVk8jOxMnkvkbVV6lGDJJ+3CsH+W939vL7vWI=
+
+Name: mx/com/jammexico/sec/secpago05$11.class
+SHA-256-Digest: l6k5ySrLmNdxjV+68+j9NoLjAQeCTgnbH3kGI0BMIjc=
+
+Name: mx/com/jammexico/sec/secplan01$13.class
+SHA-256-Digest: cq0Q6uhAUfY4aJxIrSDmrplydI3NRmU6Bb+HrIlZunw=
+
+Name: mx/com/jammexico/sec/secplan01$10.class
+SHA-256-Digest: QysaLRiejwe37jaQZmhaRsszeQkQ+Vc9OQ28ixY3vAg=
+
+Name: mx/com/jammexico/sec/secpago05$6.class
+SHA-256-Digest: Ni9pv4ksP9klGJsDfHclFa/a6HnJhxxRWs2+mAKvuks=
+
+Name: mx/com/jammexico/sec/secplan01$8.class
+SHA-256-Digest: 76pXGBR+F7U6KhaqntREkhsqi6m+Wrm0joGjcfFHWRM=
+
+Name: mx/com/jammexico/sec/secplan20$2.class
+SHA-256-Digest: dRBE5zP7R8vE4PZO3snpehhhU76zD16uQaDHz/G7Wxk=
+
+Name: mx/com/jammexico/sec/secpago05$2.class
+SHA-256-Digest: ldpBHsMvBA+uQIWiEmnTHwkOp/U9gXabyIYJpUtWrIg=
+
+Name: mx/com/jammexico/sec/secpago05$9.class
+SHA-256-Digest: /OL3lBZmLzmK3Pu2C/j1++BhCDiMMnj8AMigVUa8qRc=
+
+Name: mx/com/jammexico/sec/secplan01$17.class
+SHA-256-Digest: ZQMYetBefuDkDB5MzjVqL95jFcvnAjhkoQiDGaeok34=
+
+Name: mx/com/jammexico/sec/secplan01$5.class
+SHA-256-Digest: l1umsS2TcZOmnPfhM8lQEoVLLDOYZOdBwusfo8KHOKA=
+
+Name: mx/com/jammexico/sec/secplan20$8.class
+SHA-256-Digest: +5eVwVvhT+fKM36CMlQMU//ALkfc+Es94Fj9cSK7zeU=
+
+Name: mx/com/jammexico/sec/secpago02.class
+SHA-256-Digest: xjjnJOu+5CnGhkUNx3+/4XLjfYVlPWieyZzWN0cVdp8=
+
+Name: mx/com/jammexico/sec/secplan20$11.class
+SHA-256-Digest: uZuwdqXZGSMFhr5URQzYG6//KlVehD7MGTA811hhMVo=
+
+Name: mx/com/jammexico/sec/secplan20$5.class
+SHA-256-Digest: VGvOo/0fGlGoBYM2+EuafcOP6N++nJeo8hseC/L7e58=
+
+Name: mx/com/jammexico/sec/secplan01$2.class
+SHA-256-Digest: uN8oczNONZ8O/aS3Ry1DY50eZIPAGyMW2JEHWfhfH0g=
+
+Name: mx/com/jammexico/sec/secplan01$22.class
+SHA-256-Digest: FeI9RVpUsrcxydCywPqv0cx25fRQC7hPl47Fu6nIKV8=
+
+Name: mx/com/jammexico/sec/secpago05$14.class
+SHA-256-Digest: 6NClH+5FRGEWvS8FYfNgvT23u6+0XK1qqDwbaHvHvTk=
+

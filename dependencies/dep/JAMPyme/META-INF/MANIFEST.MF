@@ -1,0 +1,2075 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BarraPie$2.clas
+ s
+SHA-256-Digest: OX7r2vA8FsuMF+dE9RvujB7hMriane42/PduTpusfQ8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Impue
+ stos.class
+SHA-256-Digest: RcBcXcmxGcm+hMt40wqlXceuuJR8yeiZj38IuQyOxGM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Honorarios$3.cl
+ ass
+SHA-256-Digest: Kfv9+jEPN724S2v3tL4EgU2aJmdMWUdRILHLvEBbfuQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $5.class
+SHA-256-Digest: 4X1VxDjUP5daRRQZ/UacR1mkpLbHxEMtshxr01B83aQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$9.class
+SHA-256-Digest: hv+ogYenWSVaQQlSoWMa1qhFFI6MsxIo2aqbQ2/9pXE=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$22.class
+SHA-256-Digest: 8c8elDOD9eQmfPaJuFq8KB4Y3nM3qH+JSYi7dSX9u7U=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$12.cl
+ ass
+SHA-256-Digest: GaiBiLMec7PMzyopXo4cKXXa/V4qWCzNZg7qMjc461A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0205FacturasImpue
+ stos$2.class
+SHA-256-Digest: vXZj1NFz7wByxv2nN2uliYbQo+WCIrqswyQ7QLFmTbA=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$5.class
+SHA-256-Digest: z0C1enRgTdZjInyxA5jjGVmYpDRudMGoNK4Rw35Zqyk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Impuestos$3.class
+SHA-256-Digest: mHoZMOgQlyRmRgBuUJiP5ayk9k6MMrGdwLCvE4gJyHc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles.cl
+ ass
+SHA-256-Digest: 2FPRoKCAIzoDqLqEdVT/dFbPQF6B4xHrTXXgR9f4t7E=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$11.class
+SHA-256-Digest: ai1Tg9lLFLa0bnRydstPQeXpt6oDi4lQzWcrfAqvlPA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Facturas
+ .class
+SHA-256-Digest: Zp2M6dz7Tyxu6VFr67vAmJcq+IKKRRjL3B/Grx5QkbM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items.class
+SHA-256-Digest: T13YXyD9RRV5oFwht6fy1IJCILuoIc0/ScHLeNRH1F0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$28.class
+SHA-256-Digest: ZtImub/0Zlh8pp2+yAaGxX3VMgpKodEB84TiFip514Q=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01$1.class
+SHA-256-Digest: lkz9QWYgdsLuXpbxCAEwbUvn7uomoeN68g5RwOPkoA4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$1.class
+SHA-256-Digest: /bOikBSqLLqwgfAZ/Apuaq7YNegJZIGuOHqt4eaIv6U=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Anticipos$2.cla
+ ss
+SHA-256-Digest: O/069JaIJqTWbfAVIR0PeMsaEo+hCUJDXjY4WPmqmmY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0202Facturas.clas
+ s
+SHA-256-Digest: JSnaf4UL+d20x4mJdIM86WaH4V54jAtCjl+F7AR5HtY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$5.class
+SHA-256-Digest: yTLz4uRpEpqiUbyBuuntXFJ/2QQr9wYq4vjZVUbaVis=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$7.cla
+ ss
+SHA-256-Digest: KIzUvGe6cZK5mlXiqLEn4j2TL9kFjsyUiMRo3F1himU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Facturas.class
+SHA-256-Digest: 8f2FmTA0aBsh7MWKKGFjzCsjkW3EWWjvITk8oaq3e6o=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45Series$3.class
+SHA-256-Digest: n8qYk7tjTsSStk55KqisbTKkcd59guVg2ihzqgUo+sc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve40.class
+SHA-256-Digest: 3f1i/iKyriZ2aS8Kk02g6LoYsD8wZTgLV9VBNUTJ1yE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Impue
+ stos$1.class
+SHA-256-Digest: tXy+dUm2TueSxqR3RL73rszfT5rPG1Ga1Yb88ircuhM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Facturas$1.
+ class
+SHA-256-Digest: Jx7afiiVDyIDSj14bznU5f3xGVTR+ALWKWgMK6KvuiQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$9.class
+SHA-256-Digest: PK7F6afZp6UcBFBCu8yTzYN8irT0R+YiR/L8x0rCBz0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ $5.class
+SHA-256-Digest: vqXD6M2mZYVqPNn2eEu9fxhDqInDzn4XfoYJQPVnJmk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01ImpuestosItems.
+ class
+SHA-256-Digest: Sq+ItRLFK7Q05Z4rDNJkvUd+iU/1iM9ve5i5g3qkPag=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01FacturasAutomat
+ icas$2.class
+SHA-256-Digest: hMFK7xk3Dm4S9GipxtalrF2WzY322GSu8xx8ztYHZ+w=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Busqueda$4.clas
+ s
+SHA-256-Digest: a24mEIKiESXBedHVzhkVwbllmc+QfpKhPJ0ZOKNnAzE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$5.class
+SHA-256-Digest: OfUYZnEDbBb+u9i4P7VoatkOKICcTCgwjWuPDu6OopA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$14.class
+SHA-256-Digest: emEuV6YeYNiDcQnVaW7v3wwvrA95Frq0criUmeNLz9c=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$8.class
+SHA-256-Digest: CZaChNOF7HWsyRv/q+xF8/ReF7QLbjENg9As1t6lXOc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01.class
+SHA-256-Digest: NEUcjcQh8CbVHLFLaa3t1QUG/YMv5dxL677UkNcQUoQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$5.
+ class
+SHA-256-Digest: ETU75JqR56m8jAPxepqIYmsvZO832l9zHLUKaltuIQc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35Anticipos$2.class
+SHA-256-Digest: oe5Y4/COBvpEYUZ25KhpWTJUXrsdOHmuEmuqM4M7xLw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$3.class
+SHA-256-Digest: WRaqBwfHruYCdHhN66hUR6OKCNhkeIONTR0Q8S8BuDE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$5.class
+SHA-256-Digest: JKaQyuRLGyvZy6uSvYV2uo1eRrOiBycv8if1p1CLaiM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25Cliente$4.class
+SHA-256-Digest: Oik7C6u484jXmxq8/4Rhz9toNywbFmnOOwhpbDlJwms=
+
+Name: mx/com/jammexico/jamsiguepyme/events/PymEgreFacturasBarraPiePres
+ sedEvent.class
+SHA-256-Digest: zcW90avhW5JosDB3mnDAXX4UulIIH/f5kiIgY0SQFZc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$4.class
+SHA-256-Digest: 3ueCmFb4WFdtwEL+H6IJ3uIxEc4bjOEfijVLrC4yicg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Entidades.class
+SHA-256-Digest: v8hhFfMhyfEvJ1rn+2AviaVfPfpeLjuXyuFALH3f1Ds=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$doGrabaArchivoTxt.class
+SHA-256-Digest: eSolft923NLstbYuumVEw1z8ZpFCxgPobMqcSIWHCpY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$34.class
+SHA-256-Digest: cBKtFqbJHHz+rnueLPa7Je3V6edpewCy5qtxoyTfEio=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30StockMTC.class
+SHA-256-Digest: 41+eEm9/Rv1IqaEjrO5NNfa1cek+gMo5K0EztwguL+E=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$16.class
+SHA-256-Digest: T/gzisrfcksYLIM28N5XQp+l574mc6t+ubsOCiuSP/k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $12.class
+SHA-256-Digest: a3QjGJigLDjQtSiNoMBZ4NIth7E50KNGyVqjcpw5bcA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01$3.class
+SHA-256-Digest: VRdjHoaF96PcBFWdsdUIpHm1f3iBRAqi7zXAmt5L28c=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Impuesto
+ s$1.class
+SHA-256-Digest: HmAEgpoAavTF7EsFOKZccROQGzz1vlBT2hHVXy/L22Q=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$2.cla
+ ss
+SHA-256-Digest: Q93SLgllGvBpCYa0HJHty3dC04eCFrb0bxlTzqpzOKE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$23.class
+SHA-256-Digest: WhW8yCy/+ktEokpH+5b6TscAUztLUBsliirWYETJHwE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$3.class
+SHA-256-Digest: V/2h+Bqzwoo4yj7mjogpCrFJpR3mtxurjOzdJjDoQwY=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30EntreSeries$2.c
+ lass
+SHA-256-Digest: s0jfYQ2Nl+VFI1/rBAzxtMz1oYSe8OoU+fKVebs1fKw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$14.class
+SHA-256-Digest: 7r/DCCAND4pLMdZ3OAqssHE0Jb1HXK/S+C69NSwKOBg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Cab
+ ecera$1.class
+SHA-256-Digest: 7tl8nwXVfJTAjjvz5hel2YzMnxXUedIcjV3MP+fviQo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01$3.cl
+ ass
+SHA-256-Digest: 8JWynIweZ+C0HqXIG57lh64N3fig7f3DTvnRl/i5sOk=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$4.class
+SHA-256-Digest: 2I04ZdaivuzwYXmnjaPNEXXABNbNFzsnoqGwqLtonYY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr10.class
+SHA-256-Digest: +8xyWNi/bGlHijYxXVkRApVF+3osWLXNkKDg/d9BTLE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02.class
+SHA-256-Digest: xTz7vmM5o80lMivOZjgTpJhFR3XaL0Pzp6uaP+eu9jk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01$2.class
+SHA-256-Digest: Ws6rEmA5RuMTss09Io0HKffKN3LQNuyJexOuARsC7/c=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$6.class
+SHA-256-Digest: j87I443I9c/JXnZetrlneydO7qGCWDnlA49OSXxNx8c=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$5.class
+SHA-256-Digest: MB1bZ6ItEel88Jhnb4HHQmVByffGSc0Cy+vZ1Tu04DA=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$14.class
+SHA-256-Digest: svP0dt1rTOsvHC3SIF3XKLAe5cWtWq4HYXQS6bizb9E=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr10$2.class
+SHA-256-Digest: MDjN1/2F8ORLJ2YvlgaNmgzE5xDa7CUvS6TmvP8OwSU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Facturas
+ $1.class
+SHA-256-Digest: 3bH6DdQCM8/N6gsV3BJqSt5ktzruhqKTOsNMrOw1iyc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent50.class
+SHA-256-Digest: 2PJt94cG3JpjJly8InAmyZM+KCdzeQhtZrfc0lnbykU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$6.class
+SHA-256-Digest: Kk1bqoXMxEq6z+Dj2mOYvV0ZagNXtyt42lEk9CVDoeY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$9.class
+SHA-256-Digest: xLWKup3i+WN059gqKG2n9njeuj5oOWLnjYSdGLsB/Uc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$6.class
+SHA-256-Digest: NQivffXo1KGN0irU65AzfK+9iaARFaDQIM2xp2n9Z+g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Cab
+ ecera$4.class
+SHA-256-Digest: MWPFY73tC8L5zOBJ3cLN0JHt4Xb5dLEgCBb4eWm9GDs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$4.class
+SHA-256-Digest: c1NLrJC+09hNM81N44XKNOIonq3OMbEuOperuCREQ94=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion.cla
+ ss
+SHA-256-Digest: cLQvtqzM/pe16/U+BId7ja/g+yH98zld2YnCkmGCZHs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymRefe01$3.class
+SHA-256-Digest: I2bOCDBAsFXbWYrA22x8EFDtdI82TaAmRM3rwdM2amo=
+
+Name: mx/com/jammexico/jamsiguepyme/PymRefe01.class
+SHA-256-Digest: 8gWZhfPv16gIC9fYxxxemmGPhzo5vvr4WEuB43hbjaw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25Cliente$6.class
+SHA-256-Digest: BrBAil4r6Pa7ivEDY1pBAUivgwFTQ54C1b49qsZUPiM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les.class
+SHA-256-Digest: OXjeaq9z+hFlIMvRDeSllHKmdQ+7syjIL+2LxMUx60s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$7.class
+SHA-256-Digest: Y9HPGMEJR/6mWbbGRss9NTl0rkXXyYxVYi+7HM5BK3A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01$3.
+ class
+SHA-256-Digest: XkgwUQ9ZnrvIsoEZsKhsbDZ4Zqa0MANWvkq/EEcuIjc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$9.class
+SHA-256-Digest: Ia/ygdQt8RHNDaYpXILAziIyx/tjt1b5oEE0ZedO8Hg=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$5.class
+SHA-256-Digest: OilhGq8mtdfSmoY9EEoRkuQbjjWzyDcVBF2Tka/pxKI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Referencias$5.c
+ lass
+SHA-256-Digest: ot5pB7bUBL1Ivj9bo5UfgVToEgAQRI6SZG4jMjzVby4=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$getGrill
+ aRecActiva.class
+SHA-256-Digest: H5WzpHBDLNwnwz7MgUoBHR/dFzeNHpD4r+rrzuQkVy4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$26.class
+SHA-256-Digest: ZC/w4YgA4oHklhwfg2VKTOKHlpw78I4fg0clX2x4z60=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent24$5.class
+SHA-256-Digest: Z80XJhKgSEynHEn0Xm7pDXGQMbK+Z8ujS/Fn8k7SoZQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$11.class
+SHA-256-Digest: SN3xwFRS3mJFB/GXCMVrs6rDx6aWdk0bj/1HOvkkwmw=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Stock$6.class
+SHA-256-Digest: 9cCq5SpByueRZGRe4eTI2RYZCib1gNoBnFO1Zcxz9Gs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$1.class
+SHA-256-Digest: GnSEp92g0HAf+kgdjphOxT1kDnB0Tlb1cuuLqekB75g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Items$1.cla
+ ss
+SHA-256-Digest: OOE73ChiWSJv+KwX8dS7q4Vc+8y7B3BWrIaTj0dmbO8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$11.class
+SHA-256-Digest: cSxBpzkKcZpvDyevf0e/cqPkdroXBUsBtDPbOC1u3X0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$4.class
+SHA-256-Digest: oGlzdijRM9ipfObknLbAJ1obFM8Tvgpd9e6f4ygDk+s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Filtro$1.class
+SHA-256-Digest: g+HrqH7Lm6vcb9tWy/28FCZnXJs99kFGcm2FXoypTWQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$1.class
+SHA-256-Digest: N4RcNlAUNzoLKC3V8KREaLidMdejrMmwDp9hHfpSrrE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$2.class
+SHA-256-Digest: 0ALije4rcxSCqEWk18vn4CzbT6ZhoKqYjU0ZRPeve30=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Impuesto
+ s$3.class
+SHA-256-Digest: hd0RfAqRPxgdZ88EpxejbY1YBnv7qOSvaqTUfuw/sJU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$10.class
+SHA-256-Digest: YaM+xyu39a1p3jDkGTnUWF56BW5ctRwYo0JWg1WXjYw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$11.class
+SHA-256-Digest: OP73DpsSLOiUlZVHMTLrttF9Ms0Nx8UUXYGCEfyRLh0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$7.class
+SHA-256-Digest: VzJf3N/N+jDA+Bhwl6eTXPf33E6DqVL+daBNJ6bH8Lo=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$9.class
+SHA-256-Digest: i0EEPeHTmwXSHypPPveSZAwOPiC6pjqcNgJJaldxFWk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Tabulador.class
+SHA-256-Digest: dToLTQ2UPh4zMoAM15jbwVBuEAUyX0s1Mj6o7jlZDhI=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30StockMTC$2.clas
+ s
+SHA-256-Digest: fTbYhZUhh5EYLr55ue2DyUea4NyQRKovyq7TjGNNx6I=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$3.class
+SHA-256-Digest: BX2vChYe53PjN2FDO8xXvxuTOca2IwIK79GU2aK7JRs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent15Ticket.class
+SHA-256-Digest: VclPQLhveq4HWmVcrsH1/xXU2TeXvSTDSqkIROrua1I=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30FiltroImpresion
+ $1.class
+SHA-256-Digest: 5I6nuAGSsRIt4OR7RmbWd4w3BUBj1Ajtb748mw0oTKw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$2.class
+SHA-256-Digest: +QzOEgnS8PAr6hKI1ECflreEaSS4dhdCCDaccIpr4vs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$1.class
+SHA-256-Digest: FwLPBytQNE/SfUzTqVXja47Hx4CqD3xwdebbOur9FMw=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$6.c
+ lass
+SHA-256-Digest: jDyL48bif/fVr6S45fCb1V1K0BEOGflRnfyhw1+o6N4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$3.class
+SHA-256-Digest: 9Za/pVTTZfZHXT2zDWzLu0Z9GtEjUGJIImGvTsHUOO8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$11.class
+SHA-256-Digest: rsMsRG1+NsBMDt7b20UGMeyu2G0t8fpcYXJRBNg2bwg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Resumen.class
+SHA-256-Digest: i+fpqRe0GGHuoZ7pGTWTlTr/K13zuIHUVpIw3Vcy/6k=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve65.class
+SHA-256-Digest: krxds++IvdoveoE0KK9AOIazf3UJRvHCkP0oB9KMDH8=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Stock$4.class
+SHA-256-Digest: +T5wAyBkmUCHPKy16kgj6jnCp8COSFpMBd6E6LjZjck=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$4.class
+SHA-256-Digest: ExhZA0vWaCkVqutKNHRPLGC4ESLY0ARK0JYgAZVPCmY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$11.class
+SHA-256-Digest: +k8xI/wAkBB49UpCX0WXCJRPG46oGIhAyVgmxOnkGfQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$2.class
+SHA-256-Digest: eKYz6qguHKvcwZyR0KXDyZd8yBDUYiviTKZkWmqoC3s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$10.class
+SHA-256-Digest: W+9/Svwn0OeyUOsJWW+dQUcyc94blbbibVqWk/VPDXQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$1.class
+SHA-256-Digest: RbnlnOgZrGEhq8GN8FKmSB/prVYoS9xlWHiQOvPaZ2A=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45Series.class
+SHA-256-Digest: YCTlHxBcIi/dSTM0l/fXVdfsFjmfuzYYRQvsbtT6Czc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Honorarios$1.cl
+ ass
+SHA-256-Digest: +LDVDl/IOB8X+4+fVGTyCfmEF8FDB9xmHGdoZ2lzTgY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$2.class
+SHA-256-Digest: A5UNffCL7ncmWsycBPawobe5jsvipgA8JyGgdX2e/RQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$3.class
+SHA-256-Digest: RAXhCWA6QH48dkL51Iq9B+pJ4T/8RpVYnZgGf5TJsG0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$31.class
+SHA-256-Digest: AElzQjkSgfvkKeqDjBJONTTiVkShwit6aI+UfRkHHBo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$11.class
+SHA-256-Digest: MXvdB2/OzKyEg4Z4vFlV6NcQWwKsBRoRj0K8t/gd0ag=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$11
+ .class
+SHA-256-Digest: GisqzG5AJIZdEiyRIrf/08ZCqIPobpDhowKK8RIVDyg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$10.class
+SHA-256-Digest: ZaqHgCnK9kErl07CI5JeEzNcZfUHSjRq0xG+vLF/N50=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent24$2.class
+SHA-256-Digest: 04gv4ezBT+2eZxTGEb46xnhL2H+9HzgjCEW3bV9xnNI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$6.class
+SHA-256-Digest: ojI2ysfU7AnBXpjnlKDcCAY9DxwCXAvwpb977BLZiyk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ .class
+SHA-256-Digest: Sam7uwrKlA+sraKnMLN5M7Z7/fTXIR1zIBzsVrpCfHw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Items$3.cla
+ ss
+SHA-256-Digest: n3SbOYa1bhWPfsAPiAUtRZdpjYFM5cHNWpre8ODE7Ts=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ $3.class
+SHA-256-Digest: 94S6Sd2nvmlgboZ+9P6zusjlexRStcw5TKuK6jdYUiM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$4.class
+SHA-256-Digest: sCRMGHii/rjQMIT3mXjil96bVkvMGo5Wch4GeTuqb08=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Filtro$3.class
+SHA-256-Digest: M7+cD6t6MhAMOQ2and9ByB/dyVyBk9suFCBfWxcMGm4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymRefe01$1.class
+SHA-256-Digest: C/6r0q09LJwvdC+/rTm2I6gRkBs/blnKgE8qFBoRBfo=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$8.class
+SHA-256-Digest: mBCcJutQmTBW9AEO9JqTGaDBTHsiQFUg6JUSCOFURsY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$5.cla
+ ss
+SHA-256-Digest: kQ78OW9+2dywHHmjN94wvSeqli67v1ZFExrpprw16Fo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Cabec
+ era$1.class
+SHA-256-Digest: OAclUe+9ywrZzntJdzSOPVCnGb6e+WCQ4W7m4o311IE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$6.class
+SHA-256-Digest: YlThVk/KqZaroul77U4tHuBsaw1YOel5Vn5Lw1AEEX4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$3.class
+SHA-256-Digest: 3M70+wAj7k3U+g77G59DdIyJoU460aBiz9cgJzWiP/Y=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$12.class
+SHA-256-Digest: H7wBQL4xcQsREKnux6SX4NnQWWey3jvJNTJnLQW6/zo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Referencias.cla
+ ss
+SHA-256-Digest: KvLY5djLOHm+9i1m7v4Dm55u88w5uFUTyxJaRBMCyCg=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$2.class
+SHA-256-Digest: qUQhZATKXBmtnmFZoHjnOQ+cmImGKk/d9P9HzDrCmW8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Detalles.cl
+ ass
+SHA-256-Digest: dX9C8kcHeN1Lkx/uYcdUDWFIv0N+7UTAFvRopzF70pw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$6.class
+SHA-256-Digest: hS7teOSADIcS62HSDiPoImNP4J228+tKpyjLm6eEShU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$8.
+ class
+SHA-256-Digest: nD7K7B9dDYX4FF5NFDBTwQdPTxe3styhGSfgFoHuYUk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $10.class
+SHA-256-Digest: rHP/nyUZ9SEOSmjqT53fx4YyAu/gCNuN4J6Q1aNyX7g=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$7.class
+SHA-256-Digest: 7bXdQb6XmoOHTRR9Yho5LFuPtFqnAe/1LSgUsLPYDsM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles.class
+SHA-256-Digest: eaKnrCxgYtVJdn+mKJ1UauiCs1ldCjlKXKDfVRLpoMo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$8.c
+ lass
+SHA-256-Digest: iL+0fdchSI2VN47S4Pqbhndv+3HF5/gPASqk1dRcv1Y=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida.cla
+ ss
+SHA-256-Digest: IUfETrCLnlA3kn/Jr/HB0ZrOY5+CwpuAX9jt2bBLY78=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Filtro$5.class
+SHA-256-Digest: aQ6AUk+f/evyiVnQFS9BZS22JxLPxSHDiGPNOgcrnWA=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$6.class
+SHA-256-Digest: M2aFPIbJwNucLsQtpTP+Hu3KRcJS+pZ2mc8eBbvJjFY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01$2.
+ class
+SHA-256-Digest: 0BvHf0ceaXsop2jafHay4sgtvT5/jL1s16D8LEPPd5Q=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01ABMDetalles.class
+SHA-256-Digest: pniv5/Q8ZFxbEll64YXTF4d8auqoUD7kVyipDFwfgZE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01$3.class
+SHA-256-Digest: JQXserGBY/n/dtMj95/9YiOk/1XSl/UMEmNrhc4KpdE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01ABMDetalles$5.class
+SHA-256-Digest: Sw48VlDekXtKYiNy7/gprnfrqrCDH/cB+taUnuy6Oik=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Filtro$2.class
+SHA-256-Digest: VqN1Z0zqaQy4a7MbEqFaND1dLE1OfXqID4oHZU3+gkA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0280FacturasBarra
+ Pie$2.class
+SHA-256-Digest: V5iKWpSHJ8RkDSCxsB/ML7FwNjNrS3DZ+C9krcYzXE0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01FacturasAutomat
+ icas$5.class
+SHA-256-Digest: 95aGKH1Dtxffd25LQAKv8bW3F0m3gU6QRe8Bydua06M=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$7.class
+SHA-256-Digest: qAjfgvfafwBsu4tZVesOK7S9j77VM/6X5E5RWdLuaxo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$8.class
+SHA-256-Digest: YqSOEUWq+uO/eQ4QMeWdRJNToAknz5ubxCVkK/AMMzY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$8.class
+SHA-256-Digest: WEQ2BDqnBWOOJL+ci7fWp2jfgOlmMPp4rhS+ZkeaukE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01.class
+SHA-256-Digest: 8ddNyKBeCXYxKxwqND2QGXerav+jKGMplvP6vqjxAZ8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$10.class
+SHA-256-Digest: +r6iyQIc0+UHh4DtR9sPOUgTas7Izpc577/NBVmQVb8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$2.
+ class
+SHA-256-Digest: Kp3umCxtq+plwx2yTa/XTn9mz0sylqNT89+7NqbYv6Y=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$25.class
+SHA-256-Digest: DyRgQRV2KrDehCyUWpIY5X2xxS8Vv1+Une78r13jxDw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Factu
+ ras.class
+SHA-256-Digest: Cb+tqhNb10NiEUhheCaYe59ftrqUUZ8ou//GEw/Np/w=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$6.class
+SHA-256-Digest: hAe27v0UpSqi2Al4mMUduAA7J7RHF6SvrdXEi66e8FA=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$2.class
+SHA-256-Digest: UDL/u9tN/8H8g2WRUKE8p4RNPEY1ow5+z0gywGwNAMM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01$1.class
+SHA-256-Digest: tM8KlNUYMXLlX5gtftq9LO3Oqai8KJ7p31JBHjm8PRc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$7.class
+SHA-256-Digest: qz6F2CwGCV/Ub2SNQ+UOTTdxlxcFz1xHyG+qVJxP8Mw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BuscaProductos$
+ 3.class
+SHA-256-Digest: Pt+ipXy4N4yINOuRuw6WZh9a6GrgM0sTSD2t0pr4+pk=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30$2.class
+SHA-256-Digest: w0xRhtsNVgbUYMlzxh6HtUMJjk4kJoSqrq4IcDIy9qY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$16.class
+SHA-256-Digest: jjms5hAfqWagmPJ/Li6Bb0+xXmJOIsfqPcSaoTc7a2U=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Stock$2.class
+SHA-256-Digest: HBmOdTYf1R8si/PmSMWmTi+xOSowaYT5slBkCAGHtrU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Referencias$3.c
+ lass
+SHA-256-Digest: fFBW5RJY+J/wSc1W5RBAkottLk7eJOw11ougiJoz00o=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01FacturasAutomat
+ icas$4.class
+SHA-256-Digest: xkPQ4A3nTLNktDGWzgXDWEBFPV8PW6yvzZyKymY4e8M=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Cabec
+ era$3.class
+SHA-256-Digest: tmkydRgiwAjQbk3lpKpxYPiSOFlGKAXPs1mtEVhrOIE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$17.class
+SHA-256-Digest: jhkKw8Aztb4yRih+1bIhqJY4Y6yG9mVh5TMlr+utf5A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01$1.class
+SHA-256-Digest: h4eIR2UDNjSHKQKuaG7PWsiWVOmxzxx1Jc3DxsLP+Mg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01$2.class
+SHA-256-Digest: TAyujyqAFuO7F6XKlLOfFB7MoQuF7Z3evycnbBMO25k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Impuestos$2
+ .class
+SHA-256-Digest: bgvLKQ81bNa4aq3lFNsQGSuoBPJbAdtVNHdGdR6m39Q=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01$4.class
+SHA-256-Digest: fB+NladRcj5kG8E+WUsfRvrk9LdD9+CRdqnouioMOUA=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$15.class
+SHA-256-Digest: BQ9AXxA5pUaocGt8O6BhRorogyx4DioFbnS5iwZLogM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era.class
+SHA-256-Digest: otRTk0UkLGzOn45gzcdQ85oPgtOVl/LhWSeMmBzdDko=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Tabulador$2.cla
+ ss
+SHA-256-Digest: Nbg1goQd3AJRtRTdjkS3mlM1tNUaOZc9oZwmRXlI3oI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0280FacturasBarra
+ Pie.class
+SHA-256-Digest: c7AjTB/d8beUO+vEoDWqWzj7XW5jDgndktEb9xeX6Cs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$13
+ .class
+SHA-256-Digest: gVeIZwYT10RT1I9tro/3+LoRWf/hEE1GS0ZW7pqPJ9c=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$24.class
+SHA-256-Digest: pfru5HD3RCA3DTOCHJ0AYXMhZeFxjpRxqvdB9Lu9PBI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BuscaProductos.
+ class
+SHA-256-Digest: ilCCvsF+Saa1oSatSVp5IGQhpTwajeQN6xR0NvEFLuU=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$7.class
+SHA-256-Digest: +g4OOnnGy8VcultoF790S48jyNMQn0DvzZcD7ha4FhQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$8.class
+SHA-256-Digest: KMmZ+mjIw3gla2oLSeB47QbHqInee59lyyp8xoVQv3Y=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$11.class
+SHA-256-Digest: jMTlrzI8VMb7xbVmRD7UkDt2pCND7eM5te+JwNr62WQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Facturas.cl
+ ass
+SHA-256-Digest: rjrzVrQi51Kzp1+vAQxiN9CggJcxMPD3z+ORbWwA31M=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Items.class
+SHA-256-Digest: qF5y0vD45Ia08Rlu4oRPaP623D4yNJ+JcXbh3MhAzVs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$9.cla
+ ss
+SHA-256-Digest: mZs+BJLoaAuRmh/BldG6QrGRgAWhdJJHf5tDN7Ux0yo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ $7.class
+SHA-256-Digest: aKrOE1olIrVelZPRxcsaZKo6Z+WuNoY6ui2bnafUK1o=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BuscaProductos$
+ 2.class
+SHA-256-Digest: zib0myOXwOsvtF3Qz0Mm9jNRBohqoq3rs64maTXLYbY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$18.class
+SHA-256-Digest: wnUlXl+GwimoP2/knG0TeAIPwOtA54AN64Hh1Lu/VVI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent50$4.class
+SHA-256-Digest: Amk/OE9cs0zvQzQMu/+k0rua0XZD7ioqGanYc2hDVgo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Cabec
+ era$4.class
+SHA-256-Digest: fJD7AXH9MzIntwbjBSeChmdIs9tvPD0AT/IpPqhmHQo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30$3.class
+SHA-256-Digest: evvU3rXx+JRRtyfiPj8Yv4tXg8ssLRBikLz6Tv/0dz8=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Stock$1.class
+SHA-256-Digest: TjVVYSoggHZaYp0SBdcHg7fcViAi6J3SbhNyqpy+AeE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Impuestos$3
+ .class
+SHA-256-Digest: GifRQCNPCjJQDLHkLlfSALkYGRWSfuCSeICkycLzffs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Anticipos$4.cla
+ ss
+SHA-256-Digest: XvyzIFvcAbcOoRKvAHvqXMLuXYp3mcRE3U7DXnu8tyg=
+
+Name: mx/com/jammexico/jamsiguepyme/PymRefe01$4.class
+SHA-256-Digest: IrKGrEyNf0IU7XESVHMIhPjTtqNjiQS8nk23Kf1aekA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Fac
+ turas.class
+SHA-256-Digest: R/GhJiHIX5Jl2ZdSfQTGL/3wzFH98hgNTXPJM3XYAuw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$7.class
+SHA-256-Digest: 7zQcemtVapq+Op4A9KPtn/thDHfyGqMr1vuN3j16XkA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$7.
+ class
+SHA-256-Digest: cxw2NPglIioGPXvymreQTfHqHKwGLEpe7UQZU86mFv4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$14
+ .class
+SHA-256-Digest: 6KmVNJN6w2yVyDCiFDB4qs4G0k0SyY09x9g3XrVzdNs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$7.class
+SHA-256-Digest: vvSjpAj/jMXrObF9/rywzA9NCgXKyZhri/4s1/6leLw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Filtro$6.class
+SHA-256-Digest: eSleP9WBiRVGqsqPmSi8N620x/ZEF+RcGaOTlbnzUZU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01$2.class
+SHA-256-Digest: 9H6S/oiOOIknz3kzTwBpnE31H8rUDKnECp+BjhtQKqE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01$3.class
+SHA-256-Digest: OimCONK80KmuPoOOrNZDtELUb6KTceNUUmbMiQgRpVQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Referencias$4.c
+ lass
+SHA-256-Digest: W3kRK7cxmAncD03FNLCxz5jKSib0jr1myj2i8huwZsE=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Filtro$3.class
+SHA-256-Digest: CXDWsQvKBS1C3fHYhzp3ivihyCWVSlYeMohHYFJLGi0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$1.class
+SHA-256-Digest: 2Dxgyiycqo8pJK/QFHDIoqTZV7V+NxJjSFnK0IhHFKU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$2.class
+SHA-256-Digest: bY4iPDqJL+jgkGh2Io5yM1Bbvk1OrUxv9nUVjL2VZ/k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01$1.
+ class
+SHA-256-Digest: JJc3JqzswIDBZDuU1RID9rBATo0Qd/6bjXgWd6x7kJk=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$8.class
+SHA-256-Digest: QkWoxSV+veAUcKsWQKKxLbrM5Ghum5kJRL52MRxZHJM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60Chart.class
+SHA-256-Digest: /H9zPYOAPgngGe61cu0ciZz6EW0vY+anOGD41Zjwcx0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$1.
+ class
+SHA-256-Digest: VZu72wuNTOkTG6HmlFRz3AZQG0UBaJ/7hjmeta6vexU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$doRegistroArchivo.class
+SHA-256-Digest: kaEbFNQJiKT1Py5hwGhvit+6GyOtzeWTFSZRRIK2LGA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Facturas$1.
+ class
+SHA-256-Digest: 8hMTUxIwoGGwl8/wx0+KBSbC1UPrtM7F4JBthzGfaUw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01$2.class
+SHA-256-Digest: 9+HN1kAOJK/xyPNagzwMVkkhSe9oayDC7naVAyybjxQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent50$1.class
+SHA-256-Digest: BxwRGxhn7TLXWHDNe7rfQH9czUGyra00mtUqtTUefs8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$5.class
+SHA-256-Digest: EQkzlMoZOz8YwjTlf0cmB2NcFp5YQy2/VWnb2FQeoiY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$4.class
+SHA-256-Digest: AdzvV/wgpspYIfLLTFPjQO/t67yzqFE7BPKlEU5mNmo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$4.
+ class
+SHA-256-Digest: y3dT9tYqL5MTVIi5xxMAFkKKynyc2qvERBXkxmI29qE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$3.class
+SHA-256-Digest: B1XJakWPRBcl94bIr0br4F3jxxQiPiP3sJ7+a8y0M7U=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$16.class
+SHA-256-Digest: PuiNlb6m8qlW0g+qREzuasbSIrJpLUTAT9Lw8iyCt5E=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$6.class
+SHA-256-Digest: rHN7LcH31DRPH4yL9qzoPF+SR2Pg2Eb4ZWeajmJvd0g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Anticipos$1.cla
+ ss
+SHA-256-Digest: ggK2jXauZu0+zzwprIWsX5VBtPvLh4mRZfgtkER0wVs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BuscaProductos$
+ 4.class
+SHA-256-Digest: KtuQ72PdYv7Bj3uK3xkEcDjjVQrjF8RYsykuevXAvbE=
+
+Name: mx/com/jammexico/jamsiguepyme/events/PymEgreFacturasBarraPiePres
+ sedListener.class
+SHA-256-Digest: /7Sr+zvsw1DzsB4oNCYbqSKLO3dVmQYGItYdFeEmBds=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$3.class
+SHA-256-Digest: P+0FdFAFrYuRq6VqjQVxPqdvfuYmFEVil2GlrPB/eGM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25Cliente$3.class
+SHA-256-Digest: 3ZQG5keShSS1fvqS7bd+UFKlnZisEp68qWTcEghvt2g=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$12.class
+SHA-256-Digest: jKTOXyH8usy6RR5ZZqNaMmNR9icCmjONdYSpvsya5G8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$3.class
+SHA-256-Digest: /PrLM1pEtqhZOWMnL+IhwH2eEhWbytczGCRJBT9hVPU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Referencias$2.c
+ lass
+SHA-256-Digest: mlU7jk8SGul8Jygc8uCNgoGxacog4kUJNKpNDFhMtx8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$1.class
+SHA-256-Digest: a0wyqAFAFTEgxzwQtTXh/DqiN12kIzSQ6htf3uTJNjA=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Filtro$1.class
+SHA-256-Digest: conz/ZzSoy2KcVGNZqC6MuWejPLNn40sl3gFUQbam8Y=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01$4.class
+SHA-256-Digest: lg5KsKHXLfOf4LDQ2yhvTG9hKMWxby3D4TlkGs9BN6s=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$8.class
+SHA-256-Digest: tVhL2f/IOOQBcvOjBtbYyfRuqf2ZDWPPZ3cujD1fWVs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01.cl
+ ass
+SHA-256-Digest: tpBahiGr65+W3hCs447mfDFwKdakEyubk5denNGfp90=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$1.class
+SHA-256-Digest: aVLTVyJ8xHkbuxRsfWBOZ2ncYPFqbsAISJPJt6fxQzE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$4.class
+SHA-256-Digest: IyInkw5Fj0ZZ6sM8Mx5FM+us96qbLOalaqdWW/3vvGk=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$13.class
+SHA-256-Digest: lAEsbv9IOPRtjJDvd8pTzuZpvevTEk5RKnLZkFXO/gw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Cabecera$2.
+ class
+SHA-256-Digest: 3peEaf4PT9TcjQEc1cBmTzyfDuzRziOeuAllNa7RLFk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Gastos.class
+SHA-256-Digest: U7vsYEGASaVJVraub0zY2YbxBZA+OAzYqQxQBLEwj8s=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve65$1.class
+SHA-256-Digest: d6idlY8oDfaQjv/VtBe2B9nv+SyNcYvCWc2I5Jbhn+w=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $11.class
+SHA-256-Digest: wlRHDIBVHpuHDX4DFO3zGLroYJ7wnvRtWHZkIxlzUGk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$8.class
+SHA-256-Digest: 6nF6qx9ared8jf1w4JJdxU5clSHM4W+TrDjzIOb5qdo=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve40$2.class
+SHA-256-Digest: csRLPceknB4fqsEihLTHud/vcWhPaUcTpdiVvZhoTrc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01$4.class
+SHA-256-Digest: s4lY37NL1ELkmF3v+UyF9RzXc4+5tR3qIxGdJvGclYE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$11.cl
+ ass
+SHA-256-Digest: zGq3+mLAnMi3gT2TdYqabsJ37ibKhTlBxloU5Ytfldo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Filtro.class
+SHA-256-Digest: bBScfQEHv9Zho8NEV2bf6TsoKnad8Os6srjV3vyMbc0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$3.class
+SHA-256-Digest: hk2fIfSKjki2g/fqtAK1qLEMpuREQq5PS/9PYhroa4w=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01ABMDetalles$4.class
+SHA-256-Digest: VnxM/QZWmNPuaGO1WQGtUUYXvPasYS5wgUUxsb1gJd0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0205FacturasImpue
+ stos$1.class
+SHA-256-Digest: dpB9L3Wu1X+VR0rDbTqC3EFr1UwQzfEmSaPiMURbZXI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent50$3.class
+SHA-256-Digest: 11cf1+1SweqGPGwoTRo6jdsIQHRD35Pu+KBY5grj2FA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$5.class
+SHA-256-Digest: KyAZygPixnsmnI+Mu47nOSJwNh5zVfqOKvlwKVX2pno=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01ABMDetalles$1.class
+SHA-256-Digest: S3qJWROMnrZpDZG1CvNmky3CdUrUA/Er+FwpFJC53MY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Cabecera.cl
+ ass
+SHA-256-Digest: DQ8ZeppRzvvWlJpfiEaXy+yqWaS59NAEQtoxpk3YVSo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$4.class
+SHA-256-Digest: 7UytDSeJph6odOLAfjkSrcOwpxII5Gh5m8+nR55yb4I=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$11.class
+SHA-256-Digest: p0bjXVOABRutOE0zJ0juwspkhKXwqkWMJSJhEdibo/4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$2.class
+SHA-256-Digest: zPSXQ8JTXoZiTDskjb30mm6WsSzquDE82mlssxdk9+k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Cabecera$3.
+ class
+SHA-256-Digest: aWFWgoDP7o4qvUebRz4X4+pFufBcQo0lK6fYvBoSHDg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$3.
+ class
+SHA-256-Digest: McyaxMbZLpnKtuwTS2SsN/v0v0giiG2ZJILcidcD9fI=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$4.class
+SHA-256-Digest: mtQnwoJNJp1FJ+Udd04HQdcEfU4bjQ2wora4Sq7UI+k=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$2.class
+SHA-256-Digest: DyEe+7gMzpYuDGFIjRlFpwcL8JdByYIWJ9nNeVL19u4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25Cliente$1.class
+SHA-256-Digest: fWGKDZWhK/w3SM1ZNbwf1sqA53hJaeRcGMcFXVbe19Q=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Filtro.class
+SHA-256-Digest: ijufBx/XsQSBPOQzMM7GvLvIZEjQajiMQCcVpnJxcQ8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$1.class
+SHA-256-Digest: YdVg9wpeuzBgtkz0H2IKrnVtXdkV3nN2ElJ5OQAwjuk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01$5.class
+SHA-256-Digest: qKfYBBlyLqDHCq/kMiMZ1uxG6zxIfo2UIWqJZq9lxP4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Facturas$1.class
+SHA-256-Digest: 1Qi19hdggeHQaNah2OX1g1aoRX1Wzw+Po7NRJXJCvgE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$14.class
+SHA-256-Digest: 4asquGuBxMmXypSCSXmZhFtSZTjdXvyhvWwoLq7zVEM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01FacturasAutomat
+ icas$1.class
+SHA-256-Digest: wAEXVSCg8w2dTfQtlHY5PH78bJ+zTGSHJ0bW0tCMRx8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$1.class
+SHA-256-Digest: lDl4Kgcm3xfEO4fdK2e2J7CF9ShSLsrDVpUnv7F/uUo=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve40$1.class
+SHA-256-Digest: MllMfELOw/vto1FaEQWE7pJsT7IMspc7cTo3vBJsors=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$21.class
+SHA-256-Digest: /mobGaR1RkZ1dOVGLEH0XkBu7GE7llwRgx9zkxuYLVU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$1.class
+SHA-256-Digest: 2/obfzVA4WmuSYEG3b0Eeac4+gXlq7+4rnFwbeESqvM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$10.cl
+ ass
+SHA-256-Digest: LxV23e7SmeJhnOFPXTQIycbB/hI/ja45oYD8w+A9C3g=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$7.class
+SHA-256-Digest: 8knqrgg/xD6dnj5oqolBoRZehHVHN15NIDhS+U8n8Ig=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Cabecera$4.
+ class
+SHA-256-Digest: D9CW/TA6DjYOrPxOnrmXrGq0bqpXO1riJ4c00b2z0Es=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Documentos.clas
+ s
+SHA-256-Digest: EzAsw2CN50CzDjLsjGrEh4h2l78QkiaJXPTYiWozZvc=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$3.class
+SHA-256-Digest: +unneJP1+3iEsGTphJskrigeIEIIJUyFVjF4H3OcM5k=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$2.class
+SHA-256-Digest: PahZZ2ldoo0gjU2dmkX8CK0fOBcefYo+97GQkKq0QC0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30.class
+SHA-256-Digest: BVCY6xsLZbHoVFA/CuzQCfKHhqKOZaRhaeLxvkEP4YA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$7.class
+SHA-256-Digest: bkZCeFAQO5MmotnNVm7SKmrf75bWUPXc6mFPImvPmmE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01ABMDetalles$3.class
+SHA-256-Digest: JuVer6yeZRdHdlBhUtof5waz58Df4MHKgxsUy3iLqpE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$1.class
+SHA-256-Digest: xftQr0N2sk19RZngC1F5B7573HctAlzqUQ66m2Uxtlk=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent50$2.class
+SHA-256-Digest: evCK9jWFIQ1pmbNRL0SlW4yhEtorxQQjc+GOUm5m88E=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45.class
+SHA-256-Digest: rraamU8QbwW+oq2C7JfYGvmTlPXWIHoa6GUq8Dx/Tdw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$5.class
+SHA-256-Digest: q1bF+UGvn+Fz8nb5rwmCnuVjgmm5dySU6+wwxX1UPQA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$3.class
+SHA-256-Digest: LdLYTHtsFkwORAbpnq9JbS7WXgwFSb/32XlwPCfWxqE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25.class
+SHA-256-Digest: iRGxsFH/LihnOTNTOGWgA3K42q/AGHV2luRFAOSKSmE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$2.class
+SHA-256-Digest: SCjX92+DFCnnusUcbE9mPmV3nV/dv7vsmOmrHfF1LhY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25Cliente$2.class
+SHA-256-Digest: N0oBsUfxvl2s6wPhb16eiOORIIg+T/6n06XRZwNnAaQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30FiltroImpresion
+ .class
+SHA-256-Digest: ZZCm8S9SnM2CVDu+eftrVOaLS3nwCN5jgVqglaCqJhU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$20.class
+SHA-256-Digest: jHGCTw27caE2kRAk6mpsfOsvaySDdp69KlFlrUx1UTg=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$15.class
+SHA-256-Digest: mQgBu4La4/InuYlZCJg8K8/aWETLAutQKkC4PbOYYjs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Filtro$2.class
+SHA-256-Digest: FsqeXhAidj+pluWEauwmiS/+a3diKObIf4zAOMfHmoQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent24$1.class
+SHA-256-Digest: +ZTDoMyO/U+eIPWZVF1ltVl4kI6XUJzMpWFqY4T97i8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$22.class
+SHA-256-Digest: mCY80K8/ew1k1XTuXldZnrI7W6cVJrI9oqlvIKfJ7FE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01ABMDetalles$2.class
+SHA-256-Digest: 7rd+PpCP6HlSXhtDUWhKeYSOWbsMjQYDAejIL3JnHUs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$13.class
+SHA-256-Digest: zSxKm24AfOV0DeVtRDKv66ky1ruNEypYKBnEZ3G7izM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Referencias$1.c
+ lass
+SHA-256-Digest: rn9W6q9McY+FZ0vImh0BF3Mt1S633pNDgGF0sOG2Da4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Imp
+ uestos.class
+SHA-256-Digest: Ds/LLIJW+c8s8QDp61y3s39AUGwp4RSje8cG8uMvvPs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$3.class
+SHA-256-Digest: QyG0ZT4SaDKEZGDKDReBFcbrA8agMnwFUZ5fUQp3pGY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Items$2.cla
+ ss
+SHA-256-Digest: O1arUJxpV3tOs5mBFhSj7DUSA28se9gHzWa7HvlSRvg=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60.class
+SHA-256-Digest: /zAaSBxB/hW68UpYfymItiZXrPbSEgNfn4aVxavPeqY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$10.class
+SHA-256-Digest: AcONUSB37jTrr2pBJvWo7p/Mh+I8r53RRKCuE3U30W8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$3.class
+SHA-256-Digest: XBO7DuDH5SWD7sxKPtiER3O0rRiv9QbbeOmt4duY3QQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$6.class
+SHA-256-Digest: u0DfNUdlRMYGKU819Kw4zJUjNXdSSvqHV2bU+eGLIiw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$9.class
+SHA-256-Digest: KnNPTVlMBmWPbKLUiXKj/zGWzX8F2QSVCK0KGWkXJCw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Factu
+ ras$1.class
+SHA-256-Digest: G8LxeG5DVN2Kr6wsSWMQBBslf7CMn4fU0zbbW8xxzas=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$4.class
+SHA-256-Digest: yc7nhO2hQqPWaoaPMhHCGtwdrYUnyfc7xpZf2nLon8A=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01Cabecera$1.
+ class
+SHA-256-Digest: /WjokmP2rYa9sf6awB7+P1S94/VDJ9XbfOAm+soIMzk=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$15.class
+SHA-256-Digest: L3pHLZ5KRQIDETqDKf9IRIO3EoUo5zphw/W66nWCrsc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10.class
+SHA-256-Digest: UIDhbdmMJqPm0IESLJQnzYyBzlcNlXWvcn/a/3Wk3a0=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30StockMTC$1.clas
+ s
+SHA-256-Digest: IQg+cXFSi0A27XgqUgpcY6f6i+ocecDBRAs2legFqck=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$5.c
+ lass
+SHA-256-Digest: l5hYZGvchPc8aFuk5Ob08R9y9tVLh5Tj51GEurMYecw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$1.cla
+ ss
+SHA-256-Digest: P2tFNLZnE3bGxbRvbXVsOA5m4iaCRtoQucVdYI1NmRM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Impuesto
+ s$2.class
+SHA-256-Digest: 2p7espDFceNxbjxiv2JrI7TgOLpRlY+Olx/1ElkGUnM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01$3.class
+SHA-256-Digest: JGG63QcYu1Pp78Hnava51HG4AvQrbG3+2O0bIDAbo+k=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$4.class
+SHA-256-Digest: VaHHSBrKVYUcN12bkqGBJsEaNg+ciXq1ggN7DRTUkmY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$5.class
+SHA-256-Digest: 8pE8njIg4o1akeWKOtOkX4a+J0cuyH0jEvd5oVCqvzc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr10$1.class
+SHA-256-Digest: 1fmkdlCdrnXbOOQFbw5+Rp1EBqt4gyXoiXtAhHcRmcA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01.class
+SHA-256-Digest: doRkchx93OqS7uFEhyq5oOshgOIUArOyNvpd4uwMrVA=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion$5.c
+ lass
+SHA-256-Digest: Rf7iKYGbziAB6q5iznMEbuBbdwkr2q1DLFtorXyz5OI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymRefe01$2.class
+SHA-256-Digest: lMFz/Vi+A3Rl75v0ansroR72VDGSRXLYblebBCogFZk=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$9.class
+SHA-256-Digest: y41BYg2QDAsWMf6/h8yvYDXfR/aa0qr0i0frP59WwTo=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01.class
+SHA-256-Digest: 9ukyk69yCsxQhVLITu9W34mQLItjrfo87fV9qPLk9oM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$5.class
+SHA-256-Digest: nT8Zg29C/DlQqiDngm2p4j+2HOzlV7TV6aW14sQlaas=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$2.class
+SHA-256-Digest: fuodEYPArq6etFqiU+PAt6NeItVMKHMqG4fXjbJsY1E=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$10.class
+SHA-256-Digest: ZJwFfekX2JEUxL2Byd4I6Tn3XLJlrjGvXG4VnE5c66E=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$9.class
+SHA-256-Digest: w0Nu9a19dLNhA8xpYMiFfLYlWWkIsU7EcAXX80YhxWI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Cabecera$5.class
+SHA-256-Digest: JEpfjcN766K+RKR0DDFzxqWl7aL0b+faXOZfRlRSUUI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$5.class
+SHA-256-Digest: Lz3CBg/poj9nehofyxqam4/gYfhwleOQ0sOM/4z2sg8=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Stock$5.class
+SHA-256-Digest: OHYNT0N8F2FvfvowirU+x1LPe+eDMRRYQgNumOU/mCg=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$10.class
+SHA-256-Digest: LIoZOniF+f6dUlA7Y/Mur088rEugkN/SJjs5d9bPOCg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$12.class
+SHA-256-Digest: HRqNKv0XNtFmmc20bJbvCQ/lLuJIb7YlD2hN3ftfuY4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01$4.class
+SHA-256-Digest: mHshb/trveNICEtUlNr6uHKcUfxQ3P8UgTN+yyjWorQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35.class
+SHA-256-Digest: k5uouXQYzVfiy918mkL3DeRLj2853/YHTh4RcbZ0iOc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25Cliente.class
+SHA-256-Digest: IKlUMcxLbyEySHrxrrEbnRj9ybOG1xTIIrAVQv57cjY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$4.class
+SHA-256-Digest: zThHvbzU8mhKsJoEp7Nl3PW/rlg5kIDcdoAkY6MzTvQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ $6.class
+SHA-256-Digest: P2f1cJYOJqX9N3LtUpdJF90l5OUJ9PNRHJ44DRyl1e0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$6.
+ class
+SHA-256-Digest: BMv2WLyLbdJM/NIjfCQYRYBpYLgsZoBCgLDJD1P33/s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01$4.cl
+ ass
+SHA-256-Digest: x7yYidglZ421X/QMCyLQfdpVNXjbm3nq242g1gRPXOo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01$1.class
+SHA-256-Digest: HbwSL+13LTpoIJR/TXOaDJcPDqgID3DNL/RL1VAxsP8=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Filtro$4.class
+SHA-256-Digest: Ht8bNvmGoOmaUwJfgOJAnE99i9qVLoITgNzhSXSlifU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Anticipos$3.cla
+ ss
+SHA-256-Digest: o+5Ifh6808Qzr0ysPEy/FIq+F5V6WhsJvjBnF8ex4RE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35Anticipos$3.class
+SHA-256-Digest: nxQQJbrgawN4EiqrtFv7jqDwW//RkpoWLkPiTSaixGw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$15.class
+SHA-256-Digest: mhjWOvoojpO+9OYKO2notMLV9DIU8B8lyv4sKcYGEf4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$8.class
+SHA-256-Digest: Yk0BvJPppMDq28wCCIol50xq60y2ojNgr7mRcxeMsgY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Anticipos.class
+SHA-256-Digest: xwLkjvGpnzW7BDuFuH+8K7mAi3egNlVUtM1Z5Xh+6D0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Cabec
+ era.class
+SHA-256-Digest: z63dwPsqGn9iuL+eovu+h5Sp7trRqBqDm1tr6eO87Eo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Honorarios.clas
+ s
+SHA-256-Digest: vKnODN8I+7W/NpwZ2RkQuJj9plR1iW36hHTxGtjwEvI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$9.class
+SHA-256-Digest: Bj22RLbHt3zETCS2QSUYG6ndBMHx53IUa2+dDWc4I8w=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$6.class
+SHA-256-Digest: E+KgrCYZ3rCZxTRVCYgAPOmyL6nzFeAS49p1WIJ7mFQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$5.class
+SHA-256-Digest: mEnw4ZsgajVUw81ozU8ZhLuEzuJDuIXm/ZxNry8Nk4Q=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$10.class
+SHA-256-Digest: bW6muqBpwScaww18EblqFKIz9OgHS2VVqq3qN+jwqPw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Impuesto
+ s.class
+SHA-256-Digest: YpQgc1b6T03Ck6j6DlPwacP78a01F/XlbuJfvn+AN4o=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $4.class
+SHA-256-Digest: Oi0ftSFdMKR4CLVuD28T8DJLTtRT2avNmWbXHkS7tm4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01FacturasAutomat
+ icas$3.class
+SHA-256-Digest: 1kQLpkpddEkyxlnDCLS2NHdZ/wE0JX+jDOebOxEgI8s=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25Cliente$5.class
+SHA-256-Digest: klAjWyZZPiNYeeQlca7VaNhSYBJL+YJ63xmy/YMF5zY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0202Facturas$1.cl
+ ass
+SHA-256-Digest: +0SLVHOFOvdDf1UV7PkvnUowG0LiZOOruYAITLNGTlI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Tabulador$1.cla
+ ss
+SHA-256-Digest: tfJpfAtEypRHLUtAHnqevrZf+K+tj/sPHSeJnTL1gu0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$6.class
+SHA-256-Digest: iBdFeNwUyhjNa/4qvhT4WyVW5MwHnLZPIY5rdCSF8B0=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$6.class
+SHA-256-Digest: pUmVl0t6SnO+IGySSPg+M1f4gAa993JyyDrWc4Kf9U4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $13.class
+SHA-256-Digest: j+urqYapeOAR8lndNC5VcZ9tJfBWzu28DTaDm47QMlk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01CodBarOxxo.clas
+ s
+SHA-256-Digest: NCtsIM/G2c5vAmAej/SWtsZ8YgcBd/AHRMqFM+sOOK4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01FacturasAutomat
+ icas$6.class
+SHA-256-Digest: qpSyi1vVg/UYtIkE5sqRvhjTw5Lg+mCGURlIjXrkMcs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$19.class
+SHA-256-Digest: aNXZuAJHKOHmkB9uOOXLOSsp0UoUfENDeyA8/1I8NDg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$8.cla
+ ss
+SHA-256-Digest: IdGuowMUviJXbHPiQzZWoCPQkD216d5l2PLYTrvP1YA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$12
+ .class
+SHA-256-Digest: 3s8SSZlmI/RghB2ECpDDsqmKaMCiHtToy+0zL9Msh8k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$2.class
+SHA-256-Digest: D7DQnHd0xXYbrbykeY34aI2X9hQark3p/zIkuQnPj5s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BuscaProductos$
+ 1.class
+SHA-256-Digest: 2tE1XBTdW0XSTxMWJb5aypLBpptOlNb6XxvyDbPupZs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$4.class
+SHA-256-Digest: NfL++35wHc9qZ5zuSr8jWQbLASfwycaabeAjAhQ0wY8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ $1.class
+SHA-256-Digest: ReYx0WFnWuozZkLjSz0dC2Vz6d7WSST1OjF7bAv7w/Q=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$9.class
+SHA-256-Digest: PabmIbC/c9BUwHQEn7xA5aKI7eQVL+8SZYlbNUSGPUc=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30$1.class
+SHA-256-Digest: Y30ROjggxqt0CtySJXFUWjFfoh+qxdK2PbMn2NLZYkE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ $4.class
+SHA-256-Digest: jPrR4jQ9jZzNsaKpBBFWEghr/2IOCgtPeaLPlaDwFiY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0205FacturasImpue
+ stos$3.class
+SHA-256-Digest: ujckfyaEoS9SCLb480PtAdK07DOFdTCKx25XNMYYdV8=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30EntreSeries$1.c
+ lass
+SHA-256-Digest: fjDMxtZ5ae9RgeikULIBYN5LK78r8/ej3NsRQKHICV8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles.class
+SHA-256-Digest: n41QSRwlZxN5G9t3Zv1rMvJLJSAT6kMgze2h0GKZn3c=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Cab
+ ecera.class
+SHA-256-Digest: L1VSxueqg2hbhAPWeXGMGNEdvNEut/Vlcpu+p7LDXrY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Cabec
+ era$2.class
+SHA-256-Digest: lFUuWWliFxXiy4S0nemI9zUdfFAYic140yfJbmG8l8s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Cabecera$1.
+ class
+SHA-256-Digest: K+tNAd7ca3AvZSc8IKj0PS1oE+IrwNYECfOtyPadlcE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$29.class
+SHA-256-Digest: 3vwIjZoR2bbolGL88IJal+QboyC1uqR9nwADOuAKoDU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$4.class
+SHA-256-Digest: ZHNL5zkSW6wh1oL5WDP59/VrBnNQG0NyLhYANGLThGk=
+
+Name: mx/com/jammexico/jamsiguepyme/events/PymIngrFacturasBarraPiePres
+ sedListener.class
+SHA-256-Digest: kShhyXDFxq1T3NG+esOc+CflIZU06hdYdwX3lVfFO+s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01.clas
+ s
+SHA-256-Digest: KflJgwMf6BeqL+unrljSC5DHGtxtFNcuox+boOeZjzY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$2.class
+SHA-256-Digest: Z6TLGpGAqQlXmGWB3h+iX6eWckVSeZQqqvG1LToZgiE=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$13.class
+SHA-256-Digest: CvKBOtdV1T8vl64CUbmITw1TnaLefsNcRy6RwL8f5BY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$5.class
+SHA-256-Digest: Igpx7vqDzvlKhnvVZmmHOCeRFmLPMrCPVFICDq7c48Y=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$33.class
+SHA-256-Digest: 9DMn38Qk7PRauX6Xc9ETah9mqKJ7KowWiOQwL4TIigg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Impuestos$1
+ .class
+SHA-256-Digest: 3TnSryiHWFbJXnQSEh6pZyCzRxpyS/Bvu4riOD8Rdhc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items$12.class
+SHA-256-Digest: Tfe++jopdsleiNRYFQCASqjvfzFYdHf4afc6AbJt0kI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Honorarios$2.cl
+ ass
+SHA-256-Digest: FHrsDuj+BXqRGUIkG+3W25Ty4UnVGQy+JKISsad/ymY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$6.class
+SHA-256-Digest: b6JA/5j4GhgLhHPD86G30n88nTLa8GYjcaY0rpMtYGw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$2.class
+SHA-256-Digest: ctcN5P83nEhFj+3klnquw3MEE0xzcmTialTd2msSgtc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01.class
+SHA-256-Digest: fDRj40e7SCBmXLSD5XApCKLdsM+gLOnaMGepCh4YYxs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent01$5.class
+SHA-256-Digest: BRo9bwnuAE3YOc8Y06XOJQiXA2LEX9+5S8KnwbAoEp0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$1.class
+SHA-256-Digest: fKfPYo+0MmBDYLJUOmaKXQAOUe9nZaTujyNxKQLU5YY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$30.class
+SHA-256-Digest: 6FWhSJuGMfzoeMSE4T4eiw+ICYJzHo4sCdZ9vCk6nDA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$1.class
+SHA-256-Digest: gVZKOcRw2lpcBSKEuVMdlutSq+FdrIftFgw3w4YiOZU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les.class
+SHA-256-Digest: uZSM+pijClL+ZnwT75jbzCfHZ7h0pSshEsMStHNsXW4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Items.class
+SHA-256-Digest: H2ySIu4m4OXAATRvh7N2QeWpBpPcZKiIuXvnstSLBwg=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee.class
+SHA-256-Digest: KKAxrHXCU45pPrsWcYs44K4VPSZ61JGunygrY4XdmkI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35Anticipos.class
+SHA-256-Digest: Ugrm/7DWJu2SfnzEnCfa02HNw2cJKdWGESOAHd1fKT8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0280FacturasBarra
+ Pie$1.class
+SHA-256-Digest: jXHOPcaMEdFZnaAPdV1UnTYUWSAoTZ7QU7+Yx50FV90=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Filtro$4.class
+SHA-256-Digest: Ii80NoIuhFBMw3dnRgEDCMTuruEqMK9nbhN1Z9cWxdw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$10.class
+SHA-256-Digest: GHPT7ViZBnsk9jznctzTGei04BaE6Vs0dzKh1n9Xd2c=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$27.class
+SHA-256-Digest: FfJjihg3jM83ARjMndT/bxk4ffaP8jzEkJHgyGUvilg=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$8.class
+SHA-256-Digest: 5fKaPc/CQDIXSJNArhHpsIpI8w6oeUlqIWPH9uEEsjg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01.class
+SHA-256-Digest: gbfcvEVNZFmp+97JngdpB6c4vLYA1meP6/6LJYJhX/I=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$8.class
+SHA-256-Digest: ZuR++h2BnIxydTe3IEARlvmQLUMUAy78whjJ1zy92nM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$2.class
+SHA-256-Digest: g5gRoucAgEJndTzmfzeHHXLdlzKZK/+bWGQOqrs0a34=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$6.cla
+ ss
+SHA-256-Digest: ZlQu21m/BAlqeDkbsZi81cVzzxFX0emFxK/2qU4YRCY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$9.class
+SHA-256-Digest: /nbNWP3klzOdYcCnKIvXyAXptusGrrnXPJ1BvgR0ybQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$7.class
+SHA-256-Digest: n2WFlZ3Zu83gbszBRodsrTmMFxFzOF9h6HzAYA1HTV8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent24$3.class
+SHA-256-Digest: G3st3dvKUKFxgp7rhg+rFP3tRQLuVyoZgexgYo5sT/0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$9.
+ class
+SHA-256-Digest: 64HKZh9HclpVx/V9/LxfBCVB4mSfebIKW36oY5gx0A0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$8.class
+SHA-256-Digest: Ex2BBCTT2+znkJxYWU/GladKKJY/HgLP7I6FmqH+0z8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01FacturasAutomat
+ icas.class
+SHA-256-Digest: xerHx86R1Wm6uiCJK4ViWkc7em9jKTEyhQYrHIeQR1A=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$5.class
+SHA-256-Digest: orJGDNrC4h+EaiaNShNxqV4ExxvJIV9SN0fZG24gV68=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$10.class
+SHA-256-Digest: Ewv7mTknjwPqQcolBrYoSqE2phEpXoMAHX+oCFtY4Q4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$9.class
+SHA-256-Digest: HXn2dyOE3Ye/2IsShR/v8KqoNJaQL9eGBF1PDN8ZaAI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Detalles$10
+ .class
+SHA-256-Digest: fGPZT/dxgkboXS10TlnbFHvhvJoMKB6fzevzFX+ruV0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent15Apartados.class
+SHA-256-Digest: h4tdtFb77KHlACCAWruGBiOJYTWd+M+drzWrdqYxc0o=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$9.class
+SHA-256-Digest: h69TShq5+cPqOLraDq9U5hOLc50SZNFmFm7Vw4bx97M=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$2.class
+SHA-256-Digest: 9hFtjzBKMp0cwvP7kpx3+t//Mlr1i/xwVpUcGbSMeRQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25$7.class
+SHA-256-Digest: bCVFp395ozCxuh6Tn8laNUBw4uYTk0EDIv22yfGohIc=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$7.c
+ lass
+SHA-256-Digest: 0Cq/rDbfaN4Wydq1dwnw4AeuS0rvXBTcEt1wFv0LM38=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Stock$3.class
+SHA-256-Digest: 7Fk6asFn1JBdBY+ZorDKanAHHuSG85t7sKwlKe4mj9I=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0203FacturasCabec
+ era$10.class
+SHA-256-Digest: xBZO0PjuUHyDrPcOUHSERKH4nvZZcBsf7cDKhIRh1JE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BarraPie$1.clas
+ s
+SHA-256-Digest: JDWy7+AzaOue7sPutXzzzuol8SA5OxS04ixqCOzxeRU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$3.class
+SHA-256-Digest: +o3Fl3XGyMh9vSCrXWCLVDfL1/8fudX3qw5MRjfoKuo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0204FacturasDetal
+ les$11.class
+SHA-256-Digest: vWa0kJKz2ygBSfMGg1SubRLN9Q8EVw1Nvh+pX9Egbtw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$4.class
+SHA-256-Digest: MTsLoY6/z3qMWqE1G9XICp/jU3Pry3s9y5oJzQ5fxC8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$3.class
+SHA-256-Digest: DDKCFDVDXXbV2tvyUXpYCu9S9JhRaM1cTiZWZ3NBz3M=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10.class
+SHA-256-Digest: gRr5pF5FoxcwQbEQ4ciSrNGu8wLOMYWPxZcw8y5MoaM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01$4.
+ class
+SHA-256-Digest: LLQ0iu5MWxRsimCI/GjhlXalb14SdUX2Nj1I5UUiLp8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $1.class
+SHA-256-Digest: zVmMmCEiv8gUZs7B9LA5+6qKrjM/Uvpftg8NqeP7uSI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Fac
+ turas$1.class
+SHA-256-Digest: hCx5tlxxXTSZoqvldzzgU/+NRnkve2BgrV5wySGHm3Y=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30EntreSeries.cla
+ ss
+SHA-256-Digest: BXuA/EvHhqt1AFYEE0l+Uq3wqXIRLCOLOLDBX3YsvIY=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$12.class
+SHA-256-Digest: SHa6NtJYDuxMQv0/t6J2+I9/Hr/ShECWhbTvqkiCs6I=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$1.class
+SHA-256-Digest: MqHd8d1pcBcqb0x0YjNcjZq9Xfsd+nB5fYhHAcInBM0=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$14.class
+SHA-256-Digest: 0287wBk8mdFF6ZhPf4mBMFP8aMnOP5KEeUXNgf2pwMk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01ImpuestosItems$
+ 2.class
+SHA-256-Digest: s7+WSgDjtVbKl0/M/38HhqMkudtzSrO2Bp24pCAffUw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve10$32.class
+SHA-256-Digest: fg2P9rr1v5QKNFEq17gj0beATmTEL6XAS7QpUgMrUaU=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30StockMTC$4.clas
+ s
+SHA-256-Digest: TjaAxPqacs5RhcZ0hWa2IxoUYfpzYqPk5yRHd630ow8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $8.class
+SHA-256-Digest: wE9CNp8QpqKYa48WM+65XtotnkmKV1SahatJtVkBq5s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$8.class
+SHA-256-Digest: z6SdSOEPXkso+Qe9KUXES7BZAKOpjgJpSRCWmD+z/OA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0201Gastos.class
+SHA-256-Digest: H5u8UCAXFxVjVNwTmKQrYxot7zisgkIdGKL6GNntxr4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$10.class
+SHA-256-Digest: kqt2pqsaWr/YJhls1wEy0wM1sqLnbhowypg0UzdhSlw=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30.class
+SHA-256-Digest: Y/0fK6+r3SB9xxj8m0SjbT8x17RWxXA4Y3hY4TjocE0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$4.cla
+ ss
+SHA-256-Digest: GH/pkUSWpv4X9f/DU+sgLeCCNb/7WfBIkcdt8FfuDqU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $2.class
+SHA-256-Digest: R6ajL99t7jKgMEejZn8EIjmofSTSWQ3HEg/txjO4LGs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$12.class
+SHA-256-Digest: EDfiFVjQEFUd/OZ8jW8r8/QvmyBUJxNBOLvvSDfIPDg=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$8.class
+SHA-256-Digest: 4ReA6XTK4nOjEfsPTYbMMvqGeiH8rN84bBGpTbV2OtU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent15Apartados$1.class
+SHA-256-Digest: ismOzAn4Y930mbLs2YiVYtJpB1uHn5fF3j81gIADdlQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Cab
+ ecera$3.class
+SHA-256-Digest: ae7lW2Ay3jiY5/SlAWFSvTYygGMp2HCTiH5ol9v02KQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Cabecera
+ $2.class
+SHA-256-Digest: o9HeGV8wuiv08BmXQYGyO3jpDV/mhGT+KIvv49I+Mbc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01BarraPie.class
+SHA-256-Digest: tt4H+iyh1ISCDwUvzHKle+yERjNPjx1nn3Vd/RaX2wE=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$8.class
+SHA-256-Digest: trDH/keLH1suqd9uiJar29cMShq5fW2c25+xVxoLQBI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$11.class
+SHA-256-Digest: t15FWTJ+GNiAj4NrOJx9Lg3pMwludUUQoT80mpb0OP0=
+
+Name: mx/com/jammexico/jamsiguepyme/events/PymIngrFacturasBarraPiePres
+ sedEvent.class
+SHA-256-Digest: S9z7JOwHrwRilgEnBCQBqxlJyERaZ7O4QKwLIIm6Zy8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Documentos$1.cl
+ ass
+SHA-256-Digest: M0ZModYKyG/StBQzY6iK2PSYjXYhWeceUIhU3Jm3P3I=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent24$4.class
+SHA-256-Digest: Hcm9luvTc//59NOan/AwA9k+h17dJOB2ow9G1NQtnCE=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion$2.c
+ lass
+SHA-256-Digest: rN4C9rf0Yh2R2mdHwbcSdRYvnRqUXXrO2IO3sje8UBc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$6.class
+SHA-256-Digest: ZP9hpVp9ClI9N0A7oYRi+OUetJXnAIdTma3WIyaIyMo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$3.c
+ lass
+SHA-256-Digest: X3XAMA6CmXw8+uwfFoV2StD5qrrZMl1QytX0EWuzEjo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Cabecera$2.class
+SHA-256-Digest: 2dXbsiWpWCcLtRnyoavBOBzaM9iIqZFyWp+3rcpyf0k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Cabecera.class
+SHA-256-Digest: U8cZrDTT1jbhDnp9uMI9BgG7CrCDEDL8NkmB3c4tA54=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$5.class
+SHA-256-Digest: z7WlDdc9NlCi7iE95PYh8JG9iqIBytu+9bysHK0BxCk=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01$1.cl
+ ass
+SHA-256-Digest: chX6+AhpnxUPkNHlNTOaugFwPOOwnS9ikfd7KLmp+Dg=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Busqueda$1.clas
+ s
+SHA-256-Digest: ppKWQtMuYTIv/v/LhAOFRo3AQhuWW5N+5xo4KOOqCKs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent24.class
+SHA-256-Digest: 2Y+dlFrDKSFtPJ3Vc4ijMU2UGnroU+zbP5uU5IwRpJ4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$4.class
+SHA-256-Digest: eBiir6pY13MdT2thhynPPGjpEN5Gr8zHbO516/CfFFE=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$2.class
+SHA-256-Digest: p/L4eQgZEf6EQEDOlTuGcI31Asl7V3KP3iOGHQexEVw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$12.class
+SHA-256-Digest: hpdfwGYyzmDC/MTWdDdaenJad5aCCCmrmFgSyxzhaa0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Items$3.cla
+ ss
+SHA-256-Digest: URXpb3knzy8QWbckLzupWvgPS58uE/UFiM8lP4T/suM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$5.class
+SHA-256-Digest: x1bQcwfLEPbIUEOXIMbdEHAWxFHdno3fMle4eT07/JM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35$1.class
+SHA-256-Digest: udELlTW961/Ga9uyfvGGt3rronUWn9xXEYNLSZg9HkI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $3.class
+SHA-256-Digest: Y7+c7Ev9soYaC4Hx77TgJRsKDKONF9J2xmEBq5aDiag=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Cabecera$1.class
+SHA-256-Digest: ptpMfs+MZrxnrVFlXKHBBAQGtMsBvCfkvfv9fgvpXKw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$1.class
+SHA-256-Digest: KYKVVsF5vvAQlAabp85zWxZKcXFmGbwGiBOcsojEyAc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent25.class
+SHA-256-Digest: mWztIOXjiFz0imI1MBU/E5Tws9sHWXyi0IjBkUxLQsI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Cabecera$3.
+ class
+SHA-256-Digest: LqgF66o0ufWgdlR573MtN6UpZEI06dmvQin9RmLCLxI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$3.class
+SHA-256-Digest: uF7VrqfrTpXpZpiubX/c2PTy8X2wKUaXSuXFwgBjQiQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Entidades$2.cla
+ ss
+SHA-256-Digest: xEt7JPY5jqJkVq2JC387sXcyW6YXAwA/uSYSZ6ZYhL4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Cab
+ ecera$2.class
+SHA-256-Digest: fMw/oEII9LWqpmG7XHdk/egKnX3k/xUinSRplKsnZu4=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$20.class
+SHA-256-Digest: QmMGBokLYTqom8uUruE7ahZI3Huhg8cpHr51mgz/M3g=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01ImpuestosItems$
+ 1.class
+SHA-256-Digest: Bc4M70k9j1KXGil/CfhI14kP7gNn2/gyGyOo63cbdVs=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion$1.c
+ lass
+SHA-256-Digest: 0AWOy4Qu8v38JuhFaO2dXpuPnqc5N4JVE1TNDpNVC2o=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion$7.c
+ lass
+SHA-256-Digest: zvl07gvisE8EzNyBJO0PNzFZ7V0hVbe0YaS7DWOYClo=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$7.class
+SHA-256-Digest: 4bN+ac+9aIP4Ed935fLzedPz73RV565HYHCmvi1i4dc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$3.class
+SHA-256-Digest: 1u9lxbDp2iZjAbWDbApn80AJWvwLXjENIgAqVvPRRa0=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30StockMTC$3.clas
+ s
+SHA-256-Digest: 6lGopRy7DDLV9Oetsf2lIil/dQ5NEZz+WJZ/R0vU2ts=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$16.class
+SHA-256-Digest: pWP3tTBOGW2v3UEg3cGa+kZxpPVOpM107A/O6HewQVI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Impue
+ stos$3.class
+SHA-256-Digest: HXayTlNrXvkponNv5HP+ejLPxd4MTt4K0y+Wkwx33t8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35Anticipos$4.class
+SHA-256-Digest: AZk9Ou/lHz2ASev8um17OYBcADkq070E52jBqBtpRcQ=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$11.class
+SHA-256-Digest: d/Ro95lAJE1KbCVY94d+AieKg4wLZmDoUzm96yX+DJA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$9.class
+SHA-256-Digest: fLm0oqMYlM4OzuNqnKjEItjriomAN/Ala7V4bz1M+mM=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Entidades$1.cla
+ ss
+SHA-256-Digest: 5OqbpNVnBr4prEJeUE6aDzB/q+feB85/tWSBK1CpaXA=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Busqueda$6.clas
+ s
+SHA-256-Digest: pVbMQhZLCRrfVcDcocsOCCDaZPeaVsAewZ6dHR3LYUg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Imp
+ uestos$1.class
+SHA-256-Digest: GsMfDd54AvmlWtasKAmSnhxpViwpx1geJSKd9H5dWp0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$6.class
+SHA-256-Digest: c5m5vihBp90loAKmMWpOj3Fo6O/jtP8cYF9Bj3tc69k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Cabecera$2.
+ class
+SHA-256-Digest: wuJvsu0lCHN8EhFJuH0iuOKPk9OR3sJlmU2QWNiS7O8=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45Series$1.class
+SHA-256-Digest: HsSOQDQmuxDsLMaZkZxTfxULLnN+3SQSYuwDyStucaU=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$7.class
+SHA-256-Digest: aCadWEvjwljDccRY6Ng4EvQ0ktME7Aa4ebEXZDlWAnM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent16Ticket.class
+SHA-256-Digest: 8NbzrWzetSqcSd3TAJKZNd30MB8+aB5iuZQJlWBVlW0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Cabecera$4.
+ class
+SHA-256-Digest: lGXI5HS7S0BeBCJSCfFY/FiCn8Z890VEJ/toWTwZApw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$7.class
+SHA-256-Digest: 3Fe7pGkGcp9j0Dt1ev9v2ST2JXJUPSivHDI6TpHyIbk=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent15Apartados$2.class
+SHA-256-Digest: samOv2ko57OgwdC9yUVz9kSY/IxDj7qB5BbAVsKiwMI=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$4.class
+SHA-256-Digest: lGqzmcetQqjTMtVoKj0TiQx2jGkpvIZdcPHck4ZMMzc=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr30$1.class
+SHA-256-Digest: JvGZCtVKe0Wjwwt+otnvLYRU973LOWM38zQFd1ZyHDA=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$4.c
+ lass
+SHA-256-Digest: nfsEkOQgxTnSplF12VywRi+lBlbXhAssjb+0tgrTh8k=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45$8.class
+SHA-256-Digest: jNpTGv0xH6Zp7swnD3VKEoVuZV5S4JHHxJalP4e1sWs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymEgre10$10.class
+SHA-256-Digest: HrSUPgmf/f+CfYBWyqysSQfZolZjLC0Zol3KUd/zJLo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Busqueda$5.clas
+ s
+SHA-256-Digest: 4iJtW2VhnXgqHWMUYZk0rR5j2N2Zb6jWkznuUcA7pO4=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45Series$2.class
+SHA-256-Digest: xPOcV1JLQe82AvIFYyZ5e+dhNJTpr2/BnxOaq9eY7gI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$10.class
+SHA-256-Digest: YhKRIsnI8Kl3zG7uCohKGRsCc581jUbv8vLp0zKPIaY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre0205FacturasImpue
+ stos.class
+SHA-256-Digest: MhpsFcOiGXiscBmbfi8wUxdNV+XarUiqheL9qX0oZNs=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$10.class
+SHA-256-Digest: qdgvcvfRNYx71wzT4wyBrUCuj/LrO2jBOMOY179IYL8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Impue
+ stos$2.class
+SHA-256-Digest: poAsH21lsaaNnbSBoWDfkjOAg/YWci4UT5zenoeDxDY=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$5.class
+SHA-256-Digest: SYw32fgwFh8DyNyH+qvgiiZtMWytvIoDGKfRa8od+K4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$8.class
+SHA-256-Digest: mUZyPzbeVdIMM9qEhWpDL/Fom4gPArlyYbyxhNljfdA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$7.class
+SHA-256-Digest: ONHuZyeNX+iVn7d3Iap6g9xAx9wMzWhtbx/9ZJMWVCI=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion$6.c
+ lass
+SHA-256-Digest: xc2bWVZc8zXQEaD7KSv9gYJzwBrR/QiAMIsBLrspuzc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Cabecera$3.class
+SHA-256-Digest: 9bFDUKhMnNC9TnrbaFXGZ3Q906J7JBV4holE8FBsH8I=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01$2.cl
+ ass
+SHA-256-Digest: XD2zes040r9j7x6XhLB0/jm86hFFcd+eb1Jc4/RH2TM=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Stock.class
+SHA-256-Digest: smnWT1pdIMqdj9FTT1iUahPhZ0oMEk0WsnPOt7WoyhI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01ImpuestosItems$
+ 3.class
+SHA-256-Digest: Qz/Lq9LFn/M/HUkugsT2G+/dmpcDYXSsp292jrBoPa0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $9.class
+SHA-256-Digest: baO4kud1Qm1gaStgfwnoJOL619/lP5JhqcH/vLWzRYE=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$21.class
+SHA-256-Digest: b/Qg1Bfw6bb2EyO5TO88ERkXPhiyL52CqQIy5ruBsfo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30StockMTC$5.clas
+ s
+SHA-256-Digest: xVEawLGTaJG7uOWYEEMnIxwJug43NG/PWTYzDe+q83g=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$15.class
+SHA-256-Digest: xAPBG2MbkxazMpMaRobBf1cez24qoEvn2vFebvY9oGA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$7.class
+SHA-256-Digest: zH80ddQ020MgPqfEVIkm97jX/PV+MUoFxX9cZT5vZNU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$13.class
+SHA-256-Digest: bwxwf7RQpOB3wJF9bj7Q8C12zvCV+I2dqwiFDToT6MI=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$16.class
+SHA-256-Digest: gkOuuXgj+nj5aJmtfxaycSUAz3qm7KT7EEijjiEhg2Q=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $6.class
+SHA-256-Digest: 9AgN2lY/zxQf++Lv+hswHFJOhoSnMxPk7cYXY8wLIcY=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$12.class
+SHA-256-Digest: F4PbIJbDELx7jJakcqARYwZKbAhw+ytk1mBOn8ZsTa4=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Impuestos$2.class
+SHA-256-Digest: YToeYJb+1ZXCuyJCvztTi6VFBRX33iIL1NjLic4N6Ng=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ .class
+SHA-256-Digest: 5f5HfdR7Zpj+1IvIB80GaqZ/u13H5NLK5AuXXDlNj5Y=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Entidades$6.cla
+ ss
+SHA-256-Digest: wecDjVQnGd+77kjM5uXC7LczGZ3hdCcH8T65LJd6Vrk=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30EntreSeries$3.c
+ lass
+SHA-256-Digest: 6dM1UOTMAMkCNpQ0wF2TOpJ+7em/hUkIQhNllMaQn4w=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$19.class
+SHA-256-Digest: WFc0YcJCcw4CRWTwS3miexqOWitjvrUsCYV7v62tqbA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Entidades$3.cla
+ ss
+SHA-256-Digest: hcJKUaNz4MICoAwFHjkhxK8aWx5e+bu7Chx3i/tEcxY=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$24.class
+SHA-256-Digest: ET8DF/rddVygLfDB8vEZ1LycIHT01lW5xsHgvBXDu+Q=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Cabecera$4.class
+SHA-256-Digest: bMgycRUwjFGG20aIrvv6gWUlqrRF+yWDX2k4S1/xpzo=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Facturas.cl
+ ass
+SHA-256-Digest: xMPqlOPTF6/nxQWQzZ8epK7Am7NK3th0cY2oN6cmVx8=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$12.class
+SHA-256-Digest: 0TjR/LB5Bb0kn47zJGPwk+D0z7HlK068ZgrbYuKXwbo=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30StockMTC$6.clas
+ s
+SHA-256-Digest: Olg+rVpfkg5EY/0SKilwXxm9Wd4jI7d2j+kXL99kL30=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$7.class
+SHA-256-Digest: qk61W6h6j2IorlBtQfItyrQvD0a7+swGmqdmcZROIQY=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$17.class
+SHA-256-Digest: aqpRicA22etmr0Pz1TifIDkeKTIP1P9GPcgAW4zLiHw=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45Series$4.class
+SHA-256-Digest: h7liDHk6C4jQgnpc22w54FSOR3z22fs2TXUxojHNCzg=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Entidades$5.cla
+ ss
+SHA-256-Digest: xhpkgR5OPi84eZcqcEyZEGVW5tot9M2mY0t80c7QF6M=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion$4.c
+ lass
+SHA-256-Digest: LOfjrlBlTHtRinuQz2FbqkuORJbh5DqlAMtzH72rxEc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$12.class
+SHA-256-Digest: 4KrBYbxJcX1LVeKv7paJHdH3r1fTL1+nZ+hzxlqiaYI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Impuestos$1.class
+SHA-256-Digest: UAnsuhJT+wrvvcF7FyJBedzHmTGKn8MKvrojaeqiZhU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymegre02/PymEgre02$9.class
+SHA-256-Digest: K3cKpRY2/950WQ6t1OXnJbbzPXS7/gv4YD2HZlkiCys=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Cabecera.cl
+ ass
+SHA-256-Digest: XmuY0AQLW0uV4qMmpwR3Awf1XxD1SLPylsJMr8gZ3jA=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Busqueda$3.clas
+ s
+SHA-256-Digest: WiYZWTjhEoVJ+tQOaxVyFpkY+tjf3MvN0QSJktdzRBI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$8.class
+SHA-256-Digest: NlTYOGF9jpMNieqG1Y7lwyCVBPXHX6XISVjFX7EEdRc=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/aduana/PymIngr01Detalles
+ $7.class
+SHA-256-Digest: A4P3T4PYCCD63MtWQonC0w+TO0T4nxu6fu95dBmZZNs=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$23.class
+SHA-256-Digest: wrRUPun4mru7nf7iVK9iMDlL/Y56bgIFb6ImFhIZPLs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr25$6.class
+SHA-256-Digest: 27C+e5xOsvHteOXlRJalFxaHCkf2rp2SiW/C8xHMRo4=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Busqueda.class
+SHA-256-Digest: rbhwJ3YKR0t93/sTmECKhS88k00q8r0XiOj9Qi6fnYw=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$2.c
+ lass
+SHA-256-Digest: Tnz01FxOQxdpvn9Efmdm8zhElI/7+eqG+vzntVMdBwg=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Busqueda$2.clas
+ s
+SHA-256-Digest: L1FZqjZ0ZNUOo2ZEEp4xQabhKZdmDhWxcrZRYpq18ng=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve45Series$5.class
+SHA-256-Digest: RXRU4rZtb16hIaHLXyZPzVJLIXmfa0RWdQgNNH7trSE=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Provee$18.class
+SHA-256-Digest: 3ok07NwLPuyzEOAqiOQMr/gotNlEnMQyON5zsLCTP2k=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Detalles$13.class
+SHA-256-Digest: K9z7Ja8H6iN4MmIG+Q3MtzSAEfVzIOj1xktO60XU74s=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/PymIngr01Entidades$4.cla
+ ss
+SHA-256-Digest: jNNlgGl+fdwb6LPr7zpLY7Dqs5tZ7PfjxmdW3Eh8o2s=
+
+Name: mx/com/jammexico/jamsiguepyme/PymIngr35Anticipos$1.class
+SHA-256-Digest: 1b5hsouTsXEGs6FUaYxBZha/9Q6LamsoSbCNWpAf0XA=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Cabecera$5.
+ class
+SHA-256-Digest: FJRbmfCSajtXYNkeEgI26wCsyC/7Ap0UtltVz8TBIRU=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/comercializadora/PymIngr
+ 01Impuestos.class
+SHA-256-Digest: pA3SlcfwwE9RJ3IbceCdNNhT/zLeXXw20BbnYtYthPs=
+
+Name: mx/com/jammexico/jamsiguepyme/PymInve60$13.class
+SHA-256-Digest: lJbh74414vTG3Rr77+D815bzy5beHRM2D9gERRvOcXI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/all/PymIngr01Impuestos.c
+ lass
+SHA-256-Digest: dd9gVvw8zkBaShKp0ltGHp8LQiVJ0pCTfkcYpx2xA5E=
+
+Name: mx/com/jammexico/jamsiguepyme/PymVent15Apartados$3.class
+SHA-256-Digest: l6oQU/KOgVLizM/28aE7Hc6CHLLWCnbIiwcnortx9IQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30Importacion$3.c
+ lass
+SHA-256-Digest: Gi2vwsWVekw7wTeSc96QU79B2iXg9KBPUy9bRL3qP+0=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$6.class
+SHA-256-Digest: WKyFvgeu+3xgmeoI0ObIrWH55JC5NneCVA3vsDqeUvw=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/pos/PymIngr01$9.class
+SHA-256-Digest: DtXEepLZ79bukUD+SITul7kpbPZZiWU4p6E4I+Wsf8Y=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/notacredito/PymIngr01Det
+ alles$9.class
+SHA-256-Digest: FuJMZUueiNRJ71NA6OJEJIzcyHQQDDM3P5dXp0LEtKM=
+
+Name: mx/com/jammexico/jamsiguepyme/PymLogi01$11.class
+SHA-256-Digest: Bar8+QYn5fRxc6ZA264v9MPY4t+BXvnPFAwaFDmOiAQ=
+
+Name: mx/com/jammexico/jamsiguepyme/pyminve30/PymInve30CargaRapida$1.c
+ lass
+SHA-256-Digest: 0mdn4u39OXIpthcOgFCsJws7HTyCP4MzYB4xtmRArZI=
+
+Name: mx/com/jammexico/jamsiguepyme/pymingr01/logistica/PymIngr01Detal
+ les$11.class
+SHA-256-Digest: e1Oq19U2Z0hChpfhQDvITz5oJy24LHq2CLQ1YESzrfE=
+

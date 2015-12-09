@@ -1,0 +1,1323 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doLeyendaPie.class
+SHA-256-Digest: 49jNKigQ46mSUidhsYYK+H3RjicCpQDUqFSr0HA28Ls=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cajaabierta.png
+SHA-256-Digest: kNQAWkhP41aINq19+2Nd7CP1dWrbJj+qIhlCd9frWDg=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/3c.gif
+SHA-256-Digest: 12BVnwn7L/glFmIqyWw9+8lLhbj3VhnKljk9NEiW/j8=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterGrd$2.class
+SHA-256-Digest: WVNyzegdZ8+SNGy3/IY5NoM79xgWtl0MtGp92StzdJw=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMInputNumber$1.class
+SHA-256-Digest: dEf3QOVhF3bNnC54vKpHqlTFNMPFqQRz2FAiW31oQlI=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonRControl.clas
+ s
+SHA-256-Digest: fAiIIuQk2y5Pm/i8/kinrhFA/66NCSTq2LuIzoKv4/M=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BarCodePDF417Bean.clas
+ s
+SHA-256-Digest: bS2Y4X+CQrvef00noYhSb3FERnCwIH1jQZtv4HE9ZH8=
+
+Name: mx/com/jammexico/jamcomponents/jamdebuger/JAMDebuger$2.class
+SHA-256-Digest: q7npSGRhZB92dqC1598+RY4Ih4izAIvVVRX3xDbrd84=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMBuscador$1.class
+SHA-256-Digest: Y8Tuu9MSNAkC8EfElCWnamvzArI6lYO8Jay90y75Lcs=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchKey.class
+SHA-256-Digest: Arf4wBAEkG+RdZSDPBNi+d+h2hxBWAqcnE+3DJIhiqQ=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$items.class
+SHA-256-Digest: Ay0J+tsF1dK/MZAtcAEH6FT2EL5puvXJP+GOiwQNxFo=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$6.class
+SHA-256-Digest: 1FcoHco3dIsUufHaQPwJsHlPoARosg7CAcVN29ddFf8=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/logo_hora_utcc.gi
+ f
+SHA-256-Digest: 5YJ27kU2Sav96D7SMAQVDeV8TzrvXYEM5yZ0kJXH7iI=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/JAMDemoCodeBar.class
+SHA-256-Digest: RUOeem4fvSX1pneDmSnr9ZJVoOt26Wdi9j2MpWQDP9c=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridEditable$1.class
+SHA-256-Digest: /MGMxzm6tym/dJMjLXQuk72EdHH5t4uXkAENAlFyOuM=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImage.class
+SHA-256-Digest: J9PwXb0WPYsAOyRACrCRXs9NMl9DdpNb4JbMPkav054=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/printer.png
+SHA-256-Digest: J56ihiRBEE5yKOennSJX9LnkMFf5sEQpd9AdqulsZbs=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menu/abierto.png
+SHA-256-Digest: JdRYXvkpylvtAYQxaz6DNfNXh9dyNDE0j1yTxXhAUI4=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMList$1.class
+SHA-256-Digest: dxrh2LYBr8yRvABw3EissGiewCBLHuyrrQueqh8qOj8=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere$2.class
+SHA-256-Digest: 5ihX/tvxjuYEGxhdjo0m7/WUA7rbqsadU8j7sq1oymM=
+
+Name: mx/com/jammexico/jamcomponents/JAMNumeroPalabras.class
+SHA-256-Digest: Zq9Sm1YGR6J0LfW9p2s7Ql1w8dSmK6I2dvJWFwOG15U=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormTreeAction.class
+SHA-256-Digest: XGk/0+LviRrTBvHaRbN9ncPbDAQs7+U+v61ap4Mzp7M=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/jam_chico.jpg
+SHA-256-Digest: uTod0ZKnst1cNzdSZYsd1nevHcCJdcZnV2gfS8YBnoA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/datos.png
+SHA-256-Digest: TnOMH2smpHVd/x3SVOHp4/My5Ot5cxqlmj1ktUpfVYU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/jamtucan.png
+SHA-256-Digest: JU+7lpUybQt1UMz/+Kuvh9WZawA8uEYTvt4P71Zy84I=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/icono_usuario.png
+SHA-256-Digest: HtW5v1+HzJK9O3NB4IvkkHsihXuU+OxzpC6kU981itU=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/alta_normal.png
+SHA-256-Digest: gRv0CeylQZXjRW7XXcyHTyv/WXdDqWBe8AqZ8lcdm7o=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/6.gif
+SHA-256-Digest: XuEjI7U2DdUXkXzkCh697CoYZYV6EPBLYbP/GX9Xvek=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchKey$1.clas
+ s
+SHA-256-Digest: wOLvsNkdfNAefN4pvXBpRMOgnWNpAtiXEiPd2Jc0bmw=
+
+Name: mx/com/jammexico/jamcomponents/jamcomm/java1902.class
+SHA-256-Digest: KVsLbtlJQyMFxy2K6kvkLPBRofPZlni2J9r1S14gTqQ=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridRender.class
+SHA-256-Digest: tDwnCQw3Gu2lI3fPDKyAvNbWhs5mgLOe4+DqsTQECvA=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMTree.class
+SHA-256-Digest: rCFg11U72JKRBvT5KZDlzZjH4o1AfXR4pW9u0u04FGo=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchTecladoVie
+ wer$3.class
+SHA-256-Digest: wPB4iJzDzJEHzGQRnn0qqlaHj7JdW5B4xpSOdr1FmxI=
+
+Name: mx/com/jammexico/jamcomponents/doDesfracmentaNumero$doUnidades.c
+ lass
+SHA-256-Digest: 2WXB8XFZJ30k08yJ6Vure4wzzsB+JPqBMU/r+N6RyZc=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMTouchKeyPressedEvent.cl
+ ass
+SHA-256-Digest: DQpwJSSfLbPXEB0RozyQUnJndVm3QLPzOLDnR5okK9Y=
+
+Name: mx/com/jammexico/jamcomponents/events/SecondsPressedEvent.class
+SHA-256-Digest: yFbgVo9CXbFyEqmSiHJms1nC0Oyb46XHjsOdFRSht3M=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormModal.class
+SHA-256-Digest: umJiakTjYllznJcpHi6z8fSr9SdriONzkw/w+4Mack4=
+
+Name: mx/com/jammexico/jamcomponents/JAMTrayIcon$JAMTrayIconApi$1.clas
+ s
+SHA-256-Digest: Ylyir5B66u/u+FNjYaHhZ7Yphp4e+wiy+qUocqUb6ko=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/datosc.png
+SHA-256-Digest: braaiji7HUVOo7h3bCoZHjXYFV8SRjSN3Ptwh9wfIBM=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket.class
+SHA-256-Digest: fkvyX1HcjUJxmEk9uQ9g6zkpr3c/esWjbO3syhMIERk=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/search.png
+SHA-256-Digest: 4NWxSjDVzDjevXsI6rMetfKfftCj+gz8+/6HeVJekgA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/sinimagen.png
+SHA-256-Digest: u/k3gbMGyCpPGxA+adOHHwl4YSaa75uWe0iRDWBlUQ0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/items.png
+SHA-256-Digest: OuWFYDUAmcCq+8cZoCicAyK2JeMyaW7Eh2eNjwQM+BQ=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchTecladoVie
+ wer.class
+SHA-256-Digest: OicATRYlXpNWbC1VuLQDhFZ8TTVUWAfsRtTkvelqdjo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/observa.png
+SHA-256-Digest: qs4yNpooK22k8Bx0vm1ersP8ncyZH11FA2tO+SADnZ4=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/PersonaFisica.png
+SHA-256-Digest: AhpilceyiOlykvQrrC95cd2OEVGOcIwRj+FNB1yCsKA=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridEditable$6.class
+SHA-256-Digest: wTrAb5bZ2CC3zdKldp8dNs3FpMs+0VkXVhQ2208Xcls=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/on2_chico.jpg
+SHA-256-Digest: qGIATWCT8sV8tw1GwyLMB0Q0BlP9PHchf8n94RkASGA=
+
+Name: mx/com/jammexico/jamcomponents/files/JAMDownloadFile.class
+SHA-256-Digest: w4VoZQCEw+yrKZOwVo9TCDnE5AftmiugmGML1kaoC2Q=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageProcesador.class
+SHA-256-Digest: rS0z+Z7rxVXWlz1Sof6MekFyVpCRvTtAmQrvGo+eJYs=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonDetalle.class
+SHA-256-Digest: SXUV7xLh6AweMvrqL4eZhuRzVDfkKp5PWpds9p9efHI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/impresion.png
+SHA-256-Digest: d6dTcgJ5ldIAgZEgIQqXjHEkE8DFYjRDddPp4DaJSZM=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/archivos/jpgIcon.gif
+SHA-256-Digest: ugHfyu523O857/Rrc5r9AMYo7q4sTrqVSER34nYqjoY=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMList.class
+SHA-256-Digest: tynd2gXoDIoc8r1ZiIlbaj0P4MQV5EBJA3925kSx+xs=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterOut$3.class
+SHA-256-Digest: FxocyXSY4jmhqDEbmBFL5dXsOYJ+8HA6d5BGze0ll9k=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cobrar.png
+SHA-256-Digest: DO5Z8CHDkdV7Gt7GjBJ1j7MGuP4nuFx47cAMFZfl8wM=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/logo_hora_utc.gif
+SHA-256-Digest: H7vLw+k1/lOFXb2jXSMoTGgK8YB9hdh0zzpqK+3XmVI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/retiroefectivo.pn
+ g
+SHA-256-Digest: 7S7OxbTaxi+i9Ny0ZY1ioiisPvEzxh/oxYR8ZDFt+V4=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImage$1.class
+SHA-256-Digest: shFvcVj2J0muYARO3CKGNKYdYUgViPXuvJP8NL1OE6I=
+
+Name: mx/com/jammexico/jamcomponents/doDesfracmentaNumero$doDecenas.cl
+ ass
+SHA-256-Digest: oxRR+xxDj1InmFkhaE/4ZhQbvLxnDj9q438FpAC2I90=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/descuentos.png
+SHA-256-Digest: 1e0sMYhqn2O5nwN10cABuENltQvmQQ/Of7c7oUai8uU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/ticket.png
+SHA-256-Digest: I+TQSXvZEBgbg9oPS4hXoG12If/h6SNowGETWHEL90c=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/modificacion_no
+ rmal.png
+SHA-256-Digest: 2Z3zqEi4xFjxq0l15DCqTdDrCUBKue+x816hJmub+qg=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchTecladoVie
+ wer$1.class
+SHA-256-Digest: j7HP6LsrbGRAvZPWMn7AbOqwOLIGvClIe4dBMV/BZfY=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/EntidadMoral.png
+SHA-256-Digest: cWtNiFfroQetCNzWasqX2aIWw8EwTI2oTgN5XFQXTaA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/7.gif
+SHA-256-Digest: yRY0vC4ZZMC51MW6aZvJ09NwqyMKcFOLMVv0BmKd0jk=
+
+Name: mx/com/jammexico/jamcomponents/JAMReloj$2.class
+SHA-256-Digest: AhkmIwtVz9WGPjJTpatBA+DO4ghXFiEbu9kcAdoHMzs=
+
+Name: mx/com/jammexico/jamcomponents/files/JAMCopiaDelServidor.class
+SHA-256-Digest: WGWTjgv8AsglPQ7lG9DqThCxKjfVJBbgtvFhvJSKgKA=
+
+Name: mx/com/jammexico/jamcomponents/jamform/events/JAMFormModalAdapte
+ r$2.class
+SHA-256-Digest: a9MPAroAOftwwzAEx/rNbAiahNjUtxNrifVBG30FhG4=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/sonidooff.png
+SHA-256-Digest: X18HZxJuGf7YBn6sFAo0z2WHfirCEUfnsjdkL9mS0YY=
+
+Name: mx/com/jammexico/jamcomponents/visual/ValidaNumero.class
+SHA-256-Digest: RXO8APiI6r4BfOiVdFufPVxqAKZMQuawNZjpRgneJYQ=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menu/acceso.png
+SHA-256-Digest: XA4T3HsBXQYFt0q9OlpG1D+gX8hZSmhSiWEZcpIzsTM=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterOut$5.class
+SHA-256-Digest: Z6pi0Ek4YjR3Ulro4ZbDrFWfgWf0Z8VdvqI43QIHjaw=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/JAMDemoCodeBar$4.class
+SHA-256-Digest: oX0huM8p4/KbVxg+Mofc7joyPel7gmeynp/RIuF4Xe4=
+
+Name: mx/com/jammexico/jamcomponents/doDesfracmentaNumero$doMillones.c
+ lass
+SHA-256-Digest: 9amoaly3w36pwM6cVLqAFid6GfCmK9p/Gs6QuK7YUT8=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere$7.class
+SHA-256-Digest: pGLT9VZ8WzCeufPRqn9okfgRo9/eqeQ33EzZsQ0B0fM=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMLabelPressedEvent.class
+SHA-256-Digest: TowF7lLbYksOnACRu0JBVPz5T2VTNMg+HDK+68ByfPg=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doDetalles.class
+SHA-256-Digest: XSfSPBLzVPvmMnXGn4L6Hi2lEd2Qc1IBf9xOS+kG8Wk=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridEditable.class
+SHA-256-Digest: yI5wIBPSULNneqjIuiA4i/Qrrrd/FLn2nrMDHHRvzPQ=
+
+Name: mx/com/jammexico/jamcomponents/jamdebuger/GetPnlInfo.class
+SHA-256-Digest: 6gsV1FiGzMubCwEvMzF6SUhu25Xjkh2lmYpPKYzNG0c=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$1.class
+SHA-256-Digest: vGAj8nWND+hbOkcpV79ryeEHkMtsmA97PPAuxUs29bc=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormConstantes.class
+SHA-256-Digest: SMLOrOA/Q8ddnsSwiNp0USZMgQzqXt++w0al8QVUpTg=
+
+Name: mx/com/jammexico/jamcomponents/jamform/events/JAMButtonFormPress
+ edEvent.class
+SHA-256-Digest: /4i4UjP90+QDfvIzJPpLQyQFC3kcHrKxKyLsepivGGY=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonCierra.class
+SHA-256-Digest: bOSYBvzSDxPDLVJgV5zM5qR77buPArmHx03e67pjDvI=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/aceptar_normal.png
+SHA-256-Digest: q8/z37CBDyHbjX8oL40flnk51yGzARqv98MT8Gakpls=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMCombo$2.class
+SHA-256-Digest: Z0lyE1xpLZn3Xl8qjb88fB9Vn+cRHga5q3nMgE0z9Ss=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/green.png
+SHA-256-Digest: Ve9FPAJgKckoB3XxIM8Jau8Mdojrsd2zVsGR9v7iUZI=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BCApplet2D.class
+SHA-256-Digest: /Qe0uFbkc++WwF7ofGLu1cPHyLVsVCwXKk31ejaKJBQ=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/servicio_normal.pn
+ g
+SHA-256-Digest: 7XMldfhkrZa6W4wNT2CZ6j3O59k30KBCsGgotgwLEOY=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/separador.gif
+SHA-256-Digest: DDrd8M8iWqffrRMp6HXi0Vffm8P4fGahKl3VdF5AIfI=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doSubTitulos.class
+SHA-256-Digest: BYZMMbiUcrtHcv8Mn2UMdrsHh55iqGTVLqZf+Afh2G0=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BarCodeBean.class
+SHA-256-Digest: TIvQorvl/19TQvf0Ny8xrq2sPjIgTXnb0CknDlbjA7k=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/informe_normal.png
+SHA-256-Digest: fyl9O85ZvdtY/2a/SOjjMj7b+xg6PLsSTTS5Af06V9Q=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/retorna.png
+SHA-256-Digest: TNoF7jMESQFiZEflf9aQSNhwNc1YhL01/od9boqoj8Q=
+
+Name: mx/com/jammexico/jamcomponents/files/JAMExtensionFileFilter.clas
+ s
+SHA-256-Digest: YJR9bSHtFUhaqKSoWyjqJ3lnHzLIYbVVQn8mhFFBLN8=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImage$MyObserver.class
+SHA-256-Digest: W48RCGxmndLNgK95rEjBceEzE1adHch0YikmuVLUZ0s=
+
+Name: mx/com/jammexico/jamcomponents/JAMCursor.class
+SHA-256-Digest: unPYp1Ky/g2bjdA1gEWzr+DF/sHse9zSdX4z7fGr74A=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$9.class
+SHA-256-Digest: WXn3OwjhnXBLd6YU1cIXColGJRwq2RJaYNOm4LT7oVo=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridFlatView.class
+SHA-256-Digest: 3tjblC17vvFbf06WLXDLXYv34TgnkVlqarawQ60AANU=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonModifica.clas
+ s
+SHA-256-Digest: WmzcCZMOrnFYL2VnXsizPiJ6zZjCVQNhANmZEs2Tlz0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/4.gif
+SHA-256-Digest: 9OsIoV6a8eSFa5Tni0te+vQc5/jRaJ5WF8uanYb48Ak=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMAreaTexto.class
+SHA-256-Digest: k5SAapne0GpZl5aeTo7s0iSmLTaLygQfDxtjxOkFWPs=
+
+Name: mx/com/jammexico/jamcomponents/jamform/events/JAMFormModalAdapte
+ r$1.class
+SHA-256-Digest: dgetWiIUkEp5mOqO3g9GR36IdN/TV2Ughlje3InwBio=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/red.png
+SHA-256-Digest: RHCF8OgyTMVGI5hxHlLqlEMEL3tOekFu7eQMzpYDebA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/vendedor.png
+SHA-256-Digest: U9mwD6bbzZltWc57K6v6NDlZIfhWJVBrVRkHh1+CIOM=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonMusicaPlay$1.
+ class
+SHA-256-Digest: BW4Pn/xheispAgkCzycdNHetPQT2EJN/xtQOWQTXrts=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/2c.gif
+SHA-256-Digest: EUSnuEycXfDuiNehFsCQktp86tD9ThPdAcZxHKjtzWI=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer.class
+SHA-256-Digest: HgRgpfXO5iBqSNORhL/S2Csi/Iz4urO3ZwytbyBO8wQ=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMImageExplorerPressedLis
+ tener.class
+SHA-256-Digest: FQxn2S1YpE2phJTtG0e+QW9r0rGinzG/yilpUg1wz/E=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/on2delfin.png
+SHA-256-Digest: sp+meOjcumdygQtKgOUPmTEAnWqTB6idTNS8nQUNsl0=
+
+Name: mx/com/jammexico/jamcomponents/files/ImageFileView.class
+SHA-256-Digest: zrOp71Jd+QijXMIs7vIUBOPuezNsOuxZctuXVVgQTsA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/Facturas.gif
+SHA-256-Digest: P29OlN3ztxOWnDQ1RHyDydSJR6csjH7oEEwFLBIw8Lg=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/domicilio.png
+SHA-256-Digest: HC8KsiPcnhWKfRbEsG1dvi/TWUHjRkx3ozNLZii6q4w=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMInputText$1.class
+SHA-256-Digest: lZHLLxCUrjjBdAKzlDwTm5hGZ1tA/n65NPRkx/erhI8=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGrid.class
+SHA-256-Digest: YtgSJCyAVLy8U7JTF1Mh/d2OcbhSm8yLs0hwAljCvpg=
+
+Name: mx/com/jammexico/jamcomponents/JAMTrayIcon$JAMTrayIconApi.class
+SHA-256-Digest: rT5ng3sY+yrLC9P2DUlPVM2BrALcvKowI2RIuxHlZ9Y=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/4c.gif
+SHA-256-Digest: W03hMqfMpLANa5WGdRK8ZGHafwoL7ViIItP3wb2dhiU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/logon/segu.png
+SHA-256-Digest: eo8qRLRQOlE1548RPEK0KO1fXSEkPpUqo2z3IWQzyU8=
+
+Name: mx/com/jammexico/jamcomponents/JAMBrowserFull.class
+SHA-256-Digest: 5KIfmhiprhCulGcKmLF+x9KI49V5s+LAxJfNFfIOpu8=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/cup_add.png
+SHA-256-Digest: m77yQWdBeXzGnmoXUUJe+jovE4mED/GKDN4Bs4TIQHs=
+
+Name: mx/com/jammexico/jamcomponents/jamform/events/JAMButtonFormPress
+ edListener.class
+SHA-256-Digest: CQEbAEOD9EHcSFKWvIQYzlMGPNILFOPbpLIC915akyo=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMProgressBarPressedListe
+ ner.class
+SHA-256-Digest: qMf3rDtfALUd8hB9oFkpCd60wilwqB93CqTF2FpA7wo=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMInputNumberPressedEvent
+ .class
+SHA-256-Digest: 2FrcfR92hiwVVU0iYkhh5G08AQreAD1N3+B2HFAPh6Y=
+
+Name: mx/com/jammexico/jamcomponents/files/ImageFilter.class
+SHA-256-Digest: jEiyinY8puznr5IR9YOxXKa1MG7STxnn6Z5peemhkYg=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMComboTree$5.class
+SHA-256-Digest: HQgmqa7z5C3tjdEVfgA7OKbrJMnYVf5K+W/VSB0DvSk=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/0c.gif
+SHA-256-Digest: zAGLTnEt9kWpJZIkjb/Bb8xROLAoFvs+Nroeh+FTEtE=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchKey$conten
+ edorjamvos.class
+SHA-256-Digest: CTWiD0xqOgBTTOUFuo/wbSbhvbWy8BVwqpe53onJgpg=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMLabel$2.class
+SHA-256-Digest: buly6BznzSeridRaHF8+ProidPFVCMSvkb+D3l3BnPU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/proveedores.png
+SHA-256-Digest: EyIf73ybFC34qHf5SI9Op5CrThxduwFpsgheLwL4mR4=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$4.class
+SHA-256-Digest: OIx0EUkEgCwhWB4UmABPDdebjFcgdKNKLLyf3/Wfidw=
+
+Name: mx/com/jammexico/jamcomponents/files/JAMAlmacenPropiedades.class
+SHA-256-Digest: FxENcTfwiCUzltLUPyUKdD+V+aE2XZnCnQntmuAbz70=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/baja_normal.png
+SHA-256-Digest: DBMVmaDUOhITYMpA4iPe4iK9Kwd+qTRkShJh5t6KNBE=
+
+Name: mx/com/jammexico/jamcomponents/JAMReloj$4.class
+SHA-256-Digest: VGTzzSUZnLlQ97tBbx6xtMgMdzWrPz7KG4Ul2t6zL/E=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAceptar.class
+SHA-256-Digest: gzWS10Z/ik91Y0W77TrcMDadoEcbEjZRJ1Uua5KCjHk=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$ticket.class
+SHA-256-Digest: TocRLzPaYlahD1Jc7FTsPfSiFtpn7z7NBWegXQyj72c=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/ayuda_normal.pn
+ g
+SHA-256-Digest: 7S1g3iyb61NlydBqBM2KixwheSs8aUZuec+xxXtFJjg=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumdi/SalirON2.png
+SHA-256-Digest: azSduCQlbB2xJ0N26US5FQiO0PJrn8mod3tGTKAePVY=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/imagenes.png
+SHA-256-Digest: zwP+IRd7Z5ETzZp+NbipF+u5/TX/dP6xbSZ4qDiSybo=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMLabel$3.class
+SHA-256-Digest: NbAMtVREAyTSOj8+vqoOIQ3VTypGDv0QMoIuhcFgr/o=
+
+Name: mx/com/jammexico/jamcomponents/JAMTime.class
+SHA-256-Digest: 7seZgXRaxEfoKHLCXeL2Qslu9rA+Zn/jL0hrA0rdi1c=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/printer/xls.png
+SHA-256-Digest: BKC0/+mEiyTcfD3e3/08alSZeo5DLXJe4RMahXgQZww=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$3.class
+SHA-256-Digest: AKHmTqgUr+B4Jo5s+7FqApuiQ3pequlGjK6EcpS5ifU=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMComboTree$4.class
+SHA-256-Digest: ioVP2QxWeEIfGb5qK0byBI0G0pu6k3sMEwBKCwrsPt0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/notas.png
+SHA-256-Digest: vzJY6HqQpfsHUocZ6QIHaImQKa2haX3avx9T7XuC39Q=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/busqueda.png
+SHA-256-Digest: dX8i3u+qv8y5Q2xOVVgD9KtOrDjszbs8Q06wWrz62s4=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMTree$1.class
+SHA-256-Digest: 4deDKSr3pOBIrmPfmH48xZP6J9xP5VWxfi/096WJyFI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumain/MensajeOn.png
+SHA-256-Digest: 1SQ0Ua5tIBwZNqUzgKlB8Q9vq/n6pk7HPlkxud7hi6c=
+
+Name: mx/com/jammexico/jamcomponents/JAMReloj$3.class
+SHA-256-Digest: ZFvDQxrJ/h1px/QWgbvgvZC2w/nAnBooNfmE8NvVOHQ=
+
+Name: mx/com/jammexico/jamcomponents/doDesfracmentaNumero$doCentenas.c
+ lass
+SHA-256-Digest: nBaxFnl//mvJy0XeG75DQvqAz3jvbLhppV4B/L6H+CQ=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/cancelar_normal
+ .png
+SHA-256-Digest: yMwkAq5uCuZFcktpvEUWV8fZG0LXWH+BmuNSVIWjB4U=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/9c.gif
+SHA-256-Digest: 9xcSSZP2cyWxxWE9+jRVabW4Rvz777TF7VJd5kcTP+U=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormSub$1.class
+SHA-256-Digest: GhkMwVBy1x3CStspHr4RHFORcZACcPJDQ/Y/O9m20Jw=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridEditable$2.class
+SHA-256-Digest: 9lXKWn13S7x7B7sfpJmS0Q/QmWm9d8+LKRqRHJ8paDs=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMInputText$2.class
+SHA-256-Digest: MywUs4fqx4K2to42PU5l8ZoyzSjx++vKTNW5G4OB1fs=
+
+Name: mx/com/jammexico/jamcomponents/JAMReloj.class
+SHA-256-Digest: ylshNCyNao7xM21Oe6yy2ZM1cfPmiEXNA2VwcCCrKAo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/alta_normal.png
+SHA-256-Digest: gRv0CeylQZXjRW7XXcyHTyv/WXdDqWBe8AqZ8lcdm7o=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/archivos/tiffIcon.gif
+SHA-256-Digest: Zq8ufOUCo7L1/RAW8dgZ4R9RraBauV4XanUoaXTDaWo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/ida.png
+SHA-256-Digest: v4zcFSuxnmH1oNCRPMKIBLheO3SGpHKd6XWhhbTAwFE=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/5.gif
+SHA-256-Digest: E/m7sKO+hucjWb3jCJDukyD1eCo9l/WkoB42gJfQf3g=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridEditable$5.class
+SHA-256-Digest: EYlGAa73WXruv3DhmORpD+KcfZuePR8nkIH//a0HAYc=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/VeBarCode1.class
+SHA-256-Digest: +zj0jyGw43B3So71OUPJiWF3lJL6IKnHITGSVDt4nBY=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMComboView.class
+SHA-256-Digest: vRiOEz+bNbntsc2WOvTq/t4xdDIYZdxQ44P5UYpCfig=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$5.class
+SHA-256-Digest: 06K6wIjpZwL1T0pWL7a76rv1y9uK5k/RdruKgcDLaDw=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMLabel$1.class
+SHA-256-Digest: k5OeqsZ+6/gHXhKuvgRGl5UIrTbnTLshHBU3DrD4HL0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/informe_normal.
+ png
+SHA-256-Digest: fyl9O85ZvdtY/2a/SOjjMj7b+xg6PLsSTTS5Af06V9Q=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMInputNumber$2.class
+SHA-256-Digest: 6MV+X4tODoDvxIy7Sx6YTWI96vKKpjPtKA4DmVFiSyo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/menui.png
+SHA-256-Digest: 1i6W4yXzd0HMDZdApEf4nfuTWx3pK+X6zDs5eh3QLq4=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMComboTree$3.class
+SHA-256-Digest: 606GxwDR4F5QxrZeJOXwMqDaFgYmnX2JtvwwGCa5Rj0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/salida.png
+SHA-256-Digest: 4REJMCi9t9dFm63t7FBmjwXVFVdzY0f0jKf2EATamJE=
+
+Name: mx/com/jammexico/jamcomponents/jamcomm/SerialParameters.class
+SHA-256-Digest: cRjFmlDETRi7YD+wESStzJ+lv/Ukkdk+YMvb8QvpX7g=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/printer/csv.png
+SHA-256-Digest: +bges4PPEaDZtEkJd99lOfhC+b/ehl09/nCGpqaIRp8=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumain/mensajes.png
+SHA-256-Digest: 6osy8jP5RnOrMKnAuGvUYvsrTw9nttdDPr2wqothOWk=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/CFD-OFF.JPG
+SHA-256-Digest: LpJdAzI3qjMTTlhMUHMj3ssmoUw4ZHNiMbAACdoY028=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/7c.gif
+SHA-256-Digest: HKq1iGfDQoegInifB+rQSGUk7KFmsbtvwuPLiYZ8CK4=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMForm$2.class
+SHA-256-Digest: SjJ2ptTwIQUIVL6y17E7SwHNom9rptvQF755L6lKW+E=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/printer/word.png
+SHA-256-Digest: JnMG1kINsC7oiKaHnUGuM6tMc+N6v9sgd74MbdAhsYs=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMHierarchicalView.clas
+ s
+SHA-256-Digest: vKLCRw7+CY2cS9wMwbuZ7y9RUhfwcHBlQidOtTmHB/8=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/consulta_normal
+ .png
+SHA-256-Digest: fxNnBVYz7pbUQdPy2XR/nuUoXoB+5G11IFGSXXJ262I=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMSortedView.class
+SHA-256-Digest: lIpl7Vclo4PxlXd63MSgtYgHFM/uOfNy4i7rnoi5jGI=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BCAppletDM.class
+SHA-256-Digest: ebUwwZ6LNbSTfRJk9znrv4lXD87PCKoG+OyFWvZGCDo=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$8.class
+SHA-256-Digest: 3lyvqRCBlPBAfriUnTL++4N9V9xU/CRK+ZeULiDwwME=
+
+Name: mx/com/jammexico/jamcomponents/JAMFormat.class
+SHA-256-Digest: QQSlVUUpv/O3Or4Wbqp9g6TL2DxBMozkmzrMHO8YGbI=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridEditable$4.class
+SHA-256-Digest: wiPSPS3xJJbu9HmR786UgnxRqE53fyBSaeb5C8//3UI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/search.png
+SHA-256-Digest: 4NWxSjDVzDjevXsI6rMetfKfftCj+gz8+/6HeVJekgA=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/RDataMatrix$charPlacer
+ .class
+SHA-256-Digest: tY4GmHLk7I0XSvF6bAVfHos3nXUmu97nkpN7IT1LKmo=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/VeBarCode39.class
+SHA-256-Digest: pW111+/i094/XQLoq/H+AG+pKe8TZeOL7qaDWnlXhjw=
+
+Name: mx/com/jammexico/jamcomponents/JAMDate.class
+SHA-256-Digest: 6DpZWaNuL8ag+6sGgsAt+RHRGKQPHX2pp+gL96+f4NY=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMComboTree$2.class
+SHA-256-Digest: ksjWLJ30VQDhS7RpALRo3VhqWv+lyOY8qiiyJc+rZi8=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMForm$1.class
+SHA-256-Digest: guX88Wt1CnHhJJH+DeLy1ZJjwqA54AJWPa2KD7gNaFA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/datosc.png
+SHA-256-Digest: braaiji7HUVOo7h3bCoZHjXYFV8SRjSN3Ptwh9wfIBM=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/accion_01.png
+SHA-256-Digest: jbpG6mP1N5Ao3x89Ib/8nvYJ9SWS5Vn0YCxr4yisPT8=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMInputNumber.class
+SHA-256-Digest: hCOdZ+AWKqaf6zPEbY5zMUMQWqJWf7lrPsvcCvcraUw=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonMusicaPlay.cl
+ ass
+SHA-256-Digest: nbRwX0nwyuEXQ73R/xbaDI/T5CspK9J6jFIdUXCf8D0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/baja_normal.png
+SHA-256-Digest: DBMVmaDUOhITYMpA4iPe4iK9Kwd+qTRkShJh5t6KNBE=
+
+Name: mx/com/jammexico/jamcomponents/doDesfracmentaNumero$doMiles.clas
+ s
+SHA-256-Digest: F5++3cWYU/mnb6tGpzp21anPx4WurRMb2Ejn6GRrNt4=
+
+Name: mx/com/jammexico/jamcomponents/files/ImagePreview.class
+SHA-256-Digest: 3fGvbJx5HEwCCQ2IclP2cqR6GzlU7p+cR9Gq90xXzy0=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$7.class
+SHA-256-Digest: j4Y7A4N6Y8XJgXTRMC3duhkvUN1iIWnjyh8yIz951yc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/impuestossi.gif
+SHA-256-Digest: /wpGC6tQTC4orpzviCxfdhARuIFRNs4mg4xDgza9ZlU=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridEditable$3.class
+SHA-256-Digest: ZkARLd3icK5LrtldqwigXb3eaQpsAjM4K//VPqMHHY0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/servicio_normal
+ .png
+SHA-256-Digest: 7XMldfhkrZa6W4wNT2CZ6j3O59k30KBCsGgotgwLEOY=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMComboTree$1.class
+SHA-256-Digest: DcGH7qJ88/V60e2gCPWOHm812dRPDckIJt4jEPoEuQE=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/input_must.png
+SHA-256-Digest: hKgBWG8O/CpmOUxpakUJvKmnCCNdqZTqC13nuq1FAtQ=
+
+Name: mx/com/jammexico/jamcomponents/JAMLibKernel.class
+SHA-256-Digest: GEOQ6Gm4fPnHauLEMJ+HijiKjYDbDoT+UFFLoFGVOBk=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/logo360.png
+SHA-256-Digest: i3+zaSgt9JaWvyda+CX61pwCpYWc2HTvKZwZe8nsods=
+
+Name: mx/com/jammexico/jamcomponents/JAMTrayIcon.class
+SHA-256-Digest: Wvb8ftKC99Hhd+7ZU3QhAOCpxzfzHDT2XSppdsecoMo=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMNode.class
+SHA-256-Digest: vx5TEA5To9veglrJKr3AQsAlxGb6yqAR1b0du0KXcoA=
+
+Name: mx/com/jammexico/jamcomponents/JAMTrayIcon$1.class
+SHA-256-Digest: d5a1B2yiiqTwUIrwDwNENLVTZjFeyJHaWaYa6/Dz49Y=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMComboTree.class
+SHA-256-Digest: Xb+9ecYr36u6NVdMFFeTkHjNUBaMAVZORKfp1P5+9Lk=
+
+Name: mx/com/jammexico/jamcomponents/jamform/events/JAMFormModalAdapte
+ r.class
+SHA-256-Digest: y5pAj/SRKJQ+jAsh9Nikob8QcydhkRaF5Qt7Z9Mxu3A=
+
+Name: mx/com/jammexico/jamcomponents/JAMTrayIcon$JAMTrayIconApi$2.clas
+ s
+SHA-256-Digest: Qr54FZnx4y4qsvObqjcharBK89A7MjL2QhXbJeX9fbI=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAccion$1.clas
+ s
+SHA-256-Digest: wANrPhtalsjJZ7qjvIPWpWXaHX1NRbAVcs9TU0dsqlY=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/MusicOn.png
+SHA-256-Digest: sk9hHvdb9moPpxYbhrMnfSX7w99QsH9187YE/6a+NE0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumdi/FudacionJAMVOS.
+ png
+SHA-256-Digest: WUjSMbTRhDJdYHcZE6aQITaUjZ9qzjYvGIUS9m+7nKU=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchTecladoVie
+ wer$2.class
+SHA-256-Digest: +eiPK1/P7/Xl3wqfpLnOyw93hsgITRtIgEzZpys6z6A=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonPrinter.class
+SHA-256-Digest: mM5DDcowxOt46ZUDHD6J9QcfYHYQxiklslXxJ2yERvc=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doLineaPrinter.class
+SHA-256-Digest: /qRyZQ38E8QnHrGgkEywP39vAaIeNEEEsjMFtKzJI94=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/VeBarCode1$1.class
+SHA-256-Digest: Lf+UuSosCbDoj0XYpe9/NE383oZTki8eXbyxKH/DdDs=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMProgressBar$1.class
+SHA-256-Digest: lPVC4s9LhHCPT9Op74zZsUhpz+NWn+0+U8V+sveAPmg=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAccion.class
+SHA-256-Digest: 2tP6xMJQfkFSbqlUrYVo5/3tlCZ1cVoRfti57BvJvIg=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/tab_delete.png
+SHA-256-Digest: KRUzrhRfX4v7tNB/J1sHlSwpnPCAEsT0yc/YsLr+Huw=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAccionRetorna
+ .class
+SHA-256-Digest: 3Z24+tFC5qrPbxO3rRj5nWsIP2snCuuj3ih1eQR2Fek=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doCodBarra.class
+SHA-256-Digest: 948Xx6NSu+qwtXf3Rwtprz9i+PHBZ+cwYU7m1WZ4c+4=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/ItemCombo.class
+SHA-256-Digest: Z830BUeyqXpR42EOmGNu749gRalp+Nu+Q3SNKASN8wY=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/reporte_normal.png
+SHA-256-Digest: VcL22HfLsiW6JxC0dCeTN+6FCbHrt8NkjyLQZIQMHYA=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMCombo$3.class
+SHA-256-Digest: qa/gSYexX/Q/Y/cin2ze7X87dHk74ow6gCjMl7d/S38=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMTouchKeyPressedListener
+ .class
+SHA-256-Digest: yYoOVD8hIBS0vXuYc2uPa5XqO0A4Z87d110XlwX41Uo=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMLabelPressedListener.cl
+ ass
+SHA-256-Digest: Y+xCyt9CAyZgUJtaabieyl4+jODPwfFInV0jVvzER1w=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/1c.gif
+SHA-256-Digest: eVssxs/bkSVfL2NpYtl64hdwEY/NTBBDeZwXktMAEn4=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/RDataMatrix.class
+SHA-256-Digest: q+Uda+bqA13Y4i5/QgciRwBII6YqFq5v4e2pQ+cN56A=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/menua.png
+SHA-256-Digest: JFIVuyuSNZTCpmwp04eTQUejcQcEIffuI0Mo1Ye0XpE=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/Yellow.gif
+SHA-256-Digest: BZzSY/MW2ej++Nkgy7IKyLGzfzqEPj57e1o6SoOhZGk=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doCabecera.class
+SHA-256-Digest: R8Kwc1Ib2yPxtz2P1rBo6gnLMDAnNx8Xrildo6awPcE=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonVe.class
+SHA-256-Digest: 2A6I3qvtZUQBU0iD00p0NsGUpNV0uI7XaxPVDorxNw0=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/modificacion_norma
+ l.png
+SHA-256-Digest: 2Z3zqEi4xFjxq0l15DCqTdDrCUBKue+x816hJmub+qg=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMTrayIconPressedListener
+ .class
+SHA-256-Digest: iOtKQJ3oFd34JB8WziGmO3LxZtxMfABAB+PaoYbONhA=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere$3.class
+SHA-256-Digest: IT8lAx4fJlVrvMZqFs9X2AJ6p3WiI2ezYqkwDR1kWTo=
+
+Name: mx/com/jammexico/jamcomponents/doDesfracmentaNumero.class
+SHA-256-Digest: VhIvmtLDmNbFUj01kF0Z83vMeapt+v50CLmaPFnY4Fs=
+
+Name: mx/com/jammexico/jamcomponents/JAMSeguridad.class
+SHA-256-Digest: smGUZJdOch90jfAD4NOjuoezB7HS8HcI9i9wxGRwwWY=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumain/seguridad.png
+SHA-256-Digest: slduyvipiMMV+c6kOZWV9vTA2F7e1Q77wGfK1v94Mls=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/visor360.jpg
+SHA-256-Digest: eIpaRQ+hcM7T156ufwz9uKi7H7nZPdkQ0e9lfSn+DxQ=
+
+Name: mx/com/jammexico/jamcomponents/jamdebuger/JAMDebuger$1.class
+SHA-256-Digest: QSbeWw5ddbW5KuPonGjohkg0H192NAoNL9aRRalZcfo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/conimagen.png
+SHA-256-Digest: AVg9X1KLe4pnvSXkxdvuPqSHlqwuZYTMnLWQ/V0VZAM=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMBuscador.class
+SHA-256-Digest: z/zUQ2SJ40YOBG4gqTBtRJ5xS2eyR64sqSkCKBWsj+0=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAccionIda.cla
+ ss
+SHA-256-Digest: vxV1WtFOa5LbWUfIlq3iceK5mC9f6Bpg/lraI/eqoas=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/empleados.png
+SHA-256-Digest: oBMODVWsiMFIIPepv0uvr7qeH0eFShWV02N3DuD3sAw=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/3.gif
+SHA-256-Digest: gZZ3KRILmiRI4d/wMlFojMS5DUMy7lEqVf8dV9Ytcrg=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMBuscador$2.class
+SHA-256-Digest: WnPLjBRncSbBd1KMhxI+yts2Dzom8ku+wnyqeLD4+nI=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAlta.class
+SHA-256-Digest: 9a9SPNZBd0FZTyXa+G7Usl0TOLthkKqcxNwbCmaK+dI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/archivos/gifIcon.gif
+SHA-256-Digest: 0o9s2lSJrE4mkUK6iM0TM7LqgaIFr2q1pdClY80JHBA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cuentacerrada.png
+SHA-256-Digest: 2nixJQcP8wXjf+/FJrJb+viQ6Qu9TMO/O13Jo4OM+l4=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/printer/html.png
+SHA-256-Digest: 3qMntrDxlKaburm7IW0rM+ujwDjkcTMpbIvZFQmvW6I=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMProgressBar.class
+SHA-256-Digest: vaIWF5+O+8n8eb2YtVX1Kq4X5rb038DMGdyy4667ia0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/ingresoefectivo.j
+ pg
+SHA-256-Digest: TGiPREKXHgYNAs6e73UCp2TX15V5KQJASW+WOYOdlTM=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/input_optional.png
+SHA-256-Digest: hYpAM9kvZU40QkO7x1qWjDnCmL1/qHtbPJ/m7KQWE4Y=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMLabel.class
+SHA-256-Digest: XTHxp5A+83PZjBhlaHm65joSfsoeBeQKnl1ItcVXsKc=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonBaja.class
+SHA-256-Digest: Br+csuGuPc09IKWkeBPWL2Jj3xjqYbYDKwKQ2LpKBXI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/cup_delete.png
+SHA-256-Digest: 6MPqyAa5n13sGTsyk4SGbVViF3F+/v+ZshD1bRA/R68=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BarCode2D.class
+SHA-256-Digest: nsK16QpTlZU8MDdaZhrQZ/FHUQKOLPIMXompNONGso8=
+
+Name: mx/com/jammexico/jamcomponents/jamtabpanel/VTextIcon.class
+SHA-256-Digest: I3C0f9NB6O89AVOoFtvpwW5jKIkG/IeJA+YUnfBlmoM=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/configuracion.png
+SHA-256-Digest: 5F4yw8r5MJ5d7AnK1Oxe/huESextLVNLZyPtGJV8bHc=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterUtil.class
+SHA-256-Digest: Z87D9OV+A8Y1ldpMhGz2V51npLvoI3lT8OtKES5pII0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumdi/distribuido.png
+SHA-256-Digest: +FCZ7kJmRmOiQGY/5qwTkdZxhd24E3GxfesGO4apRCI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/cup_edit.png
+SHA-256-Digest: Iw9mK0fZiGC7KFQk4Xrss6+LTGDXuiuMgcpvsLgsqb4=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMCombo$1.class
+SHA-256-Digest: Mbg1cCzhwn4m+vW6h22IEZJKATM65x5xd/Yly5EPtFo=
+
+Name: mx/com/jammexico/jamcomponents/JAMBrowser.class
+SHA-256-Digest: JOAYLoEpuurYn3xZrl4F/LXM8npdq7JE2TCkcvZ2P0Y=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterGrd$3.class
+SHA-256-Digest: xiWuDGpCt/pQKms8X123nJGgHy48Y8FDrmi5WB6v5o0=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMSortkey.class
+SHA-256-Digest: iUntD17omley1loaPG9Akc3SVhaGjfKW4HV7WRi52J8=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere.class
+SHA-256-Digest: wOZDFfBQt0C3sriMSPCNCc26SJOBPJYIahWRlSMC/dk=
+
+Name: mx/com/jammexico/jamcomponents/visual/ValidaTexto.class
+SHA-256-Digest: r1KBfHbIDReUunSNBIvo9mP+XG2Va645TpQZVyWHHVY=
+
+Name: mx/com/jammexico/jamcomponents/jamtabpanel/JAMTab.class
+SHA-256-Digest: Y9dlNCsjddV48di49Za8zsqG+M1g1MyImq1N+M4fXHw=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cfd.png
+SHA-256-Digest: VGC/RIiomriyY7fmgbeYILI5StnYN7pI4zHAeN5Sj+c=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/JAMDemoCodeBar$3.class
+SHA-256-Digest: fO6EmpIQSKPgQKDkkpFhI0qt5ey2JdC0ZjOyvYq/QJU=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere$6.class
+SHA-256-Digest: SKsAv0/cRxqzFlioHEd4e51plKGkXhJTzW8RQIYYJJ8=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterOut$6.class
+SHA-256-Digest: 5vL3zbE7/t2BSM5vLmeAOeYNpkXQ/Ctz+yEGwlQ3ajE=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterGrd$1.class
+SHA-256-Digest: 3iU+AMc8/cmc5zJnrVx7+51/NgkjO62A70j//ao/8w0=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$2.class
+SHA-256-Digest: ses2wRGQJB2OF351aXm4PNiZSxy2GsqE7wC6AC8BRT4=
+
+Name: mx/com/jammexico/jamcomponents/jamform/events/ButtonPressedListe
+ ner.class
+SHA-256-Digest: QDrhz2lxSJpdbo0F/+J0KWbW1lI6Hph2DSD5EsGRvMI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/menub.png
+SHA-256-Digest: YNr1LlfgSv4nWCIsbXvXUHzuT/qkkcaYPLpLQRVGYHc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/vos_chico.jpg
+SHA-256-Digest: y/mGJyv0WXPQSJYcalG9eOlLYaAgGdhPVdo7FpwW3iQ=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/aceptar_normal.
+ png
+SHA-256-Digest: q8/z37CBDyHbjX8oL40flnk51yGzARqv98MT8Gakpls=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menu/accesodirecto.png
+SHA-256-Digest: mpYGXUnTEYM604JfRaRZ9j8sHPnxoeBPlTo8l4hu02A=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMGridEditablePressedList
+ ener.class
+SHA-256-Digest: RC8aiZ7FdrD4QucWjhJlLHJrB3zOuVJ0H82iivg1rfo=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterGrd.class
+SHA-256-Digest: UOLKkrrHxLfJBraEcr1KbM6ejKngQnQd7KlPnRkwC/E=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/RDataMatrixBean.class
+SHA-256-Digest: 4Idd6kQ3zYzfcmJRq6AebEmXaih+iMBC2JvN4pBlOX8=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/componentes.png
+SHA-256-Digest: vsFlx6eAL/opkMuv3pi3aKTLK7EagEJ3VadooCvTxL0=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BarCode.class
+SHA-256-Digest: J+6W0w+0sb5v9NKKrfoTD7SrLfJPyYkNI6r7tNlw3Ps=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormSub.class
+SHA-256-Digest: icgWZqZ5kcoqXZCHcTfIzztOLHHoRw94huvPiexVQOU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/reimprimir.png
+SHA-256-Digest: 5FUWGzeAOvhQpCHcei7SvcD+7IU5qr9QBPNfNNFhANE=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/Green.gif
+SHA-256-Digest: YI1M/WPJLukrFdkIELxbsPHCwD6YF7b3h4Sa5upLZy8=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/on2.png
+SHA-256-Digest: PVu3THGp3+oGvs4cxvZDrmZqmSXdpB/zYAQzhHt2i/w=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/5c.gif
+SHA-256-Digest: /oux8k4rHhTiUXBv+ivtHT3AlCm4gY9nueII9OWTokE=
+
+Name: mx/com/jammexico/jamcomponents/JAMReloj$1.class
+SHA-256-Digest: 1Y0h5OCjmYE4WgfyahKmhxWsICwFTCyxLSPBpKSxWyo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/clientes.png
+SHA-256-Digest: QdZITeuAUB3Wup3SbLfVTMim0goDychvFe3GMqRK1VI=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMComponentsInput.class
+SHA-256-Digest: iPwvv4MM/n9fjvqM3hEyBe4k6nWTYXGcT6j4cvOpIME=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/2.gif
+SHA-256-Digest: Wj9+7BlZKCFa7VmGqMUqiGh+XZDjYX7+e5lMnEtcSDk=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cuentas.png
+SHA-256-Digest: xfjJC5njVZ/U5roi4K1BPoHmtJCAx+Gat6YHH9fRn2A=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMTrayIconPressedEvent.cl
+ ass
+SHA-256-Digest: 8Ds8rp1OXmbzqAIX8DxwzfPIS8wCo/+SNgCxTHzqidA=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/ayuda_normal.png
+SHA-256-Digest: 7S1g3iyb61NlydBqBM2KixwheSs8aUZuec+xxXtFJjg=
+
+Name: mx/com/jammexico/jamcomponents/jamreports/SIGSCEP31_MODELO.jrxml
+SHA-256-Digest: GCfC8BfZ6IdUzqUSrNXH3wM/RW7PwXsHiOd6jKmAH9k=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/MusicOff.png
+SHA-256-Digest: CYcjE+SfvMz/hX0YVoIS9GtjKBdFYuc8OCwg4JrNrPI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/logo_hora_local.g
+ if
+SHA-256-Digest: jn6eQywR/2q+ZMMRv2CaWOzuclDvnx/YBAyOzLnwjUY=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMInputText.class
+SHA-256-Digest: D7PX4BSYEEBzvNLVH2kkFA+DpV8XZhvkSsKuvQ+s9us=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/vosvisor.png
+SHA-256-Digest: gMLBRh8X2Lf+h1R1vX8GsRHGHhF/hjj7Sxr41sioCiA=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/reed.class
+SHA-256-Digest: PlIZTZ+N8QmpKg2qWVV91d7Kc24KPQ4bWTA8kIM/u6o=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/flechacombotree.jpg
+SHA-256-Digest: 1vCXPHJqBGHY3x2LEhNYXqa04CE4azwZ5YGxaeseehQ=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cajacerrada.png
+SHA-256-Digest: OsxIT3uwIXXCHYfgBTJ8/n6wEeZmcH55VaqukG0ler8=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterOut$4.class
+SHA-256-Digest: PGhn/iGlO5ndRLH3weCtB1aEMbiFD+t3ukW3B0+jxc0=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/JAMDemoCodeBar$5.class
+SHA-256-Digest: /Gvf/nSiWEaIICmaU4oVRY0EWawBGjW2jY8XvaNG6fE=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMInputNumberPressedListe
+ ner.class
+SHA-256-Digest: VOFYUrn/3vQQTUfWzoBUVM/FXfCQE7cxyPDsmnU3nMY=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere$5.class
+SHA-256-Digest: xYMBPx/zPhcnrPb7niDjSkK/xPcSYkA9FsN5rCL+plI=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchTecladoVie
+ wer$5.class
+SHA-256-Digest: LdYriPXeYdAXIhyRrF+XuwM9h2S2fP0GDgkHti6jtp0=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doTotales.class
+SHA-256-Digest: qL8IMwwOjRQU5ejozeN8lkhFQ+NV/eN+qFNI689fpWM=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGrid$1.class
+SHA-256-Digest: qHni5SqH2ZazCAGfEbhDz5cszgHvulIQEYSDyOuC6Ew=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cancelar.png
+SHA-256-Digest: c4nIeYhAud9SM+9yP+lMYS4KOo1TTln0hIM68OxIoaE=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumain/setup.png
+SHA-256-Digest: JoItvHcXsKrqbQ+lr978vNlaLMRBkOK+S1MA97UV25c=
+
+Name: mx/com/jammexico/jamcomponents/events/SecondsPressedListener.cla
+ ss
+SHA-256-Digest: HO61RL3B2A3Kaowi0opw/Ka+7XbkZ2rl+M3ZAnvo0Xs=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridColumn.class
+SHA-256-Digest: GCFSxhG3LcuKcuGjceClBg7Pyt37WAD33IFBZ5+OPVQ=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/ticket.png
+SHA-256-Digest: I+TQSXvZEBgbg9oPS4hXoG12If/h6SNowGETWHEL90c=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/logo_hora_localc.
+ gif
+SHA-256-Digest: PccL1976Jo5eSpPfi2ycL+vZbGA6JUNINjs+Rhh3g3g=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$12.class
+SHA-256-Digest: bK7PmNE5Trhvrf4K8qOHHf/2REUN/6MrJRWllS4Mg4I=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doLogo.class
+SHA-256-Digest: atEmW54U9OJLnng6a9i3nQMr+1W3atxHUeJqSYDp8nw=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/impuestos.png
+SHA-256-Digest: 6fNkx5H7bLxhtoc4kXNLjqwgxE/btsV74miJVvNJPTM=
+
+Name: mx/com/jammexico/jamcomponents/jamdebuger/JAMDebuger$5.class
+SHA-256-Digest: tovGkeaxG50vznaI7dITV/S3xYAilJUUumA0prkEjAY=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/consulta_normal.pn
+ g
+SHA-256-Digest: fxNnBVYz7pbUQdPy2XR/nuUoXoB+5G11IFGSXXJ262I=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menu/cerrado.png
+SHA-256-Digest: psL5bmFsc0X6ZI62uyBQypivP1+9oMNrkVe5d1CqVPg=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageVisor.class
+SHA-256-Digest: ldaZxRxPZdb2vkTUTtoWB47YJLCG0msON4sFhixNQ+Q=
+
+Name: mx/com/jammexico/jamcomponents/jamcomm/JAMComm.class
+SHA-256-Digest: 55NSOukokDtiYILtdL9Dt+NcO5GZ2dVVzigsbEGJ2FY=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormPanel$1.class
+SHA-256-Digest: dHrWDdlbFHjOWKLNutvd8uRjTUYghTlGE/zg7A9q40c=
+
+Name: mx/com/jammexico/jamcomponents/JAMTicket$doLeyenda.class
+SHA-256-Digest: KAd0Iw9JIqB3ypxJ/aoD6ZwkAe4MHXcaFGpMc5fbPL4=
+
+Name: mx/com/jammexico/jamcomponents/jamdebuger/JAMDebuger.class
+SHA-256-Digest: fnuMFfeq5P2xXzawfxyQwol0dbSQuswDtnxxFqXsWOo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumdi/indice.png
+SHA-256-Digest: +AJ8bp7Fly/RpWP3htEn9JRJs8sw+339ZkvNdBz+oGk=
+
+Name: mx/com/jammexico/jamcomponents/jamform/events/ButtonPressedEvent
+ .class
+SHA-256-Digest: /yKo10LSkEyXdg9TmcMqtsWoYOQIAtFcrVormAeCSZc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumdi/soporteOnLine.p
+ ng
+SHA-256-Digest: MmjC8BZgJXn2AzxsNArWjENnKFCpxcCwcEimcTGZqcY=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$11.class
+SHA-256-Digest: LL68D+8fe+qxZZgqYuHc/+AsG9z4sVJA8So0m0nsllw=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/imprimirfact.png
+SHA-256-Digest: 5HfOt76m5Vmhn0+SPEIRlyYm2muExE2Ca/Hb+VztNq0=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/RImageCreator.class
+SHA-256-Digest: 4Nje+8uuItR8jJjQDAIZ70dLIZ523O//LBqVjrrUPLo=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterOut$2.class
+SHA-256-Digest: w/kEU89GkTnW6cf+tuTHBuPOD6+fWPC9nJR3jokRJ5Y=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/6c.gif
+SHA-256-Digest: Q/l3K8EfOeh4JMs8Ajw0OQ3yS6/kgC4htD6h48GbfoU=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BarCodeEncoder.class
+SHA-256-Digest: k9XtedTjjUWxGplu6uq20RKStZmySiJ/xhZLZKu0qyg=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/sin_imagen.jpg
+SHA-256-Digest: YgndKN2O3frZVL75CbO3T56nh/xoO3YLkexwoKAmiYE=
+
+Name: mx/com/jammexico/jamcomponents/JAMTimeRun.class
+SHA-256-Digest: kTYgWS8OcyUFdV83anEq961q+xP3flylSNp47saWVuc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/Red.gif
+SHA-256-Digest: Aez4nDmGedtaEe4BBIpP/914h8nXLWoC3yhffBZbbfU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/apartados.png
+SHA-256-Digest: 866YMpf4F2SkNPQLwJ+NiObdF/j0L/h3eWWL0pHIW2k=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/8.gif
+SHA-256-Digest: 55SFnE/Mtn3LFZIQYEJRZdgx0KKbHNy7Lxb5hUosdE0=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/JAMDemoCodeBar$1.class
+SHA-256-Digest: qfZnMNQ1LxRT1Ri1rUaehH45d08BEF9288AWs2ybJvo=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMProgressBar$4.class
+SHA-256-Digest: aLSW0aRKNQy+c7L7aHK3MZ3zP3k3BjP6Z1c4J3AdJmA=
+
+Name: mx/com/jammexico/jamcomponents/jamform/images/cancelar_normal.pn
+ g
+SHA-256-Digest: yMwkAq5uCuZFcktpvEUWV8fZG0LXWH+BmuNSVIWjB4U=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/facturaelectronic
+ a.png
+SHA-256-Digest: iFx9EiIgIy/vZH1V6eGTx1IUyRDO7gLKC03qLuF4+z4=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere$4.class
+SHA-256-Digest: /bKHV3nFtmNlQqI5+LojWcTqrYl2vqRDI25Jl1m7IE0=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cuentaabierta.png
+SHA-256-Digest: yv2MfLj1Xu9+PWIqWck+Jcy5lNbK1I443Pa9YwNy0uw=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAcceso.class
+SHA-256-Digest: RJRDYUN6QcIng/Yb/V01JPMx2k+x6c5bf2fwj6qotsA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumdi/cascada.png
+SHA-256-Digest: +ivfKJKVnKjVpGPJIFdB5EV80mor/n1+3xFU1EgUkQM=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterOut$1.class
+SHA-256-Digest: I9PL+6ZBS+8Dbm09Kl84ihYtjj7hOLH9SrZbHTm9Hbo=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/BCApplet.class
+SHA-256-Digest: 6cXzPLcdCEii9Rko2CYC58KD558N0masaiHnoRH9ivw=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormPanel$2.class
+SHA-256-Digest: z8F6f8h1n5PGd9frFs49BPK8uhNGPv7NMMbeDbuvXyo=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumain/ayuda.png
+SHA-256-Digest: l3rqZyXCFfs0s6fVja11OHC+qtWIVUFFQocfDJTGRfQ=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMForm.class
+SHA-256-Digest: wVbvkj5fWhmsoFcZiTZHK7ukByHGh1UUQmQcUJmSB/8=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/1.gif
+SHA-256-Digest: RAhkAneaiAldaHznVarnFkH4Ycwi+VnXUkOiD6taxGk=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMButtonForm.class
+SHA-256-Digest: IHRB9lnguatj8YmwwcotHzfC2tkqcuf9NOV2m2oYWHk=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMButtonForm$1.class
+SHA-256-Digest: qSUCFIeRCh4dzBUfIZ+GhdDxklRB1M3Idg5FcyWc0Wk=
+
+Name: mx/com/jammexico/jamcomponents/JAMCodeBar/JAMDemoCodeBar$2.class
+SHA-256-Digest: 8iotvVynxdmJZ0Bry+KLgr+Zs9H7zaJCYlPHIouzBqE=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/sonidoon.png
+SHA-256-Digest: 8o0JgM395acoycIHhbVF4tiQJ1E9HQ/Pi3vM9IfzSo8=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMListPressedEvent.class
+SHA-256-Digest: zBqZIObrSGGj+mZ2BXLlFhN5Bh2tlsiXPRFLFa0Z2Kg=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMList$2.class
+SHA-256-Digest: Fw/8l8jsQT9G7hjcHSYYN15DIq4mXq77hwdgj89sNnc=
+
+Name: mx/com/jammexico/jamcomponents/jamcombo/JAMCombo.class
+SHA-256-Digest: mmsxuHiVLkAtwO/Wzuw5sHIy4P8zCbH0GrfOFtUAeEE=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMListPressedListener.cla
+ ss
+SHA-256-Digest: pb1Q/qDv1mo0EIjIjmuuvsKHBvMZI48UOs+FKyBLwyI=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/menumain/MensajeOff.png
+SHA-256-Digest: nsu1vTpAYIMxs5RGFSdGnMNbQ4uXrNBkRRm3OX+Pwmk=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMGridEditablePressedEven
+ t.class
+SHA-256-Digest: A7Q7Am9TnZFMJi1zL/xlNtIZWJW9ee9rdWTQL+UVeRk=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonCancelar.clas
+ s
+SHA-256-Digest: x9l6BeCFu9fBTL/y9HyVgTwHR+whBgQMoCDTCNPKR1Y=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormPanel.class
+SHA-256-Digest: jFV4/atRb9ikZ8yhEbxzgGvxbYUdhpXuY9VJHFsrXgc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/menud.png
+SHA-256-Digest: hq3uwOe9PMqIRdZDU0kSE7UvdhTgQ/TgiyhMQcqcdOk=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/8c.gif
+SHA-256-Digest: EV1W+xL+n7u7PMmDoXae97vUNNmgYPyy8nV1tBWCs/M=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/vos.png
+SHA-256-Digest: 64VhUOrKcuuOUKuxUaDHcZyRXC2hkYXkm5ke81XjVQE=
+
+Name: mx/com/jammexico/jamcomponents/files/Utils.class
+SHA-256-Digest: 7veuCP0SOyWNU4YtceZKmH6x3EgJaUXvnMoIxWSXSwc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/logon/servidor.png
+SHA-256-Digest: NrThfAXQzzAkzJWTl16lGA18O7D8r5VioOq/9DfY4PQ=
+
+Name: mx/com/jammexico/jamcomponents/image/JAMImageExplorer$10.class
+SHA-256-Digest: 0hKG4tF/9yYqmtTZmj8oTqgA4kO50LmbrBjAkVw30OU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/impuestosno.gif
+SHA-256-Digest: TQLRYast+nW34OkfgvNWwSARKfKrsbTs3qwhTVqeSFw=
+
+Name: mx/com/jammexico/jamcomponents/jamcomm/java1901.class
+SHA-256-Digest: 10T4JHHPlUfepbPHT/RPzB7guFDlhMxnTV4x4bHF3Mc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/CFD-ON.JPG
+SHA-256-Digest: yNlI/EKGL4ndFyNq7YVbA03J9SYdgDU8pIB115/SOpk=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/devoluciones.png
+SHA-256-Digest: Qztp+hqJcmnbHu/7h3bWMK8VM3mG5LHdjF+Y0m12f9w=
+
+Name: mx/com/jammexico/jamcomponents/jambuttons/JAMButtonAcceso$1.clas
+ s
+SHA-256-Digest: l8OFk7pvq4lqS8FxwIAO5FL8SFNyn+Ffwg+TrCkwjsc=
+
+Name: mx/com/jammexico/jamcomponents/jamtouchscreen/JAMTouchTecladoVie
+ wer$4.class
+SHA-256-Digest: O9hRlUVPeNt6yL7m45Q3G3TSkbJo02usoSC+KVr3JLE=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/remotecontrol.png
+SHA-256-Digest: DFktNC9usvcuJlMkJkdzdx4HqLVygKh1wzCrX8g9Atc=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMProgressBar$MiWorker.cl
+ ass
+SHA-256-Digest: Gc9goPqqJFfJfIYa3TD8u+cdgXdqZs0x6K1mqbQto1g=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/detalles.png
+SHA-256-Digest: 9ySfK34Jq0yM7QPFCgbJfsVgE6ud3DwD8lOVXn6ZYII=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/0.gif
+SHA-256-Digest: O0jlNjpZHGFowmXkun2RXBvkZY0h/eT0PF9o/sbjjDk=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterOut.class
+SHA-256-Digest: EdNVn+dP9PLjv0SXGCJTk/DnHh/l2XmmliU+nXezSSc=
+
+Name: mx/com/jammexico/jamcomponents/jamform/JAMFormConstantesMetodos.
+ class
+SHA-256-Digest: hRET6WWG/Z47OKcCbT1B7plFhI/SA1KV5H36xCuKfRw=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cajero.png
+SHA-256-Digest: eiRHzM69NTn3riDpJ+6p+6uMuV/61PxG9dt0q+RI7Ns=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMProgressBar$3.class
+SHA-256-Digest: 5MNzWxrFo7Laz4EVCezseFiPuMO+hx+kSFEAE95dzos=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/barcode.png
+SHA-256-Digest: TlG0UF7V+CWqJtQ3oRrIGiiTwHR/YK+j91IPEmDe9KQ=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/9.gif
+SHA-256-Digest: uV6wEfilLO4kpNRtvvDDtDL0ahCSBiaPkhibomNBP+w=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMAreaTexto$1.class
+SHA-256-Digest: QBCPVe/QLoOWshuKPct8o8+j4xxT/NfZWsqtei49ihc=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/vosmari.png
+SHA-256-Digest: VEdUFj+T54fcCGk/bADL65MWGFg75gOU/brM1qw1pas=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/printer/acrobat.png
+SHA-256-Digest: nth0ZqRaWYiLaBYGw3h5/UtPlu9Tbcd5ViTsmuRhkJM=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/jamvos/jam.png
+SHA-256-Digest: ofljfyDT8onjL9e+pKBaiZ6K2eQiXpNdXFIw6071+JM=
+
+Name: mx/com/jammexico/jamcomponents/jamdebuger/JAMDebuger$4.class
+SHA-256-Digest: G28p9Wtaql6tN2i+u2w57QdUNuTM6WBDcOwXkA3z8EM=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/reloj/separadorc.gif
+SHA-256-Digest: OpnFOsBPvtgkbfqALw4BJh1TxTaHWFDi6nY4niYObyQ=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGrid$3.class
+SHA-256-Digest: oOMstscCVbQc9iVdqwtkLdjI7PwYgG0LOhbOvTk+Ts0=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMSorteableItem.class
+SHA-256-Digest: j2MXEm01XOFuvco5qoUvCqBT2KkMDfrxPegybFBykv8=
+
+Name: mx/com/jammexico/jamcomponents/jamdebuger/JAMDebuger$3.class
+SHA-256-Digest: e2qZgMClN2UTPSwpUdotv1tlfS26MskhVmL/IVwUUs8=
+
+Name: mx/com/jammexico/jamcomponents/files/JAMChooserFile.class
+SHA-256-Digest: 1P+ZdmtwkRUMrF8dnvFL0zt8EPDdCIt2bqKFUIkb0SQ=
+
+Name: mx/com/jammexico/jamcomponents/jammail/JAMMail.class
+SHA-256-Digest: ZqW22lyJzYnNLJOTPgzcsMsyf9LQnnsUMSnZM9SfvDE=
+
+Name: mx/com/jammexico/jamcomponents/visual/JAMProgressBar$2.class
+SHA-256-Digest: hrLMiO73WEwkhBaPAclg0LFVFv1Ak6lF3ZriaVsSB6E=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMImageExplorerPressedEve
+ nt.class
+SHA-256-Digest: Y37QTDJJpyo0DqQ9P0cj94qXGOkBdYAaBlfrL4HKsOk=
+
+Name: mx/com/jammexico/jamcomponents/files/JAMLoadFile.class
+SHA-256-Digest: Z+ynPFWMVq+uS2lrCsrq+Iv0GjS0sw9WgQlibMf+qUg=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/toolbar/reporte_normal.
+ png
+SHA-256-Digest: VcL22HfLsiW6JxC0dCeTN+6FCbHrt8NkjyLQZIQMHYA=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/cantidad.png
+SHA-256-Digest: 91V1Be1mvf3EwfbimGMYjILYXSmAejh8dfRqVnA2ntI=
+
+Name: mx/com/jammexico/jamcomponents/jamtabpanel/CompositeIcon.class
+SHA-256-Digest: at92lCPxL3FmtwJe1y/cVQTqgKJr+GZTnvt6rap7JxU=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/pymes/inventarios.png
+SHA-256-Digest: Qaa16UGfJP5FGTGooXXlLQT7l3oyqr4Iu2KCwD3WUEs=
+
+Name: mx/com/jammexico/jamcomponents/events/JAMProgressBarPressedEvent
+ .class
+SHA-256-Digest: 8csOOKTDMeb8l07jAZH69ebfDPy3ph63WMsMioEn4WQ=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGridMarcadores.class
+SHA-256-Digest: RsqcJfOQ5uDg/ugQbqnhhVoAMRPVeErqc4wzvOOq+FE=
+
+Name: mx/com/jammexico/jamcomponents/printer/JAMPrinterWhere$1.class
+SHA-256-Digest: TXuYsd4mzXl1xWhIdYy4bIcL8qaClqSA3c6lguPpz3g=
+
+Name: mx/com/jammexico/jamcomponents/jamgrid/JAMGrid$2.class
+SHA-256-Digest: ObnFjdcu6z4TfpEXI/4G8+l8rdqMlVFt/NTHjKxFaGw=
+
+Name: mx/com/jammexico/jamcomponents/jamimages/archivos/pngIcon.png
+SHA-256-Digest: aCq6KOGUkHtPs36CXxZisESdEkf8b//rQJa8nqXhp7g=
+

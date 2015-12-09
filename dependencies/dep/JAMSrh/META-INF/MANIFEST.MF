@@ -1,0 +1,153 @@
+Manifest-Version: 1.0
+Application-Name: JAM&VOS ver 3.0 (Tecnologia de Vanguardia Mexicana)
+Permissions: all-permissions
+Codebase: officenet2.info
+Created-By: 1.8.0_31 (Oracle Corporation)
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiRecibo$2.class
+SHA-256-Digest: s/6p+AU3gR70lLy1y68hp6qSNvdeKbtvqBMebcYtYaE=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Cfdi$4.class
+SHA-256-Digest: N6yOu/rVo3gVNQkzrf+ZsPIZeEDNXJSOImXB3mFBxK8=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$3.class
+SHA-256-Digest: djG/vs8MSK+JAC/0eq8i1ro4IpFImChKiBwlmM7WzhM=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$7.class
+SHA-256-Digest: 0DWV3sjKM1qCQSl7ZLpyOCW792235ia8g3jYJVETBAQ=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiConceptos$1.class
+SHA-256-Digest: gfYvBMyJuo4gYCmhxDlQ0ZHTWjvtb0aZUrwTOk6L0nw=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Cfdi$1.class
+SHA-256-Digest: kpABqlotQ59paSV0yeM8UrjvPK9NJzULW73Ra8iTttw=
+
+Name: mx/com/jammexico/jamsrh/SrhRelo01.class
+SHA-256-Digest: INkO52e79Acs0/JdJemJbx+0XRgSv6IABm3/eIiwaZ4=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$3.class
+SHA-256-Digest: r4tpx4NOs2Byt9RZfXCRXS+T7oOywSl+V0fm2kLg/qU=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Detalles$3.class
+SHA-256-Digest: tn1sA1xQEYgZlCQfUg3AK2GYy52l6ihx2PsFsFMANSA=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$6.class
+SHA-256-Digest: KNgpwxJDNk/oiM+4wxIr/74LfFBLoaRLWFP1lxKFIHI=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiInputGrillas$1.class
+SHA-256-Digest: wApxi2B8I1jQ5RUusnNrV+9JIsicFb8zOqexRAJsag8=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiConceptos$4.class
+SHA-256-Digest: iS+S4tgJAGXlTCPRZEF+ajwhR15HR/DERfiudbw+cuo=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Detalles$1.class
+SHA-256-Digest: dWMS1vqMmlUVJy5EsICJ9YLraDrtrFydszOsL8EiHYw=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Detalles.class
+SHA-256-Digest: QQvKdSZ6sve5Bdw0Ni4ZTTL3617EYY9Vfoqu9+1YnGc=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$4.class
+SHA-256-Digest: Um0XsIzE1GtRG9GKC1inbgXyKWKNmB/UkBm8np5+Kyw=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiRecibo$1.class
+SHA-256-Digest: osMJ214tuXCze70JdnD74CRnsmiwl70EuKUKjyrQ1pg=
+
+Name: mx/com/jammexico/jamsrh/Srhmain10Sub1314.class
+SHA-256-Digest: Qjblsz58NLPQJN/wu44wy0fR0htyFqxzWw6OY64L+74=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$1.class
+SHA-256-Digest: oiuhmfD6bRQnPYKbIK3dij6+2nKlJ6eCaoaAeHuxjWo=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiConceptos$2.class
+SHA-256-Digest: Xyw5D53ARISds+2bxhCCNkWR/gK1lsVqHs/hx1N4WN0=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$7.class
+SHA-256-Digest: aeIJeCoSjUKX5l1ozqHZKDqsy43gvI8+S7XK6qsstjw=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiInputGrillas$3.class
+SHA-256-Digest: EVKdIZZnus/nskXm1SAt7ToYx02/oK/cHd0dQzW5igY=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$4.class
+SHA-256-Digest: DvCTAo+jFoP79uGqbibOot97TfYnx+kc381Ohr1dHmg=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Detalles$4.class
+SHA-256-Digest: cogw1l+TBWOAERgU2uPwhq3HlMO+rvo6cYN5Lf6kVDY=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiConceptos$3.class
+SHA-256-Digest: KIxs6Yldr6Km/AAt5ziibL88G5TLQkSb4LBcKCUYV2E=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$5.class
+SHA-256-Digest: pYUm46e7SMiv/qA6epmzXiaemSH9e0KL9pa8EfM57AE=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiInputGrillas$2.class
+SHA-256-Digest: u4/5xB2FfzJ/C85hLlaqu3jePK0qMM2x1wCH4uLWc54=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$8.class
+SHA-256-Digest: EMl9/HeJ0vrlLu4ff21HRCzzV0DcFdenOsXe2hCCj4k=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Detalles$2.class
+SHA-256-Digest: w6ZPx+5PgsCNB3Tkzh2+O1IeSrzDJmSe0HR6oow2DrE=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01.class
+SHA-256-Digest: fgqBTBHcZ8rPANpFBPvRhzMc4C5ZE/UyspNAMmVDCf8=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Cfdi$6.class
+SHA-256-Digest: Q3IkEBBvlkwleVy8VALr/4VcH9JFWpt6xTp0f0kZUsY=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$2.class
+SHA-256-Digest: sPWGH7tSp100gdRSAmQUf3QPS718Kemv1+QLUaago/s=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$1.class
+SHA-256-Digest: 7NryMHRr6voKqmatnmTrGqHBCTaQcYj81Rl20qNKAsE=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiRecibo$4.class
+SHA-256-Digest: ky+q6NX2xsjF0P3VNWaxg1dNYx7gG+2Tvw/Ytc0pz8s=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$8.class
+SHA-256-Digest: PybyST6AMHMHeNyeSUDKAf9//vhwXI5XgA/KXNcN/Bg=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$9.class
+SHA-256-Digest: s0DU9K6mcpreLdpxqb/NBK06ZfeVRtXKT4xdkMj8Mmo=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Cfdi$3.class
+SHA-256-Digest: eO+vIZmrVlZ7rxcIZlydyXzurpR9utaUt3yhPwwNXH8=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiConceptos.class
+SHA-256-Digest: xW8PX8dVrmGI/aWL2vo2daW/NHLuQQp7DCIl0YpvrbI=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiInputGrillas.class
+SHA-256-Digest: 2vv8v75Kj24Ehs5is8VTggOsYMYEYVMJkjLk9RRgTh8=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiRecibo$3.class
+SHA-256-Digest: BJyqA/Vq2EArV3w8hRq/3WsFzE2wbLlOzotIf6NxW30=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01CfdiRecibo.class
+SHA-256-Digest: UTT9AjYvYDJTO4piFcHFNKEUFcZRWrxQ8pITSvZfjA0=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$2.class
+SHA-256-Digest: xJaJhpZPTXe2+4dkNle20zqwAX3FEkoO4Eg+TP0f0/k=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Cfdi.class
+SHA-256-Digest: JoRfwoXSljdIdjjPeCHOxPO+OQQKYZM7D/8XAhTcbq8=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Cfdi$5.class
+SHA-256-Digest: KDaARi3hBBp2k4Hwheeyu2wKY690dlQ27+h7jzNe/rE=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$6.class
+SHA-256-Digest: cJ4l935HSIQg3RdBP9AyhRMZWaaHwl5HxR6WrwSUZTE=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10$9.class
+SHA-256-Digest: czoiVH6sc03oBJIrf45N2aGsmJyKwnjvh6zhGzLjQnQ=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01Cfdi$2.class
+SHA-256-Digest: 4rsvUpFTPyEyyAwErnOp+uKY+RO4gpQfCcz5EI5X+RU=
+
+Name: mx/com/jammexico/jamsrh/Srhmain10Sub1112.class
+SHA-256-Digest: qQ1e0NXDll31/Tie7ol8onHLKf53bkaJPFHyLIKUH1A=
+
+Name: mx/com/jammexico/jamsrh/SrhNomi01$5.class
+SHA-256-Digest: XVJwk2BCCiRxjK3q34zuwhSTHq5+zDFnRTo9Fp5rClQ=
+
+Name: mx/com/jammexico/jamsrh/SrhMain10.class
+SHA-256-Digest: VEEQv0Uic3gcYs/NLZyedp4c7dGTaBv/yluTkqk1Wso=
+
